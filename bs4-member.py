@@ -3,6 +3,7 @@ import urllib
 import requests
 import json
 import re
+import time
 from utility import download_image
 
 
@@ -13,7 +14,7 @@ def add_host(str: str) -> str:
 def get_profile_url_list() -> list:
     # https://n46db.com/saka/saka-memberlist.php?graduated=yes
     list_url = "https://n46db.com/saka/saka-memberlist.php?graduated=yes"
-    soup = BeautifulSoup(requests.get(url).content, "lxml")
+    soup = BeautifulSoup(requests.get(list_url).content, "lxml")
     #
     table = soup.find_all("table")[4]  # , class_="blueopta")[0]
 
@@ -25,7 +26,16 @@ def get_profile_url_list() -> list:
                 url = urllib.parse.urljoin(list_url, a.get("href"))
                 profile_url_list.append(url)
 
-    print(profile_url_list)
+    return profile_url_list
+
+
+def download_gallery(url: str):
+    soup = BeautifulSoup(requests.get(url).content, "lxml")
+    img_list = soup.find_all("img")
+    for img in img_list:
+        src = add_host(img.get("src"))
+        if "button" not in src:
+            download_image(src)
 
 
 def get_profile(url: str) -> dict:
@@ -42,19 +52,18 @@ def get_profile(url: str) -> dict:
     td_list = soup.find_all("td")
     for td in td_list:
         text = td.get_text()
-
+        if "生年月日:" in text:
+            match = re.findall(r"\d+", text)
+            result["birthday"] = f"{match[0]}-{match[1].zfill(2)}-{match[2].zfill(2)}"
         if "血液型:" in text:
             result["blood_type"] = text.replace("血液型:", "").strip().replace("型", "")
         if "出身地:" in text:
             result["hometown"] = text.replace("出身地:", "").strip()
-
         if "加入期:" in text:
-            result["generation"] = text.replace("加入期:", "").strip().replace("期", "")
+            match = re.findall(r"\d+", text)
+            result["generation"] = f"{match[0]}"
         if "身長:" in text:
             result["height"] = text.replace("身長:", "").strip().replace("cm", "")
-        if "あだ名:" in text:
-            result["nickname"] = text.replace("あだ名:", "").strip()
-            result["comment"] = td.findNext("td").get_text().strip()
     grad_date = soup.find_all("span", attrs={"style": "color:red"})
     if grad_date:
         result["grad_date"] = grad_date[0].get_text()[-10:]
@@ -64,15 +73,14 @@ def get_profile(url: str) -> dict:
         src = add_host(img.get("src"))
         if "button" not in src:
             download_image(src)
+
     if "saka" in url:
         td_list = soup.find_all("td")
         for td in td_list:
             text = td.get_text()
-            if "生年月日:" in text:
-                birthday = re.sub(
-                    r"[年月日\s]|(（\d+ 歳）)", "", text.replace("生年月日:", "").strip()
-                )
-                result["birthday"] = f"{birthday[0:4]}-{birthday[4:6]}-{birthday[6:8]}"
+            if "あだ名:" in text:
+                result["nickname"] = text.replace("あだ名:", "").strip()
+                result["comment"] = td.findNext("td").get_text().strip()
             if "グループ:" in text:
                 if "櫻坂" in text:
                     result["group"] = "kesa"
@@ -84,26 +92,41 @@ def get_profile(url: str) -> dict:
         td_list = soup.find_all("td")
         for td in td_list:
             text = td.get_text()
-            if "生年月日:" in text:
-                match = re.findall(r"\d+", text)
-                result[
-                    "birthday"
-                ] = f"{match[0]}-{match[1].zfill(2)}-{match[2].zfill(2)}"
-            if "グループ:" in text:
-                if "櫻坂" in text:
-                    result["group"] = "kesa"
-                if "日向" in text:
-                    result["group"] = "hi"
+            result["group"] = "no"
+            if "あだ名:" in text:
+                result["nickname"] = text.replace("あだ名:", "").strip()
+            if "兄弟:" in text:
+                family = []
+                for word in re.split(r"\/|\.", str(td)):
+                    if "unknown" in word:
+                        family.append("unknown")
+                    elif "onlychild" in word:
+                        family.append("only_child")
+                    elif "lilbro" in word:
+                        family.append("younger_brother")
+                    elif "lilsis" in word:
+                        family.append("younger_sister")
+                    elif "bigbro" in word:
+                        family.append("elder_brother")
+                    elif "bigsis" in word:
+                        family.append("elder_sister")
+                result["family"] = family
+            if "サイリウム:" in text:
+                result["color"] = text.replace("サイリウム:", "").strip()
+        download_gallery(url.replace("profile.php", "members/membergallery.php"))
     return result
-
-
-print(get_profile("https://n46db.com/profile.php?id=8"))
 
 
 def main():
     result = []
     profile_url_list = get_profile_url_list()
     for url in profile_url_list:
-        result.append(get_profile(url))
-    with open("members.json", "w") as file:
-        json.dump(result, file, ensure_ascii=False, indent=2)
+        profile = get_profile(url)
+        print(profile["member_name_kanji"])
+        result.append(profile)
+        time.sleep(3)
+        with open("members.json", "w") as file:
+            json.dump(result, file, ensure_ascii=False, indent=2)
+
+
+main()

@@ -1,0 +1,2360 @@
+[
+  {
+    "member_name_romaji": "Iwase Yumiko",
+    "member_name_kanji": "岩瀬 佑美子",
+    "birthday": "1990-06-12",
+    "blood_type": "A",
+    "hometown": "埼玉県",
+    "generation": "1",
+    "height": "153",
+    "grad_date": "2012-11-18",
+    "group": "no",
+    "nickname": "ゆみ姉",
+    "family": [
+      "unknown"
+    ]
+  },
+  {
+    "member_name_romaji": "Fukagawa Mai",
+    "member_name_kanji": "深川 麻衣",
+    "birthday": "1991-03-29",
+    "blood_type": "O",
+    "hometown": "静岡県",
+    "generation": "1",
+    "height": "162",
+    "grad_date": "2016-06-16",
+    "group": "no",
+    "nickname": "その他の 聖母（命名：川後）",
+    "family": [
+      "unknown"
+    ],
+    "color": "緑紫"
+  },
+  {
+    "member_name_romaji": "Matsui Rena",
+    "member_name_kanji": "松井 玲奈",
+    "birthday": "1991-07-27",
+    "blood_type": "O",
+    "hometown": "愛知県",
+    "generation": "0",
+    "height": "162",
+    "grad_date": "2015-04-12",
+    "group": "no",
+    "nickname": "れな",
+    "family": [
+      "unknown"
+    ]
+  },
+  {
+    "member_name_romaji": "Shinuchi Mai",
+    "member_name_kanji": "新内 眞衣",
+    "birthday": "1992-01-22",
+    "blood_type": "B",
+    "hometown": "埼玉県",
+    "generation": "2",
+    "height": "165",
+    "grad_date": "2022-02-10",
+    "group": "no",
+    "nickname": "その他の BBA、水泥棒（元勤務先でのあだ名）",
+    "family": [
+      "only_child"
+    ],
+    "color": "青紫"
+  },
+  {
+    "member_name_romaji": "Shiraishi Mai",
+    "member_name_kanji": "白石 麻衣",
+    "birthday": "1992-08-20",
+    "blood_type": "A",
+    "hometown": "群馬県",
+    "generation": "1",
+    "height": "162",
+    "grad_date": "2020-10-28",
+    "group": "no",
+    "nickname": "まいやん",
+    "family": [
+      "elder_sister"
+    ],
+    "color": "水色水色"
+  },
+  {
+    "member_name_romaji": "Matsumura Sayuri",
+    "member_name_kanji": "松村 沙友理",
+    "birthday": "1992-08-27",
+    "blood_type": "B",
+    "hometown": "大阪府",
+    "generation": "1",
+    "height": "164",
+    "grad_date": "2021-07-13",
+    "group": "no",
+    "nickname": "その他の さゆりんご、まっつん",
+    "family": [
+      "elder_sister",
+      "younger_brother"
+    ],
+    "color": "赤赤"
+  },
+  {
+    "member_name_romaji": "Eto Misa",
+    "member_name_kanji": "衛藤 美彩",
+    "birthday": "1993-01-04",
+    "blood_type": "AB",
+    "hometown": "大分県",
+    "generation": "1",
+    "height": "163",
+    "grad_date": "2019-03-31",
+    "group": "no",
+    "nickname": "その他の みさ先輩",
+    "family": [
+      "elder_brother",
+      "younger_brother"
+    ],
+    "color": "赤紫"
+  },
+  {
+    "member_name_romaji": "Hashimoto Nanami",
+    "member_name_kanji": "橋本 奈々未",
+    "birthday": "1993-02-20",
+    "blood_type": "B",
+    "hometown": "北海道",
+    "generation": "1",
+    "height": "163",
+    "grad_date": "2017-02-20",
+    "group": "no",
+    "nickname": "ななみん",
+    "family": [
+      "younger_brother"
+    ],
+    "color": "緑緑"
+  },
+  {
+    "member_name_romaji": "Ando Mikumo",
+    "member_name_kanji": "安藤 美雲",
+    "birthday": "1993-05-21",
+    "blood_type": "O",
+    "hometown": "神奈川県",
+    "generation": "1",
+    "height": "156",
+    "grad_date": "2013-04-29",
+    "group": "no",
+    "nickname": "",
+    "family": [
+      "unknown"
+    ]
+  },
+  {
+    "member_name_romaji": "Ito Karin",
+    "member_name_kanji": "伊藤 かりん",
+    "birthday": "1993-05-26",
+    "blood_type": "O",
+    "hometown": "神奈川県",
+    "generation": "2",
+    "height": "153",
+    "grad_date": "2019-05-24",
+    "group": "no",
+    "nickname": "かりんちゃん",
+    "family": [
+      "elder_sister"
+    ],
+    "color": "緑紫"
+  },
+  {
+    "member_name_romaji": "Saito Yuuri",
+    "member_name_kanji": "斉藤 優里",
+    "birthday": "1993-07-20",
+    "blood_type": "O",
+    "hometown": "東京都",
+    "generation": "1",
+    "height": "157",
+    "grad_date": "2019-06-30",
+    "group": "no",
+    "nickname": "ゆったん",
+    "family": [
+      "younger_brother"
+    ],
+    "color": "ピンク白"
+  },
+  {
+    "member_name_romaji": "Akimoto Manatsu",
+    "member_name_kanji": "秋元 真夏",
+    "birthday": "1993-08-20",
+    "blood_type": "B",
+    "hometown": "埼玉県",
+    "generation": "1",
+    "height": "154",
+    "grad_date": "2023-02-26",
+    "group": "no",
+    "nickname": "その他の まなつ、真夏さん",
+    "family": [
+      "younger_brother"
+    ],
+    "color": "ピンク赤"
+  },
+  {
+    "member_name_romaji": "Miyazawa Seira",
+    "member_name_kanji": "宮澤 成良",
+    "birthday": "1993-10-29",
+    "blood_type": "O",
+    "hometown": "千葉県",
+    "generation": "1",
+    "height": "166",
+    "grad_date": "2013-11-17",
+    "group": "no",
+    "nickname": "せっちゃん",
+    "family": [
+      "unknown"
+    ]
+  },
+  {
+    "member_name_romaji": "Takayama Kazumi",
+    "member_name_kanji": "高山 一実",
+    "birthday": "1994-02-08",
+    "blood_type": "A",
+    "hometown": "千葉県",
+    "generation": "1",
+    "height": "162",
+    "grad_date": "2021-11-21",
+    "group": "no",
+    "nickname": "かずみん",
+    "family": [
+      "younger_brother"
+    ],
+    "color": "水色ピンク"
+  },
+  {
+    "member_name_romaji": "Sakurai Reika",
+    "member_name_kanji": "桜井 玲香",
+    "birthday": "1994-05-16",
+    "blood_type": "A",
+    "hometown": "神奈川県",
+    "generation": "1",
+    "height": "155",
+    "grad_date": "2019-09-01",
+    "group": "no",
+    "nickname": "その他の キャップ",
+    "family": [
+      "only_child"
+    ],
+    "color": "赤ピンク"
+  },
+  {
+    "member_name_romaji": "Nagashima Seira",
+    "member_name_kanji": "永島 聖羅",
+    "birthday": "1994-05-19",
+    "blood_type": "O",
+    "hometown": "愛知県",
+    "generation": "1",
+    "height": "158",
+    "grad_date": "2016-03-20",
+    "group": "no",
+    "nickname": "らりん",
+    "family": [
+      "unknown"
+    ]
+  },
+  {
+    "member_name_romaji": "Nishino Nanase",
+    "member_name_kanji": "西野 七瀬",
+    "birthday": "1994-05-25",
+    "blood_type": "O",
+    "hometown": "大阪府",
+    "generation": "1",
+    "height": "159",
+    "grad_date": "2019-02-24",
+    "group": "no",
+    "nickname": "その他の なーちゃん、ななせまる",
+    "family": [
+      "elder_brother"
+    ],
+    "color": "緑白"
+  },
+  {
+    "member_name_romaji": "Wakatsuki Yumi",
+    "member_name_kanji": "若月 佑美",
+    "birthday": "1994-06-27",
+    "blood_type": "O",
+    "hometown": "静岡県",
+    "generation": "1",
+    "height": "157",
+    "grad_date": "2018-11-30",
+    "group": "no",
+    "nickname": "その他の 若様、わかちゅき",
+    "family": [
+      "elder_brother",
+      "elder_sister"
+    ],
+    "color": "青青"
+  },
+  {
+    "member_name_romaji": "Nakada Kana",
+    "member_name_kanji": "中田 花奈",
+    "birthday": "1994-08-06",
+    "blood_type": "A",
+    "hometown": "埼玉県",
+    "generation": "1",
+    "height": "158",
+    "grad_date": "2020-10-25",
+    "group": "no",
+    "nickname": "かなりん",
+    "family": [
+      "only_child"
+    ],
+    "color": "黒白"
+  },
+  {
+    "member_name_romaji": "Kashiwa Yukina",
+    "member_name_kanji": "柏 幸奈",
+    "birthday": "1994-08-12",
+    "blood_type": "B",
+    "hometown": "神奈川県",
+    "generation": "1",
+    "height": "158",
+    "grad_date": "2013-11-17",
+    "group": "no",
+    "nickname": "その他の ゆきなし",
+    "family": [
+      "unknown"
+    ]
+  },
+  {
+    "member_name_romaji": "Noujo Ami",
+    "member_name_kanji": "能條 愛未",
+    "birthday": "1994-10-18",
+    "blood_type": "A",
+    "hometown": "神奈川県",
+    "generation": "1",
+    "height": "163",
+    "grad_date": "2018-12-15",
+    "group": "no",
+    "nickname": "その他の じょーさん、あみちゃん先輩",
+    "family": [
+      "only_child"
+    ],
+    "color": "オレンジオレンジ"
+  },
+  {
+    "member_name_romaji": "Inoue Sayuri",
+    "member_name_kanji": "井上 小百合",
+    "birthday": "1994-12-14",
+    "blood_type": "B",
+    "hometown": "埼玉県",
+    "generation": "1",
+    "height": "156",
+    "grad_date": "2020-04-27",
+    "group": "no",
+    "nickname": "その他の さゆ",
+    "family": [
+      "elder_brother",
+      "elder_brother",
+      "elder_brother",
+      "younger_sister"
+    ],
+    "color": "白白"
+  },
+  {
+    "member_name_romaji": "Yamato Rina",
+    "member_name_kanji": "大和 里菜",
+    "birthday": "1994-12-14",
+    "blood_type": "O",
+    "hometown": "宮城県",
+    "generation": "1",
+    "height": "162",
+    "grad_date": "2014-12-15",
+    "group": "no",
+    "nickname": "とまと",
+    "family": [
+      "unknown"
+    ]
+  },
+  {
+    "member_name_romaji": "Watanabe Rika",
+    "member_name_kanji": "渡辺 梨加",
+    "birthday": "1995-05-16",
+    "blood_type": "O",
+    "hometown": "茨城県",
+    "generation": "1",
+    "height": "166.5",
+    "grad_date": "2021-12-19",
+    "nickname": "",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Kawamura Mahiro",
+    "member_name_kanji": "川村 真洋",
+    "birthday": "1995-07-23",
+    "blood_type": "A",
+    "hometown": "大阪府",
+    "generation": "1",
+    "height": "156",
+    "grad_date": "2018-03-31",
+    "group": "no",
+    "nickname": "ろってぃー",
+    "family": [
+      "elder_sister"
+    ],
+    "color": "赤赤"
+  },
+  {
+    "member_name_romaji": "Yoshida Ayano Christie",
+    "member_name_kanji": "吉田 綾乃ｸﾘｽﾃｨｰ",
+    "birthday": "1995-09-06",
+    "blood_type": "A",
+    "hometown": "大分県",
+    "generation": "3",
+    "height": "161",
+    "group": "no",
+    "nickname": "あやてぃー",
+    "family": [
+      "younger_brother"
+    ],
+    "color": "ピンク紫"
+  },
+  {
+    "member_name_romaji": "Iguchi Mao",
+    "member_name_kanji": "井口 眞緒",
+    "birthday": "1995-11-10",
+    "blood_type": "AB",
+    "hometown": "新潟県",
+    "generation": "1",
+    "height": "163.0",
+    "grad_date": "2020-03-02",
+    "nickname": "",
+    "comment": "",
+    "group": "hi"
+  },
+  {
+    "member_name_romaji": "Sugai Yuuka",
+    "member_name_kanji": "菅井 友香",
+    "birthday": "1995-11-29",
+    "blood_type": "AB",
+    "hometown": "東京都",
+    "generation": "1",
+    "height": "165.0",
+    "grad_date": "2022-11-09",
+    "nickname": "ゆっかー",
+    "comment": "櫻坂46キャプテン",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Hatanaka Seira",
+    "member_name_kanji": "畠中 清羅",
+    "birthday": "1995-12-05",
+    "blood_type": "B",
+    "hometown": "大分県",
+    "generation": "1",
+    "height": "150",
+    "grad_date": "2015-04-04",
+    "group": "no",
+    "nickname": "せいたん",
+    "family": [
+      "younger_sister"
+    ],
+    "color": "ピンク青"
+  },
+  {
+    "member_name_romaji": "Ito Nene",
+    "member_name_kanji": "伊藤 寧々",
+    "birthday": "1995-12-12",
+    "blood_type": "B",
+    "hometown": "岐阜県",
+    "generation": "1",
+    "height": "148",
+    "grad_date": "2014-10-19",
+    "group": "no",
+    "nickname": "ねねころ",
+    "family": [
+      "unknown"
+    ],
+    "color": "ピンクオレンジ"
+  },
+  {
+    "member_name_romaji": "Ikoma Rina",
+    "member_name_kanji": "生駒 里奈",
+    "birthday": "1995-12-29",
+    "blood_type": "AB",
+    "hometown": "秋田県",
+    "generation": "1",
+    "height": "153",
+    "grad_date": "2018-05-06",
+    "group": "no",
+    "nickname": "いこまちゃん",
+    "family": [
+      "younger_brother"
+    ],
+    "color": "青紫"
+  },
+  {
+    "member_name_romaji": "Ichiki Rena",
+    "member_name_kanji": "市來 玲奈",
+    "birthday": "1996-01-22",
+    "blood_type": "A",
+    "hometown": "千葉県",
+    "generation": "1",
+    "height": "153",
+    "grad_date": "2014-07-21",
+    "group": "no",
+    "nickname": "れなりん",
+    "family": [
+      "unknown"
+    ]
+  },
+  {
+    "member_name_romaji": "Sasaki Kumi",
+    "member_name_kanji": "佐々木 久美",
+    "birthday": "1996-01-22",
+    "blood_type": "O",
+    "hometown": "千葉県",
+    "generation": "1",
+    "height": "167.5",
+    "nickname": "くみてん",
+    "comment": "日向坂46キャプテン",
+    "group": "hi"
+  },
+  {
+    "member_name_romaji": "Ito Marika",
+    "member_name_kanji": "伊藤 万理華",
+    "birthday": "1996-02-20",
+    "blood_type": "O",
+    "hometown": "神奈川県",
+    "generation": "1",
+    "height": "156",
+    "grad_date": "2017-12-23",
+    "group": "no",
+    "nickname": "まりっか",
+    "family": [
+      "elder_brother"
+    ],
+    "color": "緑紫"
+  },
+  {
+    "member_name_romaji": "Nakamoto Himeka",
+    "member_name_kanji": "中元 日芽香",
+    "birthday": "1996-04-13",
+    "blood_type": "O",
+    "hometown": "広島県",
+    "generation": "1",
+    "height": "161",
+    "grad_date": "2017-12-31",
+    "group": "no",
+    "nickname": "ひめたん",
+    "family": [
+      "elder_sister",
+      "younger_sister"
+    ],
+    "color": "ピンクピンク"
+  },
+  {
+    "member_name_romaji": "Kitano Hinako",
+    "member_name_kanji": "北野 日奈子",
+    "birthday": "1996-07-17",
+    "blood_type": "O",
+    "hometown": "北海道",
+    "generation": "2",
+    "height": "158",
+    "grad_date": "2022-03-24",
+    "group": "no",
+    "nickname": "きいちゃん",
+    "family": [
+      "elder_brother",
+      "younger_sister"
+    ],
+    "color": "ピンク黄緑"
+  },
+  {
+    "member_name_romaji": "Hori Miona",
+    "member_name_kanji": "堀 未央奈",
+    "birthday": "1996-10-15",
+    "blood_type": "O",
+    "hometown": "岐阜県",
+    "generation": "2",
+    "height": "162",
+    "grad_date": "2021-03-28",
+    "group": "no",
+    "nickname": "その他の ほっちゃん、ほりちゃん",
+    "family": [
+      "elder_sister"
+    ],
+    "color": "オレンジ白"
+  },
+  {
+    "member_name_romaji": "Sato Shiori",
+    "member_name_kanji": "佐藤 詩織",
+    "birthday": "1996-11-16",
+    "blood_type": "A",
+    "hometown": "東京都",
+    "generation": "1",
+    "height": "161.0",
+    "grad_date": "2020-10-13",
+    "nickname": "",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Uemura Rina",
+    "member_name_kanji": "上村 莉菜",
+    "birthday": "1997-01-04",
+    "blood_type": "O",
+    "hometown": "千葉県",
+    "generation": "1",
+    "height": "153.5",
+    "nickname": "うえむー",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Ikuta Erika",
+    "member_name_kanji": "生田 絵梨花",
+    "birthday": "1997-01-22",
+    "blood_type": "A",
+    "hometown": "東京都",
+    "generation": "1",
+    "height": "160",
+    "grad_date": "2021-12-31",
+    "group": "no",
+    "nickname": "その他の エリカ様、たそ",
+    "family": [
+      "elder_sister"
+    ],
+    "color": "黄色黄色"
+  },
+  {
+    "member_name_romaji": "Saito Chiharu",
+    "member_name_kanji": "斎藤 ちはる",
+    "birthday": "1997-02-17",
+    "blood_type": "A",
+    "hometown": "埼玉県",
+    "generation": "1",
+    "height": "166",
+    "grad_date": "2018-07-16",
+    "group": "no",
+    "nickname": "その他の ちーちゃん",
+    "family": [
+      "younger_sister"
+    ],
+    "color": "赤青"
+  },
+  {
+    "member_name_romaji": "Nagasawa Nanako",
+    "member_name_kanji": "長沢 菜々香",
+    "birthday": "1997-04-23",
+    "blood_type": "A",
+    "hometown": "山形県",
+    "generation": "1",
+    "height": "158.0",
+    "grad_date": "2020-03-31",
+    "nickname": "",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Ishimori Nijika",
+    "member_name_kanji": "石森 虹花",
+    "birthday": "1997-05-07",
+    "blood_type": "A",
+    "hometown": "宮城県",
+    "generation": "1",
+    "height": "162.7",
+    "grad_date": "2020-09-30",
+    "nickname": "",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Yamazaki Rena",
+    "member_name_kanji": "山崎 怜奈",
+    "birthday": "1997-05-21",
+    "blood_type": "B",
+    "hometown": "東京都",
+    "generation": "2",
+    "height": "164",
+    "grad_date": "2022-07-17",
+    "group": "no",
+    "nickname": "れなち",
+    "family": [
+      "only_child"
+    ],
+    "color": "黄色白"
+  },
+  {
+    "member_name_romaji": "Habu Mizuho",
+    "member_name_kanji": "土生 瑞穂",
+    "birthday": "1997-07-07",
+    "blood_type": "A",
+    "hometown": "東京都",
+    "generation": "1",
+    "height": "171.6",
+    "nickname": "はぶちゃん",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Saito Kyoko",
+    "member_name_kanji": "齊藤 京子",
+    "birthday": "1997-09-05",
+    "blood_type": "A",
+    "hometown": "東京都",
+    "generation": "1",
+    "height": "155.7",
+    "nickname": "きょんこ",
+    "comment": "",
+    "group": "hi"
+  },
+  {
+    "member_name_romaji": "Ozeki Rika",
+    "member_name_kanji": "尾関 梨香",
+    "birthday": "1997-10-07",
+    "blood_type": "O",
+    "hometown": "神奈川県",
+    "generation": "1",
+    "height": "156.5",
+    "grad_date": "2022-09-11",
+    "nickname": "おぜき",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Moriya Akane",
+    "member_name_kanji": "守屋 茜",
+    "birthday": "1997-11-12",
+    "blood_type": "A",
+    "hometown": "宮城県",
+    "generation": "1",
+    "height": "163.5",
+    "grad_date": "2021-12-19",
+    "nickname": "",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Sagara Iori",
+    "member_name_kanji": "相楽 伊織",
+    "birthday": "1997-11-26",
+    "blood_type": "O",
+    "hometown": "埼玉県",
+    "generation": "2",
+    "height": "164",
+    "grad_date": "2018-07-16",
+    "group": "no",
+    "nickname": "いおり",
+    "family": [
+      "elder_sister"
+    ],
+    "color": "緑オレンジ"
+  },
+  {
+    "member_name_romaji": "Suzumoto Miyu",
+    "member_name_kanji": "鈴本 美愉",
+    "birthday": "1997-12-05",
+    "blood_type": "AB",
+    "hometown": "愛知県",
+    "generation": "1",
+    "height": "155.0",
+    "grad_date": "2020-01-23",
+    "nickname": "",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Ushio Sarina",
+    "member_name_kanji": "潮 紗理菜",
+    "birthday": "1997-12-26",
+    "blood_type": "O",
+    "hometown": "神奈川県",
+    "generation": "1",
+    "height": "158.2",
+    "nickname": "うしし、なっちょ",
+    "comment": "",
+    "group": "hi"
+  },
+  {
+    "member_name_romaji": "Higuchi Hina",
+    "member_name_kanji": "樋口 日奈",
+    "birthday": "1998-01-31",
+    "blood_type": "A",
+    "hometown": "東京都",
+    "generation": "1",
+    "height": "161",
+    "grad_date": "2022-10-31",
+    "group": "no",
+    "nickname": "ひなちま",
+    "family": [
+      "elder_sister",
+      "elder_sister"
+    ],
+    "color": "紫オレンジ"
+  },
+  {
+    "member_name_romaji": "Kato Shiho",
+    "member_name_kanji": "加藤 史帆",
+    "birthday": "1998-02-02",
+    "blood_type": "A",
+    "hometown": "東京都",
+    "generation": "1",
+    "height": "160.7",
+    "nickname": "かとし、としちゃん",
+    "comment": "",
+    "group": "hi"
+  },
+  {
+    "member_name_romaji": "Hoshino Minami",
+    "member_name_kanji": "星野 みなみ",
+    "birthday": "1998-02-06",
+    "blood_type": "B",
+    "hometown": "千葉県",
+    "generation": "1",
+    "height": "155",
+    "grad_date": "2022-02-12",
+    "group": "no",
+    "nickname": "みなみ",
+    "family": [
+      "younger_sister"
+    ],
+    "color": "白白"
+  },
+  {
+    "member_name_romaji": "Saito Fuyuka",
+    "member_name_kanji": "齋藤 冬優花",
+    "birthday": "1998-02-15",
+    "blood_type": "O",
+    "hometown": "東京都",
+    "generation": "1",
+    "height": "158.0",
+    "nickname": "ふーちゃん",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Kawago Hina",
+    "member_name_kanji": "川後 陽菜",
+    "birthday": "1998-03-22",
+    "blood_type": "O",
+    "hometown": "長崎県",
+    "generation": "1",
+    "height": "158",
+    "grad_date": "2018-12-20",
+    "group": "no",
+    "nickname": "その他の 川後P、てぃーちゃん",
+    "family": [
+      "younger_brother"
+    ],
+    "color": ""
+  },
+  {
+    "member_name_romaji": "Sato Kaede",
+    "member_name_kanji": "佐藤 楓",
+    "birthday": "1998-03-23",
+    "blood_type": "A",
+    "hometown": "愛知県",
+    "generation": "3",
+    "height": "161",
+    "group": "no",
+    "nickname": "でんちゃん",
+    "family": [
+      "only_child"
+    ],
+    "color": "赤赤"
+  },
+  {
+    "member_name_romaji": "Wada Maaya",
+    "member_name_kanji": "和田 まあや",
+    "birthday": "1998-04-23",
+    "blood_type": "O",
+    "hometown": "広島県",
+    "generation": "1",
+    "height": "161",
+    "grad_date": "2022-12-04",
+    "group": "no",
+    "nickname": "まあや",
+    "family": [
+      "elder_brother"
+    ],
+    "color": "黄色オレンジ"
+  },
+  {
+    "member_name_romaji": "Miyata Manamo",
+    "member_name_kanji": "宮田 愛萌",
+    "birthday": "1998-04-28",
+    "blood_type": "A",
+    "hometown": "東京都",
+    "generation": "1",
+    "height": "159.3",
+    "grad_date": "2022-12-18",
+    "nickname": "まなもさん",
+    "comment": "",
+    "group": "hi"
+  },
+  {
+    "member_name_romaji": "Matsudaira Riko",
+    "member_name_kanji": "松平 璃子",
+    "birthday": "1998-05-05",
+    "blood_type": "O",
+    "hometown": "東京都",
+    "generation": "2",
+    "height": "168.3",
+    "grad_date": "2021-03-14",
+    "nickname": "",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Oda Nana",
+    "member_name_kanji": "織田 奈那",
+    "birthday": "1998-06-04",
+    "blood_type": "O",
+    "hometown": "静岡県",
+    "generation": "1",
+    "height": "161.1",
+    "grad_date": "2020-01-23",
+    "nickname": "",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Seki Yumiko",
+    "member_name_kanji": "関 有美子",
+    "birthday": "1998-06-29",
+    "blood_type": "A",
+    "hometown": "福岡県",
+    "generation": "2",
+    "height": "167.0",
+    "grad_date": "2023-04-30",
+    "nickname": "有美子会長",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Watanabe Risa",
+    "member_name_kanji": "渡邉 理佐",
+    "birthday": "1998-07-27",
+    "blood_type": "O",
+    "hometown": "茨城県",
+    "generation": "1",
+    "height": "167.0",
+    "grad_date": "2022-05-22",
+    "nickname": "",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Saito Asuka",
+    "member_name_kanji": "齋藤 飛鳥",
+    "birthday": "1998-08-10",
+    "blood_type": "O",
+    "hometown": "東京都",
+    "generation": "1",
+    "height": "158",
+    "grad_date": "2022-12-31",
+    "group": "no",
+    "nickname": "その他の あしゅりん、あすか",
+    "family": [
+      "elder_brother",
+      "elder_brother"
+    ],
+    "color": "水色白"
+  },
+  {
+    "member_name_romaji": "Higashimura Mei",
+    "member_name_kanji": "東村 芽依",
+    "birthday": "1998-08-23",
+    "blood_type": "O",
+    "hometown": "奈良県",
+    "generation": "1",
+    "height": "154.1",
+    "nickname": "めいめい、やんちゃる",
+    "comment": "",
+    "group": "hi"
+  },
+  {
+    "member_name_romaji": "Sasaki Kotoko",
+    "member_name_kanji": "佐々木 琴子",
+    "birthday": "1998-08-28",
+    "blood_type": "A",
+    "hometown": "埼玉県",
+    "generation": "2",
+    "height": "163",
+    "grad_date": "2020-03-31",
+    "group": "no",
+    "nickname": "こったん",
+    "family": [
+      "elder_brother",
+      "elder_brother"
+    ],
+    "color": "青緑"
+  },
+  {
+    "member_name_romaji": "Nagahama Neru",
+    "member_name_kanji": "長濱 ねる",
+    "birthday": "1998-09-04",
+    "blood_type": "O",
+    "hometown": "長崎県",
+    "generation": "1",
+    "height": "159.0",
+    "grad_date": "2019-07-30",
+    "nickname": "",
+    "comment": "長濱は「けやき坂46」から「欅坂46」へ事実上移籍し、それは「欅坂46」1期生の加入後で2期生の加入前のことである。DBの構造上、欅坂46の1期生としています。",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Takase Mana",
+    "member_name_kanji": "高瀬 愛奈",
+    "birthday": "1998-09-20",
+    "blood_type": "A",
+    "hometown": "大阪府",
+    "generation": "1",
+    "height": "156.9",
+    "nickname": "まなふぃ",
+    "comment": "",
+    "group": "hi"
+  },
+  {
+    "member_name_romaji": "Terada Ranze",
+    "member_name_kanji": "寺田 蘭世",
+    "birthday": "1998-09-23",
+    "blood_type": "不明",
+    "hometown": "東京都",
+    "generation": "2",
+    "height": "155",
+    "grad_date": "2021-12-12",
+    "group": "no",
+    "nickname": "その他の らんぜ",
+    "family": [
+      "younger_sister",
+      "younger_brother"
+    ],
+    "color": "赤白"
+  },
+  {
+    "member_name_romaji": "Imaizumi Yui",
+    "member_name_kanji": "今泉 佑唯",
+    "birthday": "1998-09-30",
+    "blood_type": "O",
+    "hometown": "神奈川県",
+    "generation": "1",
+    "height": "153.0",
+    "grad_date": "2018-11-04",
+    "nickname": "",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Tamura Hono",
+    "member_name_kanji": "田村 保乃",
+    "birthday": "1998-10-21",
+    "blood_type": "A",
+    "hometown": "大阪府",
+    "generation": "2",
+    "height": "163.0",
+    "nickname": "ほにょ、ほのす",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Takamoto Ayaka",
+    "member_name_kanji": "高本 彩花",
+    "birthday": "1998-11-02",
+    "blood_type": "B",
+    "hometown": "神奈川県",
+    "generation": "1",
+    "height": "162.5",
+    "nickname": "おたけ、あや",
+    "comment": "",
+    "group": "hi"
+  },
+  {
+    "member_name_romaji": "Koike Minami",
+    "member_name_kanji": "小池 美波",
+    "birthday": "1998-11-14",
+    "blood_type": "B",
+    "hometown": "兵庫県",
+    "generation": "1",
+    "height": "158.5",
+    "nickname": "みぃちゃん",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Shida Manaka",
+    "member_name_kanji": "志田 愛佳",
+    "birthday": "1998-11-23",
+    "blood_type": "A",
+    "hometown": "新潟県",
+    "generation": "1",
+    "height": "169.0",
+    "grad_date": "2018-11-16",
+    "nickname": "",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Ito Junna",
+    "member_name_kanji": "伊藤 純奈",
+    "birthday": "1998-11-30",
+    "blood_type": "A",
+    "hometown": "神奈川県",
+    "generation": "2",
+    "height": "166",
+    "grad_date": "2021-08-29",
+    "group": "no",
+    "nickname": "ずんな",
+    "family": [
+      "elder_brother",
+      "elder_sister"
+    ],
+    "color": "水色ピンク"
+  },
+  {
+    "member_name_romaji": "Umezawa Minami",
+    "member_name_kanji": "梅澤 美波",
+    "birthday": "1999-01-06",
+    "blood_type": "A",
+    "hometown": "神奈川県",
+    "generation": "3",
+    "height": "170",
+    "group": "no",
+    "nickname": "みなみん",
+    "family": [
+      "elder_sister",
+      "younger_brother"
+    ],
+    "color": "青水色"
+  },
+  {
+    "member_name_romaji": "Tamura Mayu",
+    "member_name_kanji": "田村 真佑",
+    "birthday": "1999-01-12",
+    "blood_type": "A",
+    "hometown": "埼玉県",
+    "generation": "4",
+    "height": "160",
+    "group": "no",
+    "nickname": "まゆたん",
+    "family": [
+      "elder_sister",
+      "elder_brother"
+    ],
+    "color": "紫水色"
+  },
+  {
+    "member_name_romaji": "Yumiki Nao",
+    "member_name_kanji": "弓木 奈於",
+    "birthday": "1999-02-03",
+    "blood_type": "A",
+    "hometown": "京都府",
+    "generation": "4",
+    "height": "165",
+    "group": "no",
+    "nickname": "なおちゃん",
+    "family": [],
+    "color": "赤黄緑"
+  },
+  {
+    "member_name_romaji": "Suzuki Ayane",
+    "member_name_kanji": "鈴木 絢音",
+    "birthday": "1999-03-05",
+    "blood_type": "O",
+    "hometown": "秋田県",
+    "generation": "2",
+    "height": "161",
+    "grad_date": "2023-03-28",
+    "group": "no",
+    "nickname": "あーちゃん",
+    "family": [
+      "elder_brother"
+    ],
+    "color": "白紫"
+  },
+  {
+    "member_name_romaji": "Endo Hikari",
+    "member_name_kanji": "遠藤 光莉",
+    "birthday": "1999-04-17",
+    "blood_type": "A",
+    "hometown": "神奈川県",
+    "generation": "2",
+    "height": "163.3",
+    "nickname": "ひかりん",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Matsuda Konoka",
+    "member_name_kanji": "松田 好花",
+    "birthday": "1999-04-27",
+    "blood_type": "A",
+    "hometown": "京都府",
+    "generation": "2",
+    "height": "157.5",
+    "nickname": "このちゃん",
+    "comment": "",
+    "group": "hi"
+  },
+  {
+    "member_name_romaji": "Yamashita Mizuki",
+    "member_name_kanji": "山下 美月",
+    "birthday": "1999-07-26",
+    "blood_type": "O",
+    "hometown": "東京都",
+    "generation": "3",
+    "height": "160",
+    "group": "no",
+    "nickname": "づっきー",
+    "family": [
+      "only_child"
+    ],
+    "color": "青黄色"
+  },
+  {
+    "member_name_romaji": "Mukai Hazuki",
+    "member_name_kanji": "向井 葉月",
+    "birthday": "1999-08-23",
+    "blood_type": "A",
+    "hometown": "東京都",
+    "generation": "3",
+    "height": "152",
+    "group": "no",
+    "nickname": "はづき",
+    "family": [
+      "elder_sister",
+      "elder_brother"
+    ],
+    "color": "黄色黄色"
+  },
+  {
+    "member_name_romaji": "Ozono Momoko",
+    "member_name_kanji": "大園 桃子",
+    "birthday": "1999-09-13",
+    "blood_type": "O",
+    "hometown": "鹿児島県",
+    "generation": "3",
+    "height": "156",
+    "grad_date": "2021-09-04",
+    "group": "no",
+    "nickname": "ももこ",
+    "family": [
+      "younger_brother"
+    ],
+    "color": "ピンク緑"
+  },
+  {
+    "member_name_romaji": "Onuma Akiho",
+    "member_name_kanji": "大沼 晶保",
+    "birthday": "1999-10-12",
+    "blood_type": "B",
+    "hometown": "静岡県",
+    "generation": "2",
+    "height": "161.0",
+    "nickname": "あきぽ",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Matsuda Rina",
+    "member_name_kanji": "松田 里奈",
+    "birthday": "1999-10-13",
+    "blood_type": "O",
+    "hometown": "宮崎県",
+    "generation": "2",
+    "height": "159.5",
+    "nickname": "まつり、まりな",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Kobayashi Yui",
+    "member_name_kanji": "小林 由依",
+    "birthday": "1999-10-23",
+    "blood_type": "A",
+    "hometown": "埼玉県",
+    "generation": "1",
+    "height": "161.0",
+    "nickname": "ゆいぽん",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Watanabe Miria",
+    "member_name_kanji": "渡辺 みり愛",
+    "birthday": "1999-11-01",
+    "blood_type": "O",
+    "hometown": "東京都",
+    "generation": "2",
+    "height": "153",
+    "grad_date": "2021-08-31",
+    "group": "no",
+    "nickname": "みりあ",
+    "family": [
+      "elder_sister",
+      "elder_brother"
+    ],
+    "color": "黄色黄緑"
+  },
+  {
+    "member_name_romaji": "Sasaki Mirei",
+    "member_name_kanji": "佐々木 美玲",
+    "birthday": "1999-12-17",
+    "blood_type": "O",
+    "hometown": "兵庫県",
+    "generation": "1",
+    "height": "164.9",
+    "nickname": "みーぱん",
+    "comment": "",
+    "group": "hi"
+  },
+  {
+    "member_name_romaji": "Moriya Rena",
+    "member_name_kanji": "守屋 麗奈",
+    "birthday": "2000-01-02",
+    "blood_type": "AB",
+    "hometown": "東京都",
+    "generation": "2",
+    "height": "154.0",
+    "nickname": "れなぁ～",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Watanabe Miho",
+    "member_name_kanji": "渡邉 美穂",
+    "birthday": "2000-02-24",
+    "blood_type": "A",
+    "hometown": "埼玉県",
+    "generation": "2",
+    "height": "158.2",
+    "grad_date": "2022-07-31",
+    "nickname": "べみほ、みほちー、ミホワタナベ",
+    "comment": "",
+    "group": "hi"
+  },
+  {
+    "member_name_romaji": "Yonetani Nanami",
+    "member_name_kanji": "米谷 奈々未",
+    "birthday": "2000-02-24",
+    "blood_type": "B",
+    "hometown": "大阪府",
+    "generation": "1",
+    "height": "157.0",
+    "grad_date": "2018-12-22",
+    "nickname": "",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Ozono Rei",
+    "member_name_kanji": "大園 玲",
+    "birthday": "2000-04-18",
+    "blood_type": "A",
+    "hometown": "鹿児島県",
+    "generation": "2",
+    "height": "163.0",
+    "nickname": "れいれい",
+    "comment": "元・坂道研修生",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Yoda Yuuki",
+    "member_name_kanji": "与田 祐希",
+    "birthday": "2000-05-05",
+    "blood_type": "O",
+    "hometown": "福岡県",
+    "generation": "3",
+    "height": "153",
+    "group": "no",
+    "nickname": "よだちゃん",
+    "family": [
+      "younger_brother"
+    ],
+    "color": "赤緑"
+  },
+  {
+    "member_name_romaji": "Harada Aoi",
+    "member_name_kanji": "原田 葵",
+    "birthday": "2000-05-07",
+    "blood_type": "AB",
+    "hometown": "東京都",
+    "generation": "1",
+    "height": "156.0",
+    "grad_date": "2022-06-11",
+    "nickname": "あおたん",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Hayakawa Seira",
+    "member_name_kanji": "早川 聖来",
+    "birthday": "2000-08-24",
+    "blood_type": "A",
+    "hometown": "大阪府",
+    "generation": "4",
+    "height": "164",
+    "grad_date": "2023-08-24",
+    "group": "no",
+    "nickname": "せいら",
+    "family": [
+      "elder_brother"
+    ],
+    "color": "青青"
+  },
+  {
+    "member_name_romaji": "Tomita Suzuka",
+    "member_name_kanji": "富田 鈴花",
+    "birthday": "2001-01-18",
+    "blood_type": "A",
+    "hometown": "神奈川県",
+    "generation": "2",
+    "height": "165.4",
+    "nickname": "すーじー",
+    "comment": "",
+    "group": "hi"
+  },
+  {
+    "member_name_romaji": "Inoue Rina",
+    "member_name_kanji": "井上 梨名",
+    "birthday": "2001-01-29",
+    "blood_type": "A",
+    "hometown": "兵庫県",
+    "generation": "2",
+    "height": "163.0",
+    "nickname": "いのりちゃん",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Nibu Akari",
+    "member_name_kanji": "丹生 明里",
+    "birthday": "2001-02-15",
+    "blood_type": "AB",
+    "hometown": "埼玉県",
+    "generation": "2",
+    "height": "156.6",
+    "nickname": "丹生ちゃん",
+    "comment": "",
+    "group": "hi"
+  },
+  {
+    "member_name_romaji": "Kageyama Yuuka",
+    "member_name_kanji": "影山 優佳",
+    "birthday": "2001-05-08",
+    "blood_type": "O",
+    "hometown": "東京都",
+    "generation": "1",
+    "height": "155.5",
+    "grad_date": "2023-07-19",
+    "nickname": "",
+    "comment": "",
+    "group": "hi"
+  },
+  {
+    "member_name_romaji": "Hirate Yurina",
+    "member_name_kanji": "平手 友梨奈",
+    "birthday": "2001-06-25",
+    "blood_type": "O",
+    "hometown": "愛知県",
+    "generation": "1",
+    "height": "163.0",
+    "grad_date": "2020-01-23",
+    "nickname": "",
+    "comment": "卒業ではなく、脱退という扱いになっている。",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Morita Hikaru",
+    "member_name_kanji": "森田 ひかる",
+    "birthday": "2001-07-10",
+    "blood_type": "B",
+    "hometown": "福岡県",
+    "generation": "2",
+    "height": "150.5",
+    "nickname": "るんるん、ひいちゃん",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Kubo Shiori",
+    "member_name_kanji": "久保 史緒里",
+    "birthday": "2001-07-14",
+    "blood_type": "O",
+    "hometown": "宮城県",
+    "generation": "3",
+    "height": "161",
+    "group": "no",
+    "nickname": "しーちゃん",
+    "family": [
+      "elder_sister"
+    ],
+    "color": "水色黄色"
+  },
+  {
+    "member_name_romaji": "Kawata Hina",
+    "member_name_kanji": "河田 陽菜",
+    "birthday": "2001-07-23",
+    "blood_type": "B",
+    "hometown": "山口県",
+    "generation": "2",
+    "height": "154.0",
+    "nickname": "KAWADAさん",
+    "comment": "",
+    "group": "hi"
+  },
+  {
+    "member_name_romaji": "Kaki Haruka",
+    "member_name_kanji": "賀喜 遥香",
+    "birthday": "2001-08-08",
+    "blood_type": "A",
+    "hometown": "栃木県",
+    "generation": "4",
+    "height": "166",
+    "group": "no",
+    "nickname": "かっきー",
+    "family": [
+      "younger_brother"
+    ],
+    "color": "オレンジ緑"
+  },
+  {
+    "member_name_romaji": "Kitagawa Yuri",
+    "member_name_kanji": "北川 悠理",
+    "birthday": "2001-08-08",
+    "blood_type": "不明",
+    "hometown": "米国ｶﾘﾌｫﾙﾆｱ州",
+    "generation": "4",
+    "height": "165",
+    "grad_date": "2023-06-30",
+    "group": "no",
+    "nickname": "ゆりちゃん",
+    "family": [
+      "unknown"
+    ],
+    "color": "水色オレンジ"
+  },
+  {
+    "member_name_romaji": "Sato Rika",
+    "member_name_kanji": "佐藤 璃果",
+    "birthday": "2001-08-09",
+    "blood_type": "B",
+    "hometown": "岩手県",
+    "generation": "4",
+    "height": "160",
+    "group": "no",
+    "nickname": "りかちゃん",
+    "family": [
+      "elder_brother"
+    ],
+    "color": "ピンクターコイズ"
+  },
+  {
+    "member_name_romaji": "Fujiyoshi Karin",
+    "member_name_kanji": "藤吉 夏鈴",
+    "birthday": "2001-08-29",
+    "blood_type": "A",
+    "hometown": "大阪府",
+    "generation": "2",
+    "height": "165.1",
+    "nickname": "かりんちゃん",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Nakamura Reno",
+    "member_name_kanji": "中村 麗乃",
+    "birthday": "2001-09-27",
+    "blood_type": "不明",
+    "hometown": "東京都",
+    "generation": "3",
+    "height": "167",
+    "group": "no",
+    "nickname": "れのちゃん",
+    "family": [
+      "younger_brother"
+    ],
+    "color": "青白"
+  },
+  {
+    "member_name_romaji": "Endo Sakura",
+    "member_name_kanji": "遠藤 さくら",
+    "birthday": "2001-10-03",
+    "blood_type": "O",
+    "hometown": "愛知県",
+    "generation": "4",
+    "height": "164",
+    "group": "no",
+    "nickname": "さくちゃん",
+    "family": [
+      "elder_brother"
+    ],
+    "color": "ピンク白"
+  },
+  {
+    "member_name_romaji": "Kanagawa Saya",
+    "member_name_kanji": "金川 紗耶",
+    "birthday": "2001-10-31",
+    "blood_type": "O",
+    "hometown": "北海道",
+    "generation": "4",
+    "height": "165",
+    "group": "no",
+    "nickname": "やんちゃん",
+    "family": [
+      "unknown"
+    ],
+    "color": "水色赤"
+  },
+  {
+    "member_name_romaji": "Sakaguchi Tamami",
+    "member_name_kanji": "阪口 珠美",
+    "birthday": "2001-11-10",
+    "blood_type": "A",
+    "hometown": "東京都",
+    "generation": "3",
+    "height": "161",
+    "group": "no",
+    "nickname": "たまちゃん",
+    "family": [
+      "elder_brother"
+    ],
+    "color": "紫黄色"
+  },
+  {
+    "member_name_romaji": "Kakizaki Memi",
+    "member_name_kanji": "柿崎 芽実",
+    "birthday": "2001-12-02",
+    "blood_type": "A",
+    "hometown": "長野県",
+    "generation": "1",
+    "height": "156.0",
+    "grad_date": "2019-08-11",
+    "nickname": "",
+    "comment": "",
+    "group": "hi"
+  },
+  {
+    "member_name_romaji": "Masumoto Kira",
+    "member_name_kanji": "増本 綺良",
+    "birthday": "2002-01-12",
+    "blood_type": "A",
+    "hometown": "兵庫県",
+    "generation": "2",
+    "height": "158.4",
+    "nickname": "きらちゃん、ますも、きらこ",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Ishimori Rika",
+    "member_name_kanji": "石森 璃花",
+    "birthday": "2002-01-13",
+    "blood_type": "B",
+    "hometown": "群馬県",
+    "generation": "3",
+    "height": "",
+    "nickname": "",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Takemoto Yui",
+    "member_name_kanji": "武元 唯衣",
+    "birthday": "2002-03-23",
+    "blood_type": "O",
+    "hometown": "滋賀県",
+    "generation": "2",
+    "height": "158.5",
+    "nickname": "ちゅけもん",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Hiraoka Mitsuki",
+    "member_name_kanji": "平岡 海月",
+    "birthday": "2002-04-09",
+    "blood_type": "A",
+    "hometown": "福井県",
+    "generation": "4",
+    "height": "157.0",
+    "nickname": "みっちゃん",
+    "comment": "",
+    "group": "hi"
+  },
+  {
+    "member_name_romaji": "Ikeda Teresa",
+    "member_name_kanji": "池田 瑛紗",
+    "birthday": "2002-05-12",
+    "blood_type": "不明",
+    "hometown": "東京都",
+    "generation": "5",
+    "height": "159",
+    "group": "no",
+    "nickname": "その他の テレサパン（命名：小川）、てれぱん",
+    "family": [
+      "younger_sister"
+    ],
+    "color": "緑白"
+  },
+  {
+    "member_name_romaji": "Yakubo Mio",
+    "member_name_kanji": "矢久保 美緒",
+    "birthday": "2002-08-14",
+    "blood_type": "B",
+    "hometown": "東京都",
+    "generation": "4",
+    "height": "153",
+    "group": "no",
+    "nickname": "みおちゃん",
+    "family": [
+      "elder_sister",
+      "younger_sister"
+    ],
+    "color": "ピンク黄色"
+  },
+  {
+    "member_name_romaji": "Kosaka Nao",
+    "member_name_kanji": "小坂 菜緒",
+    "birthday": "2002-09-07",
+    "blood_type": "O",
+    "hometown": "大阪府",
+    "generation": "2",
+    "height": "161.9",
+    "nickname": "こさかな、こしゃ",
+    "comment": "",
+    "group": "hi"
+  },
+  {
+    "member_name_romaji": "Kanemura Miku",
+    "member_name_kanji": "金村 美玖",
+    "birthday": "2002-09-10",
+    "blood_type": "O",
+    "hometown": "埼玉県",
+    "generation": "2",
+    "height": "163.1",
+    "nickname": "おすし",
+    "comment": "",
+    "group": "hi"
+  },
+  {
+    "member_name_romaji": "Hamagishi Hiyori",
+    "member_name_kanji": "濱岸 ひより",
+    "birthday": "2002-09-28",
+    "blood_type": "A",
+    "hometown": "福岡県",
+    "generation": "2",
+    "height": "167.2",
+    "nickname": "ひよたん、たんちゃん",
+    "comment": "",
+    "group": "hi"
+  },
+  {
+    "member_name_romaji": "Ito Riria",
+    "member_name_kanji": "伊藤 理々杏",
+    "birthday": "2002-10-08",
+    "blood_type": "B",
+    "hometown": "沖縄県",
+    "generation": "3",
+    "height": "154",
+    "group": "no",
+    "nickname": "りりあん",
+    "family": [
+      "only_child"
+    ],
+    "color": "紫赤"
+  },
+  {
+    "member_name_romaji": "Kakehashi Sayaka",
+    "member_name_kanji": "掛橋 沙耶香",
+    "birthday": "2002-11-20",
+    "blood_type": "B",
+    "hometown": "岡山県",
+    "generation": "4",
+    "height": "154",
+    "grad_date": "たケガのために療養中",
+    "group": "no",
+    "nickname": "さぁちゃん",
+    "family": [
+      "unknown"
+    ],
+    "color": "ピンクオレンジ"
+  },
+  {
+    "member_name_romaji": "Kousaka Marino",
+    "member_name_kanji": "幸阪 茉里乃",
+    "birthday": "2002-12-19",
+    "blood_type": "O",
+    "hometown": "三重県",
+    "generation": "2",
+    "height": "154.5",
+    "nickname": "まりの",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Nakashima Yuzuki",
+    "member_name_kanji": "中嶋 優月",
+    "birthday": "2003-02-17",
+    "blood_type": "A",
+    "hometown": "福岡県",
+    "generation": "3",
+    "height": "",
+    "nickname": "",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Shibata Yuna",
+    "member_name_kanji": "柴田 柚菜",
+    "birthday": "2003-03-03",
+    "blood_type": "A",
+    "hometown": "千葉県",
+    "generation": "4",
+    "height": "160",
+    "group": "no",
+    "nickname": "ゆんちゃん",
+    "family": [
+      "unknown"
+    ],
+    "color": "青緑"
+  },
+  {
+    "member_name_romaji": "Nakanishi Aruno",
+    "member_name_kanji": "中西 アルノ",
+    "birthday": "2003-03-17",
+    "blood_type": "A",
+    "hometown": "千葉県",
+    "generation": "5",
+    "height": "157",
+    "group": "no",
+    "nickname": "その他の アルル（命名：小川）",
+    "family": [
+      "younger_brother"
+    ],
+    "color": "水色ターコイズ"
+  },
+  {
+    "member_name_romaji": "Kawasaki Sakura",
+    "member_name_kanji": "川﨑 桜",
+    "birthday": "2003-04-17",
+    "blood_type": "不明",
+    "hometown": "神奈川県",
+    "generation": "5",
+    "height": "155",
+    "group": "no",
+    "nickname": "その他の さくさく（命名：小川）",
+    "family": [
+      "younger_sister"
+    ],
+    "color": "ピンク緑"
+  },
+  {
+    "member_name_romaji": "Yamashita Haruka",
+    "member_name_kanji": "山下 葉留花",
+    "birthday": "2003-05-20",
+    "blood_type": "O",
+    "hometown": "愛知県",
+    "generation": "4",
+    "height": "160.0",
+    "nickname": "はるはる",
+    "comment": "",
+    "group": "hi"
+  },
+  {
+    "member_name_romaji": "Ichinose Miku",
+    "member_name_kanji": "一ノ瀬 美空",
+    "birthday": "2003-05-24",
+    "blood_type": "B",
+    "hometown": "福岡県",
+    "generation": "5",
+    "height": "156",
+    "group": "no",
+    "nickname": "くぅちゃん",
+    "family": [
+      "unknown"
+    ],
+    "color": "水色水色"
+  },
+  {
+    "member_name_romaji": "Hirao Honoka",
+    "member_name_kanji": "平尾 帆夏",
+    "birthday": "2003-07-31",
+    "blood_type": "A",
+    "hometown": "鳥取県",
+    "generation": "4",
+    "height": "156.0",
+    "nickname": "その他の ほのほの、ひらほの",
+    "comment": "",
+    "group": "hi"
+  },
+  {
+    "member_name_romaji": "Seimiya Rei",
+    "member_name_kanji": "清宮 レイ",
+    "birthday": "2003-08-01",
+    "blood_type": "O",
+    "hometown": "埼玉県",
+    "generation": "4",
+    "height": "164",
+    "group": "no",
+    "nickname": "レイちゃん",
+    "family": [
+      "elder_sister",
+      "younger_sister"
+    ],
+    "color": "オレンジオレンジ"
+  },
+  {
+    "member_name_romaji": "Takahashi Mikuni",
+    "member_name_kanji": "髙橋 未来虹",
+    "birthday": "2003-09-27",
+    "blood_type": "B",
+    "hometown": "東京都",
+    "generation": "3",
+    "height": "170.0",
+    "nickname": "みくにちゃん",
+    "comment": "",
+    "group": "hi"
+  },
+  {
+    "member_name_romaji": "Hayashi Runa",
+    "member_name_kanji": "林 瑠奈",
+    "birthday": "2003-10-02",
+    "blood_type": "O",
+    "hometown": "神奈川県",
+    "generation": "4",
+    "height": "164",
+    "grad_date": "10日から活動休止中",
+    "group": "no",
+    "nickname": "その他の るなぴ（元公式あだ名）",
+    "family": [
+      "only_child"
+    ],
+    "color": "ピンクピンク"
+  },
+  {
+    "member_name_romaji": "Okamoto Hina",
+    "member_name_kanji": "岡本 姫奈",
+    "birthday": "2003-12-17",
+    "blood_type": "A",
+    "hometown": "愛知県",
+    "generation": "5",
+    "height": "158",
+    "grad_date": "31日から活動休止中",
+    "group": "no",
+    "nickname": "その他の ナッツ（命名：小川）、ひなだに（命名：5期生）",
+    "family": [
+      "unknown"
+    ],
+    "color": "紫青"
+  },
+  {
+    "member_name_romaji": "Matsuo Miyu",
+    "member_name_kanji": "松尾 美佑",
+    "birthday": "2004-01-03",
+    "blood_type": "O",
+    "hometown": "千葉県",
+    "generation": "4",
+    "height": "167",
+    "group": "no",
+    "nickname": "その他の みゆちゃん",
+    "family": [
+      "unknown"
+    ],
+    "color": "ターコイズ白"
+  },
+  {
+    "member_name_romaji": "Kuromi Haruka",
+    "member_name_kanji": "黒見 明香",
+    "birthday": "2004-01-19",
+    "blood_type": "O",
+    "hometown": "東京都",
+    "generation": "4",
+    "height": "162",
+    "group": "no",
+    "nickname": "くろみん",
+    "family": [
+      "unknown"
+    ],
+    "color": "紫緑"
+  },
+  {
+    "member_name_romaji": "Iwamoto Renka",
+    "member_name_kanji": "岩本 蓮加",
+    "birthday": "2004-02-02",
+    "blood_type": "B",
+    "hometown": "東京都",
+    "generation": "3",
+    "height": "159",
+    "group": "no",
+    "nickname": "れんたん",
+    "family": [
+      "elder_sister",
+      "elder_sister"
+    ],
+    "color": "赤ピンク"
+  },
+  {
+    "member_name_romaji": "Morimoto Marie",
+    "member_name_kanji": "森本 茉莉",
+    "birthday": "2004-02-23",
+    "blood_type": "A",
+    "hometown": "東京都",
+    "generation": "3",
+    "height": "160.9",
+    "nickname": "まりもと",
+    "comment": "",
+    "group": "hi"
+  },
+  {
+    "member_name_romaji": "Yamaguchi Haruyo",
+    "member_name_kanji": "山口 陽世",
+    "birthday": "2004-02-23",
+    "blood_type": "O",
+    "hometown": "鳥取県",
+    "generation": "3",
+    "height": "151.7",
+    "nickname": "ぱる",
+    "comment": "",
+    "group": "hi"
+  },
+  {
+    "member_name_romaji": "Kamimura Hinano",
+    "member_name_kanji": "上村 ひなの",
+    "birthday": "2004-04-12",
+    "blood_type": "AB",
+    "hometown": "東京都",
+    "generation": "3",
+    "height": "162.4",
+    "nickname": "ひなのなの",
+    "comment": "",
+    "group": "hi"
+  },
+  {
+    "member_name_romaji": "Tsutsui Ayame",
+    "member_name_kanji": "筒井 あやめ",
+    "birthday": "2004-06-08",
+    "blood_type": "O",
+    "hometown": "愛知県",
+    "generation": "4",
+    "height": "160",
+    "group": "no",
+    "nickname": "あやめん",
+    "family": [
+      "elder_sister"
+    ],
+    "color": "紫紫"
+  },
+  {
+    "member_name_romaji": "Odakura Reina",
+    "member_name_kanji": "小田倉 麗奈",
+    "birthday": "2004-07-25",
+    "blood_type": "A",
+    "hometown": "東京都",
+    "generation": "3",
+    "height": "",
+    "nickname": "",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Ishizuka Tamaki",
+    "member_name_kanji": "石塚 瑶季",
+    "birthday": "2004-08-06",
+    "blood_type": "A",
+    "hometown": "東京都",
+    "generation": "4",
+    "height": "154.0",
+    "nickname": "たまちゃん",
+    "comment": "",
+    "group": "hi"
+  },
+  {
+    "member_name_romaji": "Kishi Honoka",
+    "member_name_kanji": "岸 帆夏",
+    "birthday": "2004-08-15",
+    "blood_type": "O",
+    "hometown": "東京都",
+    "generation": "4",
+    "height": "157.0",
+    "nickname": "きしほの",
+    "comment": "",
+    "group": "hi"
+  },
+  {
+    "member_name_romaji": "Murai Yu",
+    "member_name_kanji": "村井 優",
+    "birthday": "2004-08-18",
+    "blood_type": "B",
+    "hometown": "東京都",
+    "generation": "3",
+    "height": "",
+    "nickname": "",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Konishi Nanami",
+    "member_name_kanji": "小西 夏菜実",
+    "birthday": "2004-10-03",
+    "blood_type": "B",
+    "hometown": "兵庫県",
+    "generation": "4",
+    "height": "164.0",
+    "nickname": "その他の こにし、こにちゃん（）",
+    "comment": "",
+    "group": "hi"
+  },
+  {
+    "member_name_romaji": "Shimizu Rio",
+    "member_name_kanji": "清水 理央",
+    "birthday": "2005-01-15",
+    "blood_type": "AB",
+    "hometown": "千葉県",
+    "generation": "4",
+    "height": "165.0",
+    "nickname": "りおたむ",
+    "comment": "",
+    "group": "hi"
+  },
+  {
+    "member_name_romaji": "Yamashita Shizuki",
+    "member_name_kanji": "山下 瞳月",
+    "birthday": "2005-01-22",
+    "blood_type": "A",
+    "hometown": "京都府",
+    "generation": "3",
+    "height": "",
+    "nickname": "",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Murayama Miu",
+    "member_name_kanji": "村山 美羽",
+    "birthday": "2005-02-15",
+    "blood_type": "O",
+    "hometown": "東京都",
+    "generation": "3",
+    "height": "",
+    "nickname": "",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Inoue Nagi",
+    "member_name_kanji": "井上 和",
+    "birthday": "2005-02-17",
+    "blood_type": "B",
+    "hometown": "神奈川県",
+    "generation": "5",
+    "height": "156",
+    "group": "no",
+    "nickname": "その他の のんちゃん（命名：小川）",
+    "family": [
+      "younger_brother",
+      "younger_brother"
+    ],
+    "color": "赤白"
+  },
+  {
+    "member_name_romaji": "Taniguchi Airi",
+    "member_name_kanji": "谷口 愛季",
+    "birthday": "2005-04-12",
+    "blood_type": "O",
+    "hometown": "山口県",
+    "generation": "3",
+    "height": "",
+    "nickname": "",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Kojima Nagisa",
+    "member_name_kanji": "小島 凪紗",
+    "birthday": "2005-07-07",
+    "blood_type": "不明",
+    "hometown": "長野県",
+    "generation": "3",
+    "height": "",
+    "nickname": "",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Ioki Mao",
+    "member_name_kanji": "五百城 茉央",
+    "birthday": "2005-07-29",
+    "blood_type": "O",
+    "hometown": "兵庫県",
+    "generation": "5",
+    "height": "166",
+    "group": "no",
+    "nickname": "その他の キッキ（命名：小川）",
+    "family": [
+      "elder_brother"
+    ],
+    "color": "ターコイズ青"
+  },
+  {
+    "member_name_romaji": "Okuda Iroha",
+    "member_name_kanji": "奥田 いろは",
+    "birthday": "2005-08-20",
+    "blood_type": "A",
+    "hometown": "千葉県",
+    "generation": "5",
+    "height": "157",
+    "group": "no",
+    "nickname": "その他の イロハット（命名：小川）",
+    "family": [
+      "elder_sister",
+      "younger_brother"
+    ],
+    "color": "黄色ピンク"
+  },
+  {
+    "member_name_romaji": "Yamasaki Ten",
+    "member_name_kanji": "山﨑 天",
+    "birthday": "2005-09-28",
+    "blood_type": "A",
+    "hometown": "大阪府",
+    "generation": "2",
+    "height": "168.4",
+    "nickname": "てんちゃん",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Sugawara Satsuki",
+    "member_name_kanji": "菅原 咲月",
+    "birthday": "2005-10-31",
+    "blood_type": "A",
+    "hometown": "千葉県",
+    "generation": "5",
+    "height": "157",
+    "group": "no",
+    "nickname": "その他の つっきー（命名：小川）",
+    "family": [
+      "only_child"
+    ],
+    "color": "ピンク水色"
+  },
+  {
+    "member_name_romaji": "Miyachi Sumire",
+    "member_name_kanji": "宮地 すみれ",
+    "birthday": "2005-12-31",
+    "blood_type": "不明",
+    "hometown": "神奈川県",
+    "generation": "4",
+    "height": "162.2",
+    "nickname": "その他の すみレジェンド、レジェ",
+    "comment": "",
+    "group": "hi"
+  },
+  {
+    "member_name_romaji": "Endo Riko",
+    "member_name_kanji": "遠藤 理子",
+    "birthday": "2006-01-09",
+    "blood_type": "A",
+    "hometown": "埼玉県",
+    "generation": "3",
+    "height": "",
+    "nickname": "",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Takeuchi Kirari",
+    "member_name_kanji": "竹内 希来里",
+    "birthday": "2006-02-20",
+    "blood_type": "AB",
+    "hometown": "広島県",
+    "generation": "4",
+    "height": "153.0",
+    "nickname": "きらりん",
+    "comment": "",
+    "group": "hi"
+  },
+  {
+    "member_name_romaji": "Mukai Itoha",
+    "member_name_kanji": "向井 純葉",
+    "birthday": "2006-05-09",
+    "blood_type": "AB",
+    "hometown": "広島県",
+    "generation": "3",
+    "height": "",
+    "nickname": "",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Fujishima Kaho",
+    "member_name_kanji": "藤嶌 果歩",
+    "birthday": "2006-08-07",
+    "blood_type": "不明",
+    "hometown": "北海道",
+    "generation": "4",
+    "height": "158.0",
+    "nickname": "かほりん",
+    "comment": "",
+    "group": "hi"
+  },
+  {
+    "member_name_romaji": "Tomisato Nao",
+    "member_name_kanji": "冨里 奈央",
+    "birthday": "2006-09-18",
+    "blood_type": "O",
+    "hometown": "千葉県",
+    "generation": "5",
+    "height": "164",
+    "group": "no",
+    "nickname": "なおなお",
+    "family": [
+      "younger_sister"
+    ],
+    "color": "ターコイズターコイズ"
+  },
+  {
+    "member_name_romaji": "Matono Mio",
+    "member_name_kanji": "的野 美青",
+    "birthday": "2006-11-08",
+    "blood_type": "AB",
+    "hometown": "福岡県",
+    "generation": "3",
+    "height": "",
+    "nickname": "",
+    "comment": "",
+    "group": "kesa"
+  },
+  {
+    "member_name_romaji": "Shogenji Yoko",
+    "member_name_kanji": "正源司 陽子",
+    "birthday": "2007-02-14",
+    "blood_type": "B",
+    "hometown": "兵庫県",
+    "generation": "4",
+    "height": "156.5",
+    "nickname": "その他の げんちゃん",
+    "comment": "",
+    "group": "hi"
+  },
+  {
+    "member_name_romaji": "Ogawa Aya",
+    "member_name_kanji": "小川 彩",
+    "birthday": "2007-06-27",
+    "blood_type": "B",
+    "hometown": "千葉県",
+    "generation": "5",
+    "height": "154",
+    "group": "no",
+    "nickname": "その他の 小川屋（命名：設楽）",
+    "family": [
+      "elder_brother"
+    ],
+    "color": "白白"
+  },
+  {
+    "member_name_romaji": "Watanabe Rina",
+    "member_name_kanji": "渡辺 莉奈",
+    "birthday": "2009-02-07",
+    "blood_type": "A",
+    "hometown": "福岡県",
+    "generation": "4",
+    "height": "151.0",
+    "nickname": "その他の りな",
+    "comment": "",
+    "group": "hi"
+  }
+]
