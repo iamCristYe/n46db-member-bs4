@@ -25,101 +25,131 @@ def get_song_url_list() -> list:
     return song_url_list
 
 
-# def download_gallery(url: str):
-#     soup = BeautifulSoup(requests.get(url).content, "lxml")
-#     img_list = soup.find_all("img")
-#     for img in img_list:
-#         src = add_host(img.get("src"))
-#         if "button" not in src:
-#             download_image(src)
+def download_gallery(url: str):
+    soup = BeautifulSoup(requests.get(url).content, "lxml")
+    img_list = soup.find_all("img")
+    for img in img_list:
+        src = add_host(img.get("src"))
+        if "button" not in src:
+            download_image(src)
 
 
 def get_song(url: str) -> dict:
     result = {}
 
     # https://n46db.com/song.php?songcode=s012g
+    # https://n46db.com/song.php?songcode=s022a
+    # https://n46db.com/song.php?songcode=s028e
 
-    # soup = BeautifulSoup(requests.get(url).content, "lxml")
+    # 5 parts: basic_info, cover, comments, MV_info, members
+    soup = BeautifulSoup(requests.get(url).content, "lxml")
 
-    # name_list = soup.find_all("span", class_="f200")
-    # result["member_name_romaji"] = name_list[0].get_text().strip()
-    # result["member_name_kanji"] = name_list[1].get_text().strip()
+    table_list = soup.find_all("table")
+    for table in table_list:
+        if "刹那少女" in table.get_text():
+            continue
+        if "メインページ" in table.get_text():
+            continue
+        if not table.get_text().strip():
+            continue
+        if "枚目シングル" in table.get_text():
+            continue
+        print(table.get_text())
+        if "曲名" in table.get_text():
+            tr_list = table.find_all("tr")
+            for tr in tr_list:
+                text = tr.get_text().strip()
+                if "曲名：" in text:
+                    result["name"] = text.replace("曲名：", "").strip()
+                if "概要：" in text:
+                    result["summary"] = text.replace("概要：", "").strip()
+                if "センター：" in text:
+                    result["center"] = text.replace("センター：", "").strip()
+                if "歌手：" in text:
+                    result["center"] = text.replace("歌手：", "").strip()
+                    result["solo"] = True
+                if "作詞：" in text:
+                    result["lyricist"] = text.replace("作詞：", "").strip()
+                if "作曲：" in text:
+                    result["composer"] = text.replace("作曲：", "").strip()
+                if "編曲：" in text:
+                    result["arranger"] = text.replace("編曲：", "").strip()
+                if "発売日：" in text:
+                    result["date"] = text.replace("発売日：", "").strip()
 
-    # td_list = soup.find_all("td")
-    # for td in td_list:
-    #     text = td.get_text()
-    #     if "生年月日:" in text:
-    #         match = re.findall(r"\d+", text)
-    #         result["birthday"] = f"{match[0]}-{match[1].zfill(2)}-{match[2].zfill(2)}"
-    #     if "血液型:" in text:
-    #         result["blood_type"] = text.replace("血液型:", "").strip().replace("型", "")
-    #     if "出身地:" in text:
-    #         result["hometown"] = text.replace("出身地:", "").strip()
-    #     if "加入期:" in text:
-    #         match = re.findall(r"\d+", text)
-    #         result["generation"] = f"{match[0]}"
-    #     if "身長:" in text:
-    #         result["height"] = text.replace("身長:", "").strip().replace("cm", "")
-    # grad_date = soup.find_all("span", attrs={"style": "color:red"})
-    # if grad_date:
-    #     result["grad_date"] = grad_date[0].get_text()[-10:]
+        # for table in table_list:
+        elif "通常版" in table.get_text():
+            result["version"] = []
+            td_list = table.find_all("td")
+            for td in td_list:
+                text = td.get_text()
+                result["version"].append(text)
+                img_list = td.find_all("img")
+                for img in img_list:
+                    src = add_host(img.get("src"))
+                    if "button" not in src:
+                        download_image(src)
 
-    # img_list = soup.find_all("img")
-    # for img in img_list:
-    #     src = add_host(img.get("src"))
-    #     if "button" not in src:
-    #         download_image(src)
+        else:
+            # the next part would be commets
+            result["comments"] = table.get_text().strip()
+            break
 
-    # if "saka" in url:
-    #     td_list = soup.find_all("td")
-    #     for td in td_list:
-    #         text = td.get_text()
-    #         if "あだ名:" in text:
-    #             result["nickname"] = text.replace("あだ名:", "").strip()
-    #             result["comment"] = td.findNext("td").get_text().strip()
-    #         if "グループ:" in text:
-    #             if "櫻坂" in text:
-    #                 result["group"] = "kesa"
-    #             if "日向" in text:
-    #                 result["group"] = "hi"
+    if "Music video なし" in soup.get_text():
+        result["MV"] = None
+    else:
+        u_list = soup.find_all("u")
+        for u in u_list:
+            if "Music Video" in u.get_text():
+                next_a = u.findNext("a")
+                next_a_link = next_a.get("href")
+                if "director" in next_a_link:
+                    result["director"] = next_a_link.replace(
+                        "https://n46db.com/videos/director.php?director=", ""
+                    )
+                if "furi" in next_a_link:
+                    result["choreographer"] = next_a_link.replace(
+                        "https://n46db.com/songs/furi.php?furi=", ""
+                    )
 
-    # # https://n46db.com/profile.php?id=78
-    # else:
-    #     td_list = soup.find_all("td")
-    #     for td in td_list:
-    #         text = td.get_text()
-    #         result["group"] = "no"
-    #         if "あだ名:" in text:
-    #             result["nickname"] = text.replace("あだ名:", "").strip()
-    #         if "兄弟:" in text:
-    #             family = []
-    #             for word in re.split(r"\/|\.", str(td)):
-    #                 if "unknown" in word:
-    #                     family.append("unknown")
-    #                 elif "onlychild" in word:
-    #                     family.append("only_child")
-    #                 elif "lilbro" in word:
-    #                     family.append("younger_brother")
-    #                 elif "lilsis" in word:
-    #                     family.append("younger_sister")
-    #                 elif "bigbro" in word:
-    #                     family.append("elder_brother")
-    #                 elif "bigsis" in word:
-    #                     family.append("elder_sister")
-    #             result["family"] = family
-    #         if "サイリウム:" in text:
-    #             result["color"] = text.replace("サイリウム:", "").strip()
-    #     download_gallery(url.replace("profile.php", "members/membergallery.php"))
-    # return result
+                next_next_a = next_a.findNext("a")
+                next_next_a_link = next_next_a.get("href")
+                if "director" in next_next_a_link:
+                    result["director"] = next_next_a_link.replace(
+                        "https://n46db.com/videos/director.php?director=", ""
+                    )
+                if "furi" in next_next_a_link:
+                    result["choreographer"] = next_next_a_link.replace(
+                        "https://n46db.com/songs/furi.php?furi=", ""
+                    )
+
+    result["formation"] = []
+    for table in table_list:
+        img_list = table.find_all("img")
+        if img_list:
+            src = add_host(img_list[0].get("src"))
+            print(src)
+            if "profilepic" in src:
+                temp = []
+                for img in img_list:
+                    src = img.get("src")
+                    temp.append(src)
+                result["formation"].append(temp)
+
+    return result
 
 
 def main():
     result = []
     song_url_list = get_song_url_list()
     # print(song_url_list)
+    # song_url_list = [
+    #     "https://n46db.com/song.php?songcode=s012g",
+    #     "https://n46db.com/song.php?songcode=s022a",
+    #     "https://n46db.com/song.php?songcode=s028e",
+    # ]
     for url in song_url_list:
         song = get_song(url)
-        # print(profile["member_name_kanji"])
         result.append(song)
         time.sleep(3)
         with open("songs.json", "w") as file:

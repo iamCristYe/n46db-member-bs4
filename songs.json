@@ -1,0 +1,83 @@
+[
+  {
+    "name": "制服を脱いでサヨナラを…",
+    "summary": "12thシングル通常盤カップリング曲（ユニット曲）",
+    "lyricist": "秋元康",
+    "composer": "古川貴浩",
+    "arranger": "古川貴浩",
+    "date": "2015年07月22日",
+    "comments": "表題曲太陽ノック（選抜）共通もう少しの夢（ソロ曲）Type-A魚たちのLOVE SONG（ユニット曲）Type-B無表情（ユニット曲）Type-C別れ際、もっと好きになる（アンダー曲）セブン-イレブン限定羽根の記憶（ユニット曲）通常盤制服を脱いでサヨナラを…（ユニット曲）",
+    "MV": null,
+    "formation": [
+      [
+        "pictures/profilepics/s012/saito_asuka.jpg",
+        "pictures/profilepics/s012/hoshino_minami.jpg"
+      ],
+      [
+        "pictures/profilepics/s012/saito_asuka.jpg",
+        "pictures/profilepics/s012/hoshino_minami.jpg"
+      ]
+    ]
+  },
+  {
+    "name": "帰り道は遠回りしたくなる",
+    "summary": "22ndシングル表題曲（選抜）",
+    "center": "西野七瀬",
+    "lyricist": "秋元康",
+    "composer": "渡邉俊彦",
+    "arranger": "渡邉俊彦、早川博隆",
+    "date": "2018年11月14日",
+    "version": [
+      "Type-A",
+      "Type-B",
+      "Type-C",
+      "Type-D",
+      "通常版"
+    ],
+    "comments": "西野七瀬はグループ最多の7度目のセンター、また、11thシングル「命は美しい」以来4度目の単独センターを務める西野七瀬、若月佑美が参加する最後の作品となる伊藤理々杏、佐藤楓が初選抜7-7-7のフォーメーションは3作連続。過去に3作連続は4-6枚目「制服のマネキン」「君の名は希望」「ガールズルール」（8-5-3） のみ",
+    "director": "videos/director.php?director=関和亮",
+    "choreographer": "songs/furi.php?furi=CRE8BOY",
+    "formation": [
+      [
+        "pictures/profilepics/s022/saito_yuuri.jpg",
+        "pictures/profilepics/s022/inoue_sayuri.jpg",
+        "pictures/profilepics/s022/sato_kaede.jpg",
+        "pictures/profilepics/s022/ozono_momoko.jpg",
+        "pictures/profilepics/s022/ito_riria.jpg",
+        "pictures/profilepics/s022/shinuchi_mai.jpg",
+        "pictures/profilepics/s022/takayama_kazumi.jpg"
+      ],
+      [
+        "pictures/profilepics/s022/eto_misa.jpg",
+        "pictures/profilepics/s022/akimoto_manatsu.jpg",
+        "pictures/profilepics/s022/hori_miona.jpg",
+        "pictures/profilepics/s022/wakatsuki_yumi.jpg",
+        "pictures/profilepics/s022/hoshino_minami.jpg",
+        "pictures/profilepics/s022/sakurai_reika.jpg",
+        "pictures/profilepics/s022/matsumura_sayuri.jpg"
+      ],
+      [
+        "pictures/profilepics/s022/umezawa_minami.jpg",
+        "pictures/profilepics/s022/yamashita_mizuki.jpg",
+        "pictures/profilepics/s022/saito_asuka.jpg",
+        "pictures/profilepics/s022/nishino_nanase.jpg",
+        "pictures/profilepics/s022/shiraishi_mai.jpg",
+        "pictures/profilepics/s022/ikuta_erika.jpg",
+        "pictures/profilepics/s022/yoda_yuuki.jpg"
+      ]
+    ]
+  },
+  {
+    "name": "私の色",
+    "summary": "28thシングルType-Cカップリング曲（ソロ曲）",
+    "center": "高山一実",
+    "solo": true,
+    "lyricist": "秋元康",
+    "composer": "YSU",
+    "arranger": "YSU",
+    "date": "2021年09月22日",
+    "comments": "卒業する高山一実にとっては最初で最後のソロ曲。MVは2021年9月9日にYouTubeに公開。7月下旬に東京都立川市の結婚式場で撮影された。MVの監督は数多くのMusic Videoも手掛け、乃木坂46では「口ほどにもないKISS」「時々思い出してください」を手掛けた映画監督の頃安祐良。",
+    "director": "videos/director.php?director=頃安祐良",
+    "formation": []
+  }
+]
