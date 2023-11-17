@@ -36,7 +36,7 @@ def download_gallery(url: str):
 
 def get_song(url: str) -> dict:
     result = {}
-
+    result["url"] = url
     # https://n46db.com/song.php?songcode=s012g
     # https://n46db.com/song.php?songcode=s022a
     # https://n46db.com/song.php?songcode=s028e
@@ -54,6 +54,9 @@ def get_song(url: str) -> dict:
             continue
         if "枚目シングル" in table.get_text():
             continue
+        if "© 乃木坂46LLC" in table.get_text():
+            continue
+
         print(table.get_text())
         if "曲名" in table.get_text():
             tr_list = table.find_all("tr")
@@ -101,27 +104,24 @@ def get_song(url: str) -> dict:
         u_list = soup.find_all("u")
         for u in u_list:
             if "Music Video" in u.get_text():
-                next_a = u.findNext("a")
-                next_a_link = next_a.get("href")
-                if "director" in next_a_link:
-                    result["director"] = next_a_link.replace(
-                        "https://n46db.com/videos/director.php?director=", ""
-                    )
-                if "furi" in next_a_link:
-                    result["choreographer"] = next_a_link.replace(
-                        "https://n46db.com/songs/furi.php?furi=", ""
-                    )
+                a_list = soup.find_all("a")
+                for a in a_list:
+                    a_link = a.get("href")
+                    if "director" in a_link:
+                        if "director" not in result:
+                            result["director"] = []
 
-                next_next_a = next_a.findNext("a")
-                next_next_a_link = next_next_a.get("href")
-                if "director" in next_next_a_link:
-                    result["director"] = next_next_a_link.replace(
-                        "https://n46db.com/videos/director.php?director=", ""
-                    )
-                if "furi" in next_next_a_link:
-                    result["choreographer"] = next_next_a_link.replace(
-                        "https://n46db.com/songs/furi.php?furi=", ""
-                    )
+                        result["director"].append(
+                            a_link.replace(
+                                "https://n46db.com/videos/director.php?director=", ""
+                            )
+                        )
+                    if "furi" in a_link:
+                        if "choreographer" not in result:
+                            result["choreographer"] = []
+                        result["choreographer"].append(
+                            a_link.replace("https://n46db.com/songs/furi.php?furi=", "")
+                        )
 
     result["formation"] = []
     for table in table_list:
@@ -148,8 +148,8 @@ def main():
     #     "https://n46db.com/song.php?songcode=s022a",
     #     "https://n46db.com/song.php?songcode=s028e",
     # ]
-    for url in song_url_list:
-        song = get_song(url)
+    for i in range(105,280):
+        song = get_song(song_url_list[i])
         result.append(song)
         time.sleep(3)
         with open("songs.json", "w") as file:
