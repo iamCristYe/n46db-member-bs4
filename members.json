@@ -14,7 +14,8 @@
       "unknown"
     ],
     "url": "../profile.php?id=74",
-    "id": "岩瀬"
+    "id": "74",
+    "abbr": "岩瀬"
   },
   {
     "member_name_romaji": "Fukagawa Mai",
@@ -32,7 +33,8 @@
     ],
     "color": "緑紫",
     "url": "../profile.php?id=59",
-    "id": "深川"
+    "id": "59",
+    "abbr": "深川"
   },
   {
     "member_name_romaji": "Matsui Rena",
@@ -49,7 +51,8 @@
       "unknown"
     ],
     "url": "../profile.php?id=60",
-    "id": "松井"
+    "id": "60",
+    "abbr": "松井"
   },
   {
     "member_name_romaji": "Shinuchi Mai",
@@ -67,7 +70,8 @@
     ],
     "color": "青紫",
     "url": "../profile.php?id=18",
-    "id": "新内"
+    "id": "18",
+    "abbr": "新内"
   },
   {
     "member_name_romaji": "Shiraishi Mai",
@@ -85,7 +89,8 @@
     ],
     "color": "水色水色",
     "url": "../profile.php?id=7",
-    "id": "白石"
+    "id": "7",
+    "abbr": "白石"
   },
   {
     "member_name_romaji": "Matsumura Sayuri",
@@ -104,7 +109,8 @@
     ],
     "color": "赤赤",
     "url": "../profile.php?id=12",
-    "id": "松村"
+    "id": "12",
+    "abbr": "松村"
   },
   {
     "member_name_romaji": "Eto Misa",
@@ -123,7 +129,8 @@
     ],
     "color": "赤紫",
     "url": "../profile.php?id=48",
-    "id": "衛藤"
+    "id": "48",
+    "abbr": "衛藤"
   },
   {
     "member_name_romaji": "Hashimoto Nanami",
@@ -141,7 +148,8 @@
     ],
     "color": "緑緑",
     "url": "../profile.php?id=58",
-    "id": "橋本"
+    "id": "58",
+    "abbr": "橋本"
   },
   {
     "member_name_romaji": "Ando Mikumo",
@@ -158,7 +166,8 @@
       "unknown"
     ],
     "url": "../profile.php?id=73",
-    "id": "安藤"
+    "id": "73",
+    "abbr": "安藤"
   },
   {
     "member_name_romaji": "Ito Karin",
@@ -176,7 +185,8 @@
     ],
     "color": "緑紫",
     "url": "../profile.php?id=14",
-    "id": "かり"
+    "id": "14",
+    "abbr": "かり"
   },
   {
     "member_name_romaji": "Saito Yuuri",
@@ -194,7 +204,8 @@
     ],
     "color": "ピンク白",
     "url": "../profile.php?id=5",
-    "id": "優里"
+    "id": "5",
+    "abbr": "優里"
   },
   {
     "member_name_romaji": "Akimoto Manatsu",
@@ -212,7 +223,8 @@
     ],
     "color": "ピンク赤",
     "url": "../profile.php?id=1",
-    "id": "秋元"
+    "id": "1",
+    "abbr": "秋元"
   },
   {
     "member_name_romaji": "Miyazawa Seira",
@@ -229,7 +241,8 @@
       "unknown"
     ],
     "url": "../profile.php?id=71",
-    "id": "宮澤"
+    "id": "71",
+    "abbr": "宮澤"
   },
   {
     "member_name_romaji": "Takayama Kazumi",
@@ -247,7 +260,8 @@
     ],
     "color": "水色ピンク",
     "url": "../profile.php?id=8",
-    "id": "高山"
+    "id": "8",
+    "abbr": "高山"
   },
   {
     "member_name_romaji": "Sakurai Reika",
@@ -265,7 +279,8 @@
     ],
     "color": "赤ピンク",
     "url": "../profile.php?id=6",
-    "id": "桜井"
+    "id": "6",
+    "abbr": "桜井"
   },
   {
     "member_name_romaji": "Nagashima Seira",
@@ -282,7 +297,8 @@
       "unknown"
     ],
     "url": "../profile.php?id=66",
-    "id": "永島"
+    "id": "66",
+    "abbr": "永島"
   },
   {
     "member_name_romaji": "Nishino Nanase",
@@ -300,7 +316,8 @@
     ],
     "color": "緑白",
     "url": "../profile.php?id=47",
-    "id": "西野"
+    "id": "47",
+    "abbr": "西野"
   },
   {
     "member_name_romaji": "Wakatsuki Yumi",
@@ -319,7 +336,8 @@
     ],
     "color": "青青",
     "url": "../profile.php?id=49",
-    "id": "若月"
+    "id": "49",
+    "abbr": "若月"
   },
   {
     "member_name_romaji": "Nakada Kana",
@@ -337,7 +355,8 @@
     ],
     "color": "黒白",
     "url": "../profile.php?id=9",
-    "id": "中田"
+    "id": "9",
+    "abbr": "中田"
   },
   {
     "member_name_romaji": "Kashiwa Yukina",
@@ -354,7 +373,8 @@
       "unknown"
     ],
     "url": "../profile.php?id=72",
-    "id": "柏幸"
+    "id": "72",
+    "abbr": "柏幸"
   },
   {
     "member_name_romaji": "Noujo Ami",
@@ -372,7 +392,8 @@
     ],
     "color": "オレンジオレンジ",
     "url": "../profile.php?id=52",
-    "id": "能條"
+    "id": "52",
+    "abbr": "能條"
   },
   {
     "member_name_romaji": "Inoue Sayuri",
@@ -393,7 +414,8 @@
     ],
     "color": "白白",
     "url": "../profile.php?id=3",
-    "id": "井上"
+    "id": "3",
+    "abbr": "井上"
   },
   {
     "member_name_romaji": "Yamato Rina",
@@ -410,7 +432,8 @@
       "unknown"
     ],
     "url": "../profile.php?id=67",
-    "id": "大和"
+    "id": "67",
+    "abbr": "大和"
   },
   {
     "member_name_romaji": "Watanabe Rika",
@@ -425,7 +448,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=133",
-    "id": "k梨加"
+    "id": "133",
+    "abbr": "k梨加"
   },
   {
     "member_name_romaji": "Kawamura Mahiro",
@@ -443,7 +467,8 @@
     ],
     "color": "赤赤",
     "url": "../profile.php?id=55",
-    "id": "川村"
+    "id": "55",
+    "abbr": "川村"
   },
   {
     "member_name_romaji": "Yoshida Ayano Christie",
@@ -460,7 +485,8 @@
     ],
     "color": "ピンク紫",
     "url": "../profile.php?id=34",
-    "id": "吉田"
+    "id": "34",
+    "abbr": "吉田"
   },
   {
     "member_name_romaji": "Iguchi Mao",
@@ -475,7 +501,8 @@
     "comment": "",
     "group": "hi",
     "url": "../profile-saka.php?id=146",
-    "id": "h井口"
+    "id": "146",
+    "abbr": "h井口"
   },
   {
     "member_name_romaji": "Sugai Yuuka",
@@ -490,7 +517,8 @@
     "comment": "櫻坂46キャプテン",
     "group": "kesa",
     "url": "../profile-saka.php?id=94",
-    "id": "k菅井"
+    "id": "94",
+    "abbr": "k菅井"
   },
   {
     "member_name_romaji": "Hatanaka Seira",
@@ -508,7 +536,8 @@
     ],
     "color": "ピンク青",
     "url": "../profile.php?id=68",
-    "id": "畠中"
+    "id": "68",
+    "abbr": "畠中"
   },
   {
     "member_name_romaji": "Ito Nene",
@@ -526,7 +555,8 @@
     ],
     "color": "ピンクオレンジ",
     "url": "../profile.php?id=69",
-    "id": "寧々"
+    "id": "69",
+    "abbr": "寧々"
   },
   {
     "member_name_romaji": "Ikoma Rina",
@@ -544,7 +574,8 @@
     ],
     "color": "青紫",
     "url": "../profile.php?id=50",
-    "id": "生駒"
+    "id": "50",
+    "abbr": "生駒"
   },
   {
     "member_name_romaji": "Ichiki Rena",
@@ -561,7 +592,8 @@
       "unknown"
     ],
     "url": "../profile.php?id=70",
-    "id": "市來"
+    "id": "70",
+    "abbr": "市來"
   },
   {
     "member_name_romaji": "Sasaki Kumi",
@@ -575,7 +607,8 @@
     "comment": "日向坂46キャプテン",
     "group": "hi",
     "url": "../profile-saka.php?id=112",
-    "id": "h久美"
+    "id": "112",
+    "abbr": "h久美"
   },
   {
     "member_name_romaji": "Ito Marika",
@@ -593,7 +626,8 @@
     ],
     "color": "緑紫",
     "url": "../profile.php?id=57",
-    "id": "万理"
+    "id": "57",
+    "abbr": "万理"
   },
   {
     "member_name_romaji": "Nakamoto Himeka",
@@ -612,7 +646,8 @@
     ],
     "color": "ピンクピンク",
     "url": "../profile.php?id=56",
-    "id": "中元"
+    "id": "56",
+    "abbr": "中元"
   },
   {
     "member_name_romaji": "Kitano Hinako",
@@ -631,7 +666,8 @@
     ],
     "color": "ピンク黄緑",
     "url": "../profile.php?id=16",
-    "id": "北野"
+    "id": "16",
+    "abbr": "北野"
   },
   {
     "member_name_romaji": "Hori Miona",
@@ -649,7 +685,8 @@
     ],
     "color": "オレンジ白",
     "url": "../profile.php?id=21",
-    "id": "堀未"
+    "id": "21",
+    "abbr": "堀未"
   },
   {
     "member_name_romaji": "Sato Shiori",
@@ -664,7 +701,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=136",
-    "id": "k佐藤"
+    "id": "136",
+    "abbr": "k佐藤"
   },
   {
     "member_name_romaji": "Uemura Rina",
@@ -678,7 +716,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=89",
-    "id": "k上村"
+    "id": "89",
+    "abbr": "k上村"
   },
   {
     "member_name_romaji": "Ikuta Erika",
@@ -696,7 +735,8 @@
     ],
     "color": "黄色黄色",
     "url": "../profile.php?id=2",
-    "id": "生田"
+    "id": "2",
+    "abbr": "生田"
   },
   {
     "member_name_romaji": "Saito Chiharu",
@@ -714,7 +754,8 @@
     ],
     "color": "赤青",
     "url": "../profile.php?id=54",
-    "id": "ちは"
+    "id": "54",
+    "abbr": "ちは"
   },
   {
     "member_name_romaji": "Nagasawa Nanako",
@@ -729,7 +770,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=138",
-    "id": "k長沢"
+    "id": "138",
+    "abbr": "k長沢"
   },
   {
     "member_name_romaji": "Ishimori Nijika",
@@ -744,7 +786,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=137",
-    "id": "k石森"
+    "id": "137",
+    "abbr": "k石森"
   },
   {
     "member_name_romaji": "Yamazaki Rena",
@@ -762,7 +805,8 @@
     ],
     "color": "黄色白",
     "url": "../profile.php?id=22",
-    "id": "山崎"
+    "id": "22",
+    "abbr": "山崎"
   },
   {
     "member_name_romaji": "Habu Mizuho",
@@ -776,7 +820,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=95",
-    "id": "k土生"
+    "id": "95",
+    "abbr": "k土生"
   },
   {
     "member_name_romaji": "Saito Kyoko",
@@ -790,7 +835,8 @@
     "comment": "",
     "group": "hi",
     "url": "../profile-saka.php?id=111",
-    "id": "h齊藤"
+    "id": "111",
+    "abbr": "h齊藤"
   },
   {
     "member_name_romaji": "Ozeki Rika",
@@ -805,7 +851,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=90",
-    "id": "k尾関"
+    "id": "90",
+    "abbr": "k尾関"
   },
   {
     "member_name_romaji": "Moriya Akane",
@@ -820,7 +867,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=134",
-    "id": "k守屋"
+    "id": "134",
+    "abbr": "k守屋"
   },
   {
     "member_name_romaji": "Sagara Iori",
@@ -838,7 +886,8 @@
     ],
     "color": "緑オレンジ",
     "url": "../profile.php?id=53",
-    "id": "相楽"
+    "id": "53",
+    "abbr": "相楽"
   },
   {
     "member_name_romaji": "Suzumoto Miyu",
@@ -853,7 +902,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=140",
-    "id": "k鈴本"
+    "id": "140",
+    "abbr": "k鈴本"
   },
   {
     "member_name_romaji": "Ushio Sarina",
@@ -867,7 +917,8 @@
     "comment": "",
     "group": "hi",
     "url": "../profile-saka.php?id=109",
-    "id": "h潮紗"
+    "id": "109",
+    "abbr": "h潮紗"
   },
   {
     "member_name_romaji": "Higuchi Hina",
@@ -886,7 +937,8 @@
     ],
     "color": "紫オレンジ",
     "url": "../profile.php?id=10",
-    "id": "樋口"
+    "id": "10",
+    "abbr": "樋口"
   },
   {
     "member_name_romaji": "Kato Shiho",
@@ -900,7 +952,8 @@
     "comment": "",
     "group": "hi",
     "url": "../profile-saka.php?id=110",
-    "id": "h加藤"
+    "id": "110",
+    "abbr": "h加藤"
   },
   {
     "member_name_romaji": "Hoshino Minami",
@@ -918,7 +971,8 @@
     ],
     "color": "白白",
     "url": "../profile.php?id=11",
-    "id": "星野"
+    "id": "11",
+    "abbr": "星野"
   },
   {
     "member_name_romaji": "Saito Fuyuka",
@@ -932,7 +986,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=93",
-    "id": "k齋藤"
+    "id": "93",
+    "abbr": "k齋藤"
   },
   {
     "member_name_romaji": "Kawago Hina",
@@ -950,7 +1005,8 @@
     ],
     "color": "",
     "url": "../profile.php?id=51",
-    "id": "川後"
+    "id": "51",
+    "abbr": "川後"
   },
   {
     "member_name_romaji": "Sato Kaede",
@@ -967,7 +1023,8 @@
     ],
     "color": "赤赤",
     "url": "../profile.php?id=30",
-    "id": "佐藤"
+    "id": "30",
+    "abbr": "佐藤"
   },
   {
     "member_name_romaji": "Wada Maaya",
@@ -985,7 +1042,8 @@
     ],
     "color": "黄色オレンジ",
     "url": "../profile.php?id=13",
-    "id": "和田"
+    "id": "13",
+    "abbr": "和田"
   },
   {
     "member_name_romaji": "Miyata Manamo",
@@ -1000,7 +1058,8 @@
     "comment": "",
     "group": "hi",
     "url": "../profile-saka.php?id=124",
-    "id": "h宮田"
+    "id": "124",
+    "abbr": "h宮田"
   },
   {
     "member_name_romaji": "Matsudaira Riko",
@@ -1015,7 +1074,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=135",
-    "id": "k松平"
+    "id": "135",
+    "abbr": "k松平"
   },
   {
     "member_name_romaji": "Oda Nana",
@@ -1030,7 +1090,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=141",
-    "id": "k織田"
+    "id": "141",
+    "abbr": "k織田"
   },
   {
     "member_name_romaji": "Seki Yumiko",
@@ -1045,7 +1106,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=101",
-    "id": "k関有"
+    "id": "101",
+    "abbr": "k関有"
   },
   {
     "member_name_romaji": "Watanabe Risa",
@@ -1060,7 +1122,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=130",
-    "id": "k理佐"
+    "id": "130",
+    "abbr": "k理佐"
   },
   {
     "member_name_romaji": "Saito Asuka",
@@ -1079,7 +1142,8 @@
     ],
     "color": "水色白",
     "url": "../profile.php?id=4",
-    "id": "飛鳥"
+    "id": "4",
+    "abbr": "飛鳥"
   },
   {
     "member_name_romaji": "Higashimura Mei",
@@ -1093,7 +1157,8 @@
     "comment": "",
     "group": "hi",
     "url": "../profile-saka.php?id=116",
-    "id": "h東村"
+    "id": "116",
+    "abbr": "h東村"
   },
   {
     "member_name_romaji": "Sasaki Kotoko",
@@ -1112,7 +1177,8 @@
     ],
     "color": "青緑",
     "url": "../profile.php?id=17",
-    "id": "佐々"
+    "id": "17",
+    "abbr": "佐々"
   },
   {
     "member_name_romaji": "Nagahama Neru",
@@ -1127,7 +1193,8 @@
     "comment": "長濱は「けやき坂46」から「欅坂46」へ事実上移籍し、それは「欅坂46」1期生の加入後で2期生の加入前のことである。DBの構造上、欅坂46の1期生としています。",
     "group": "kesa",
     "url": "../profile-saka.php?id=142",
-    "id": "k長濱"
+    "id": "142",
+    "abbr": "k長濱"
   },
   {
     "member_name_romaji": "Takase Mana",
@@ -1141,7 +1208,8 @@
     "comment": "",
     "group": "hi",
     "url": "../profile-saka.php?id=114",
-    "id": "h高瀬"
+    "id": "114",
+    "abbr": "h高瀬"
   },
   {
     "member_name_romaji": "Terada Ranze",
@@ -1160,7 +1228,8 @@
     ],
     "color": "赤白",
     "url": "../profile.php?id=20",
-    "id": "寺田"
+    "id": "20",
+    "abbr": "寺田"
   },
   {
     "member_name_romaji": "Imaizumi Yui",
@@ -1175,7 +1244,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=145",
-    "id": "k今泉"
+    "id": "145",
+    "abbr": "k今泉"
   },
   {
     "member_name_romaji": "Tamura Hono",
@@ -1189,7 +1259,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=103",
-    "id": "k田村"
+    "id": "103",
+    "abbr": "k田村"
   },
   {
     "member_name_romaji": "Takamoto Ayaka",
@@ -1203,7 +1274,8 @@
     "comment": "",
     "group": "hi",
     "url": "../profile-saka.php?id=115",
-    "id": "h高本"
+    "id": "115",
+    "abbr": "h高本"
   },
   {
     "member_name_romaji": "Koike Minami",
@@ -1217,7 +1289,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=91",
-    "id": "k小池"
+    "id": "91",
+    "abbr": "k小池"
   },
   {
     "member_name_romaji": "Shida Manaka",
@@ -1232,7 +1305,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=144",
-    "id": "k志田"
+    "id": "144",
+    "abbr": "k志田"
   },
   {
     "member_name_romaji": "Ito Junna",
@@ -1251,7 +1325,8 @@
     ],
     "color": "水色ピンク",
     "url": "../profile.php?id=15",
-    "id": "純奈"
+    "id": "15",
+    "abbr": "純奈"
   },
   {
     "member_name_romaji": "Umezawa Minami",
@@ -1269,7 +1344,8 @@
     ],
     "color": "青水色",
     "url": "../profile.php?id=26",
-    "id": "梅澤"
+    "id": "26",
+    "abbr": "梅澤"
   },
   {
     "member_name_romaji": "Tamura Mayu",
@@ -1287,7 +1363,8 @@
     ],
     "color": "紫水色",
     "url": "../profile.php?id=43",
-    "id": "田村"
+    "id": "43",
+    "abbr": "田村"
   },
   {
     "member_name_romaji": "Yumiki Nao",
@@ -1302,7 +1379,8 @@
     "family": [],
     "color": "赤黄緑",
     "url": "../profile.php?id=65",
-    "id": "弓木"
+    "id": "65",
+    "abbr": "弓木"
   },
   {
     "member_name_romaji": "Suzuki Ayane",
@@ -1320,7 +1398,8 @@
     ],
     "color": "白紫",
     "url": "../profile.php?id=19",
-    "id": "鈴木"
+    "id": "19",
+    "abbr": "鈴木"
   },
   {
     "member_name_romaji": "Endo Hikari",
@@ -1334,7 +1413,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=98",
-    "id": "k遠藤"
+    "id": "98",
+    "abbr": "k遠藤"
   },
   {
     "member_name_romaji": "Matsuda Konoka",
@@ -1348,7 +1428,8 @@
     "comment": "",
     "group": "hi",
     "url": "../profile-saka.php?id=123",
-    "id": "h松田"
+    "id": "123",
+    "abbr": "h松田"
   },
   {
     "member_name_romaji": "Yamashita Mizuki",
@@ -1365,7 +1446,8 @@
     ],
     "color": "青黄色",
     "url": "../profile.php?id=33",
-    "id": "山下"
+    "id": "33",
+    "abbr": "山下"
   },
   {
     "member_name_romaji": "Mukai Hazuki",
@@ -1383,7 +1465,8 @@
     ],
     "color": "黄色黄色",
     "url": "../profile.php?id=32",
-    "id": "向井"
+    "id": "32",
+    "abbr": "向井"
   },
   {
     "member_name_romaji": "Ozono Momoko",
@@ -1401,7 +1484,8 @@
     ],
     "color": "ピンク緑",
     "url": "../profile.php?id=27",
-    "id": "大園"
+    "id": "27",
+    "abbr": "大園"
   },
   {
     "member_name_romaji": "Onuma Akiho",
@@ -1415,7 +1499,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=99",
-    "id": "k大沼"
+    "id": "99",
+    "abbr": "k大沼"
   },
   {
     "member_name_romaji": "Matsuda Rina",
@@ -1429,7 +1514,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=106",
-    "id": "k松田"
+    "id": "106",
+    "abbr": "k松田"
   },
   {
     "member_name_romaji": "Kobayashi Yui",
@@ -1443,7 +1529,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=92",
-    "id": "k小林"
+    "id": "92",
+    "abbr": "k小林"
   },
   {
     "member_name_romaji": "Watanabe Miria",
@@ -1462,7 +1549,8 @@
     ],
     "color": "黄色黄緑",
     "url": "../profile.php?id=23",
-    "id": "渡辺"
+    "id": "23",
+    "abbr": "渡辺"
   },
   {
     "member_name_romaji": "Sasaki Mirei",
@@ -1476,7 +1564,8 @@
     "comment": "",
     "group": "hi",
     "url": "../profile-saka.php?id=113",
-    "id": "h美玲"
+    "id": "113",
+    "abbr": "h美玲"
   },
   {
     "member_name_romaji": "Moriya Rena",
@@ -1490,7 +1579,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=108",
-    "id": "k麗奈"
+    "id": "108",
+    "abbr": "k麗奈"
   },
   {
     "member_name_romaji": "Watanabe Miho",
@@ -1505,7 +1595,8 @@
     "comment": "",
     "group": "hi",
     "url": "../profile-saka.php?id=125",
-    "id": "h渡邉"
+    "id": "125",
+    "abbr": "h渡邉"
   },
   {
     "member_name_romaji": "Yonetani Nanami",
@@ -1520,7 +1611,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=143",
-    "id": "k米谷"
+    "id": "143",
+    "abbr": "k米谷"
   },
   {
     "member_name_romaji": "Ozono Rei",
@@ -1534,7 +1626,8 @@
     "comment": "元・坂道研修生",
     "group": "kesa",
     "url": "../profile-saka.php?id=86",
-    "id": "k大園"
+    "id": "86",
+    "abbr": "k大園"
   },
   {
     "member_name_romaji": "Yoda Yuuki",
@@ -1551,7 +1644,8 @@
     ],
     "color": "赤緑",
     "url": "../profile.php?id=35",
-    "id": "与田"
+    "id": "35",
+    "abbr": "与田"
   },
   {
     "member_name_romaji": "Harada Aoi",
@@ -1566,7 +1660,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=96",
-    "id": "k原田"
+    "id": "96",
+    "abbr": "k原田"
   },
   {
     "member_name_romaji": "Hayakawa Seira",
@@ -1584,7 +1679,8 @@
     ],
     "color": "青青",
     "url": "../profile.php?id=45",
-    "id": "早川"
+    "id": "45",
+    "abbr": "早川"
   },
   {
     "member_name_romaji": "Tomita Suzuka",
@@ -1598,7 +1694,8 @@
     "comment": "",
     "group": "hi",
     "url": "../profile-saka.php?id=120",
-    "id": "h富田"
+    "id": "120",
+    "abbr": "h富田"
   },
   {
     "member_name_romaji": "Inoue Rina",
@@ -1612,7 +1709,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=97",
-    "id": "k井上"
+    "id": "97",
+    "abbr": "k井上"
   },
   {
     "member_name_romaji": "Nibu Akari",
@@ -1626,7 +1724,8 @@
     "comment": "",
     "group": "hi",
     "url": "../profile-saka.php?id=121",
-    "id": "h丹生"
+    "id": "121",
+    "abbr": "h丹生"
   },
   {
     "member_name_romaji": "Kageyama Yuuka",
@@ -1641,7 +1740,8 @@
     "comment": "",
     "group": "hi",
     "url": "../profile-saka.php?id=88",
-    "id": "h影山"
+    "id": "88",
+    "abbr": "h影山"
   },
   {
     "member_name_romaji": "Hirate Yurina",
@@ -1656,7 +1756,8 @@
     "comment": "卒業ではなく、脱退という扱いになっている。",
     "group": "kesa",
     "url": "../profile-saka.php?id=139",
-    "id": "k平手"
+    "id": "139",
+    "abbr": "k平手"
   },
   {
     "member_name_romaji": "Morita Hikaru",
@@ -1670,7 +1771,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=107",
-    "id": "k森田"
+    "id": "107",
+    "abbr": "k森田"
   },
   {
     "member_name_romaji": "Kubo Shiori",
@@ -1687,7 +1789,8 @@
     ],
     "color": "水色黄色",
     "url": "../profile.php?id=28",
-    "id": "久保"
+    "id": "28",
+    "abbr": "久保"
   },
   {
     "member_name_romaji": "Kawata Hina",
@@ -1701,7 +1804,8 @@
     "comment": "",
     "group": "hi",
     "url": "../profile-saka.php?id=118",
-    "id": "h河田"
+    "id": "118",
+    "abbr": "h河田"
   },
   {
     "member_name_romaji": "Kaki Haruka",
@@ -1718,7 +1822,8 @@
     ],
     "color": "オレンジ緑",
     "url": "../profile.php?id=37",
-    "id": "賀喜"
+    "id": "37",
+    "abbr": "賀喜"
   },
   {
     "member_name_romaji": "Kitagawa Yuri",
@@ -1736,7 +1841,8 @@
     ],
     "color": "水色オレンジ",
     "url": "../profile.php?id=40",
-    "id": "北川"
+    "id": "40",
+    "abbr": "北川"
   },
   {
     "member_name_romaji": "Sato Rika",
@@ -1753,7 +1859,8 @@
     ],
     "color": "ピンクターコイズ",
     "url": "../profile.php?id=62",
-    "id": "璃果"
+    "id": "62",
+    "abbr": "璃果"
   },
   {
     "member_name_romaji": "Fujiyoshi Karin",
@@ -1767,7 +1874,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=104",
-    "id": "k藤吉"
+    "id": "104",
+    "abbr": "k藤吉"
   },
   {
     "member_name_romaji": "Nakamura Reno",
@@ -1784,7 +1892,8 @@
     ],
     "color": "青白",
     "url": "../profile.php?id=31",
-    "id": "中村"
+    "id": "31",
+    "abbr": "中村"
   },
   {
     "member_name_romaji": "Endo Sakura",
@@ -1801,7 +1910,8 @@
     ],
     "color": "ピンク白",
     "url": "../profile.php?id=36",
-    "id": "遠藤"
+    "id": "36",
+    "abbr": "遠藤"
   },
   {
     "member_name_romaji": "Kanagawa Saya",
@@ -1818,7 +1928,8 @@
     ],
     "color": "水色赤",
     "url": "../profile.php?id=39",
-    "id": "金川"
+    "id": "39",
+    "abbr": "金川"
   },
   {
     "member_name_romaji": "Sakaguchi Tamami",
@@ -1835,7 +1946,8 @@
     ],
     "color": "紫黄色",
     "url": "../profile.php?id=29",
-    "id": "阪口"
+    "id": "29",
+    "abbr": "阪口"
   },
   {
     "member_name_romaji": "Kakizaki Memi",
@@ -1850,7 +1962,8 @@
     "comment": "",
     "group": "hi",
     "url": "../profile-saka.php?id=147",
-    "id": "h柿崎"
+    "id": "147",
+    "abbr": "h柿崎"
   },
   {
     "member_name_romaji": "Masumoto Kira",
@@ -1864,7 +1977,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=105",
-    "id": "k増本"
+    "id": "105",
+    "abbr": "k増本"
   },
   {
     "member_name_romaji": "Ishimori Rika",
@@ -1878,7 +1992,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=164",
-    "id": "k石森"
+    "id": "164",
+    "abbr": "k石森"
   },
   {
     "member_name_romaji": "Takemoto Yui",
@@ -1892,7 +2007,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=102",
-    "id": "k武元"
+    "id": "102",
+    "abbr": "k武元"
   },
   {
     "member_name_romaji": "Hiraoka Mitsuki",
@@ -1906,7 +2022,8 @@
     "comment": "",
     "group": "hi",
     "url": "../profile-saka.php?id=154",
-    "id": "h平岡"
+    "id": "154",
+    "abbr": "h平岡"
   },
   {
     "member_name_romaji": "Ikeda Teresa",
@@ -1923,7 +2040,8 @@
     ],
     "color": "緑白",
     "url": "../profile.php?id=83",
-    "id": "池田"
+    "id": "83",
+    "abbr": "池田"
   },
   {
     "member_name_romaji": "Yakubo Mio",
@@ -1941,7 +2059,8 @@
     ],
     "color": "ピンク黄色",
     "url": "../profile.php?id=46",
-    "id": "矢久"
+    "id": "46",
+    "abbr": "矢久"
   },
   {
     "member_name_romaji": "Kosaka Nao",
@@ -1955,7 +2074,8 @@
     "comment": "",
     "group": "hi",
     "url": "../profile-saka.php?id=119",
-    "id": "h小坂"
+    "id": "119",
+    "abbr": "h小坂"
   },
   {
     "member_name_romaji": "Kanemura Miku",
@@ -1969,7 +2089,8 @@
     "comment": "",
     "group": "hi",
     "url": "../profile-saka.php?id=117",
-    "id": "h金村"
+    "id": "117",
+    "abbr": "h金村"
   },
   {
     "member_name_romaji": "Hamagishi Hiyori",
@@ -1983,7 +2104,8 @@
     "comment": "",
     "group": "hi",
     "url": "../profile-saka.php?id=122",
-    "id": "h濱岸"
+    "id": "122",
+    "abbr": "h濱岸"
   },
   {
     "member_name_romaji": "Ito Riria",
@@ -2000,7 +2122,8 @@
     ],
     "color": "紫赤",
     "url": "../profile.php?id=24",
-    "id": "理々"
+    "id": "24",
+    "abbr": "理々"
   },
   {
     "member_name_romaji": "Kakehashi Sayaka",
@@ -2018,7 +2141,8 @@
     ],
     "color": "ピンクオレンジ",
     "url": "../profile.php?id=38",
-    "id": "掛橋"
+    "id": "38",
+    "abbr": "掛橋"
   },
   {
     "member_name_romaji": "Kousaka Marino",
@@ -2032,7 +2156,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=100",
-    "id": "k幸阪"
+    "id": "100",
+    "abbr": "k幸阪"
   },
   {
     "member_name_romaji": "Nakashima Yuzuki",
@@ -2046,7 +2171,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=160",
-    "id": "k中嶋"
+    "id": "160",
+    "abbr": "k中嶋"
   },
   {
     "member_name_romaji": "Shibata Yuna",
@@ -2063,7 +2189,8 @@
     ],
     "color": "青緑",
     "url": "../profile.php?id=41",
-    "id": "柴田"
+    "id": "41",
+    "abbr": "柴田"
   },
   {
     "member_name_romaji": "Nakanishi Aruno",
@@ -2080,7 +2207,8 @@
     ],
     "color": "水色ターコイズ",
     "url": "../profile.php?id=81",
-    "id": "中西"
+    "id": "81",
+    "abbr": "中西"
   },
   {
     "member_name_romaji": "Kawasaki Sakura",
@@ -2097,7 +2225,8 @@
     ],
     "color": "ピンク緑",
     "url": "../profile.php?id=84",
-    "id": "川﨑"
+    "id": "84",
+    "abbr": "川﨑"
   },
   {
     "member_name_romaji": "Yamashita Haruka",
@@ -2111,7 +2240,8 @@
     "comment": "",
     "group": "hi",
     "url": "../profile-saka.php?id=150",
-    "id": "h山下"
+    "id": "150",
+    "abbr": "h山下"
   },
   {
     "member_name_romaji": "Ichinose Miku",
@@ -2128,7 +2258,8 @@
     ],
     "color": "水色水色",
     "url": "../profile.php?id=76",
-    "id": "一ノ"
+    "id": "76",
+    "abbr": "一ノ"
   },
   {
     "member_name_romaji": "Hirao Honoka",
@@ -2142,7 +2273,8 @@
     "comment": "",
     "group": "hi",
     "url": "../profile-saka.php?id=151",
-    "id": "h平尾"
+    "id": "151",
+    "abbr": "h平尾"
   },
   {
     "member_name_romaji": "Seimiya Rei",
@@ -2160,7 +2292,8 @@
     ],
     "color": "オレンジオレンジ",
     "url": "../profile.php?id=42",
-    "id": "清宮"
+    "id": "42",
+    "abbr": "清宮"
   },
   {
     "member_name_romaji": "Takahashi Mikuni",
@@ -2174,7 +2307,8 @@
     "comment": "",
     "group": "hi",
     "url": "../profile-saka.php?id=127",
-    "id": "h髙橋"
+    "id": "127",
+    "abbr": "h髙橋"
   },
   {
     "member_name_romaji": "Hayashi Runa",
@@ -2192,7 +2326,8 @@
     ],
     "color": "ピンクピンク",
     "url": "../profile.php?id=63",
-    "id": "林瑠"
+    "id": "63",
+    "abbr": "林瑠"
   },
   {
     "member_name_romaji": "Okamoto Hina",
@@ -2210,7 +2345,8 @@
     ],
     "color": "紫青",
     "url": "../profile.php?id=85",
-    "id": "岡本"
+    "id": "85",
+    "abbr": "岡本"
   },
   {
     "member_name_romaji": "Matsuo Miyu",
@@ -2227,7 +2363,8 @@
     ],
     "color": "ターコイズ白",
     "url": "../profile.php?id=64",
-    "id": "松尾"
+    "id": "64",
+    "abbr": "松尾"
   },
   {
     "member_name_romaji": "Kuromi Haruka",
@@ -2244,7 +2381,8 @@
     ],
     "color": "紫緑",
     "url": "../profile.php?id=61",
-    "id": "黒見"
+    "id": "61",
+    "abbr": "黒見"
   },
   {
     "member_name_romaji": "Iwamoto Renka",
@@ -2262,7 +2400,8 @@
     ],
     "color": "赤ピンク",
     "url": "../profile.php?id=25",
-    "id": "岩本"
+    "id": "25",
+    "abbr": "岩本"
   },
   {
     "member_name_romaji": "Morimoto Marie",
@@ -2276,7 +2415,8 @@
     "comment": "",
     "group": "hi",
     "url": "../profile-saka.php?id=128",
-    "id": "h森本"
+    "id": "128",
+    "abbr": "h森本"
   },
   {
     "member_name_romaji": "Yamaguchi Haruyo",
@@ -2290,7 +2430,8 @@
     "comment": "",
     "group": "hi",
     "url": "../profile-saka.php?id=129",
-    "id": "h山口"
+    "id": "129",
+    "abbr": "h山口"
   },
   {
     "member_name_romaji": "Kamimura Hinano",
@@ -2304,7 +2445,8 @@
     "comment": "",
     "group": "hi",
     "url": "../profile-saka.php?id=126",
-    "id": "h上村"
+    "id": "126",
+    "abbr": "h上村"
   },
   {
     "member_name_romaji": "Tsutsui Ayame",
@@ -2321,7 +2463,8 @@
     ],
     "color": "紫紫",
     "url": "../profile.php?id=44",
-    "id": "筒井"
+    "id": "44",
+    "abbr": "筒井"
   },
   {
     "member_name_romaji": "Odakura Reina",
@@ -2335,7 +2478,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=161",
-    "id": "k小田"
+    "id": "161",
+    "abbr": "k小田"
   },
   {
     "member_name_romaji": "Ishizuka Tamaki",
@@ -2349,7 +2493,8 @@
     "comment": "",
     "group": "hi",
     "url": "../profile-saka.php?id=149",
-    "id": "h石塚"
+    "id": "149",
+    "abbr": "h石塚"
   },
   {
     "member_name_romaji": "Kishi Honoka",
@@ -2363,7 +2508,8 @@
     "comment": "",
     "group": "hi",
     "url": "../profile-saka.php?id=156",
-    "id": "h岸帆"
+    "id": "156",
+    "abbr": "h岸帆"
   },
   {
     "member_name_romaji": "Murai Yu",
@@ -2377,7 +2523,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=167",
-    "id": "k村井"
+    "id": "167",
+    "abbr": "k村井"
   },
   {
     "member_name_romaji": "Konishi Nanami",
@@ -2391,7 +2538,8 @@
     "comment": "",
     "group": "hi",
     "url": "../profile-saka.php?id=157",
-    "id": "h小西"
+    "id": "157",
+    "abbr": "h小西"
   },
   {
     "member_name_romaji": "Shimizu Rio",
@@ -2405,7 +2553,8 @@
     "comment": "",
     "group": "hi",
     "url": "../profile-saka.php?id=131",
-    "id": "h清水"
+    "id": "131",
+    "abbr": "h清水"
   },
   {
     "member_name_romaji": "Yamashita Shizuki",
@@ -2419,7 +2568,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=168",
-    "id": "k山下"
+    "id": "168",
+    "abbr": "k山下"
   },
   {
     "member_name_romaji": "Murayama Miu",
@@ -2433,7 +2583,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=166",
-    "id": "k村山"
+    "id": "166",
+    "abbr": "k村山"
   },
   {
     "member_name_romaji": "Inoue Nagi",
@@ -2451,7 +2602,8 @@
     ],
     "color": "赤白",
     "url": "../profile.php?id=75",
-    "id": "井和"
+    "id": "75",
+    "abbr": "井和"
   },
   {
     "member_name_romaji": "Taniguchi Airi",
@@ -2465,7 +2617,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=165",
-    "id": "k谷口"
+    "id": "165",
+    "abbr": "k谷口"
   },
   {
     "member_name_romaji": "Kojima Nagisa",
@@ -2479,7 +2632,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=159",
-    "id": "k小島"
+    "id": "159",
+    "abbr": "k小島"
   },
   {
     "member_name_romaji": "Ioki Mao",
@@ -2496,7 +2650,8 @@
     ],
     "color": "ターコイズ青",
     "url": "../profile.php?id=82",
-    "id": "五百"
+    "id": "82",
+    "abbr": "五百"
   },
   {
     "member_name_romaji": "Okuda Iroha",
@@ -2514,7 +2669,8 @@
     ],
     "color": "黄色ピンク",
     "url": "../profile.php?id=80",
-    "id": "奥田"
+    "id": "80",
+    "abbr": "奥田"
   },
   {
     "member_name_romaji": "Yamasaki Ten",
@@ -2528,7 +2684,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=87",
-    "id": "k山﨑"
+    "id": "87",
+    "abbr": "k山﨑"
   },
   {
     "member_name_romaji": "Sugawara Satsuki",
@@ -2545,7 +2702,8 @@
     ],
     "color": "ピンク水色",
     "url": "../profile.php?id=77",
-    "id": "菅原"
+    "id": "77",
+    "abbr": "菅原"
   },
   {
     "member_name_romaji": "Miyachi Sumire",
@@ -2559,7 +2717,8 @@
     "comment": "",
     "group": "hi",
     "url": "../profile-saka.php?id=132",
-    "id": "h宮地"
+    "id": "132",
+    "abbr": "h宮地"
   },
   {
     "member_name_romaji": "Endo Riko",
@@ -2573,7 +2732,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=163",
-    "id": "k理子"
+    "id": "163",
+    "abbr": "k理子"
   },
   {
     "member_name_romaji": "Takeuchi Kirari",
@@ -2587,7 +2747,8 @@
     "comment": "",
     "group": "hi",
     "url": "../profile-saka.php?id=155",
-    "id": "h竹内"
+    "id": "155",
+    "abbr": "h竹内"
   },
   {
     "member_name_romaji": "Mukai Itoha",
@@ -2601,7 +2762,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=162",
-    "id": "k向井"
+    "id": "162",
+    "abbr": "k向井"
   },
   {
     "member_name_romaji": "Fujishima Kaho",
@@ -2615,7 +2777,8 @@
     "comment": "",
     "group": "hi",
     "url": "../profile-saka.php?id=153",
-    "id": "h藤嶌"
+    "id": "153",
+    "abbr": "h藤嶌"
   },
   {
     "member_name_romaji": "Tomisato Nao",
@@ -2632,7 +2795,8 @@
     ],
     "color": "ターコイズターコイズ",
     "url": "../profile.php?id=79",
-    "id": "冨里"
+    "id": "79",
+    "abbr": "冨里"
   },
   {
     "member_name_romaji": "Matono Mio",
@@ -2646,7 +2810,8 @@
     "comment": "",
     "group": "kesa",
     "url": "../profile-saka.php?id=158",
-    "id": "k的野"
+    "id": "158",
+    "abbr": "k的野"
   },
   {
     "member_name_romaji": "Shogenji Yoko",
@@ -2660,7 +2825,8 @@
     "comment": "",
     "group": "hi",
     "url": "../profile-saka.php?id=148",
-    "id": "h正源"
+    "id": "148",
+    "abbr": "h正源"
   },
   {
     "member_name_romaji": "Ogawa Aya",
@@ -2677,7 +2843,8 @@
     ],
     "color": "白白",
     "url": "../profile.php?id=78",
-    "id": "小川"
+    "id": "78",
+    "abbr": "小川"
   },
   {
     "member_name_romaji": "Watanabe Rina",
@@ -2691,6 +2858,7 @@
     "comment": "",
     "group": "hi",
     "url": "../profile-saka.php?id=152",
-    "id": "h莉奈"
+    "id": "152",
+    "abbr": "h莉奈"
   }
 ]

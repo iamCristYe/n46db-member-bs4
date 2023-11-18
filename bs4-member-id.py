@@ -20,11 +20,13 @@ def main():
         link = tr.find_all("a")[0].get("href")
         name = tr.find_all("a")[0].get_text()
         # print(tr.find_all("a"))
-        id = tr.find_all("td")[-1].get_text()
+        abbr = tr.find_all("td")[-1].get_text()
         for member in data:
             if member["member_name_kanji"] == name:
-                member["url"] = link
-                member["id"] = id
+                member["id"] = link.replace("../profile.php?id=", "").replace(
+                    "../profile-saka.php?id=", ""
+                )
+                member["abbr"] = abbr
 
     with open("members.json", mode="w", encoding="utf-8") as src:
         json.dump(data, src, ensure_ascii=False, indent=2)
