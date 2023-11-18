@@ -90,8 +90,8 @@ def get_song(url: str) -> dict:
                 img_list = td.find_all("img")
                 for img in img_list:
                     src = add_host(img.get("src"))
-                    if "button" not in src:
-                        download_image(src)
+                    # if "button" not in src:
+                    #     download_image(src)
 
         else:
             # the next part would be commets
@@ -125,16 +125,14 @@ def get_song(url: str) -> dict:
 
     result["formation"] = []
     for table in table_list:
-        img_list = table.find_all("img")
-        if img_list:
-            src = add_host(img_list[0].get("src"))
-            print(src)
-            if "profilepic" in src:
-                temp = []
-                for img in img_list:
-                    src = img.get("src")
+        a_list = table.find_all("a")
+        if a_list:
+            temp = []
+            for a in a_list:
+                src = add_host(a.get("href"))
+                if "profile.php" in src:
                     temp.append(src)
-                result["formation"].append(temp)
+            result["formation"].append(temp)
 
     return result
 
@@ -148,7 +146,7 @@ def main():
     #     "https://n46db.com/song.php?songcode=s022a",
     #     "https://n46db.com/song.php?songcode=s028e",
     # ]
-    for i in range(105,280):
+    for i in range(0, 1):
         song = get_song(song_url_list[i])
         result.append(song)
         time.sleep(3)
