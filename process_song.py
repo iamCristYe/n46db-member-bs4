@@ -9,8 +9,8 @@ with open("members.json", mode="r") as src:
 id_dict = {}
 abbr_dict = {}
 for member in members:
-    id_dict[member["id"]] = member["member_name_kanji"]
-    abbr_dict[member["abbr"]] = member["member_name_kanji"]
+    id_dict[member["id"]] = member["member_name_kanji"].replace(" ","")
+    abbr_dict[member["abbr"]] = member["member_name_kanji"].replace(" ","")
 
 
 songs = {}
