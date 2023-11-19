@@ -3029,7 +3029,7 @@
       [],
       [],
       [
-        "https://n46db.com/profile.php?shortname=小嶋陽菜（AKB48）"
+        
       ],
       [
         "https://n46db.com/profile.php?shortname=生駒",
@@ -7671,7 +7671,13 @@
   },
   {
     "url": "https://n46db.com/song.php?songcode=a004a",
-    "comments": "© テレビ朝日",
+    "name":"ありがちな恋愛",
+    "summary": "4thアルバム新録曲（選抜）",
+    "lyricist": "秋元康",
+    "composer": "杉山勝彦",
+    "arranger": "野中\"まさ\"雄一",
+    "date": "2019年04月17日",
+    "comments": "アルバム発売時点では卒業している衛藤美彩、西野七瀬、若月佑美を除く、22ndシングル選抜メンバー楽曲。",
     "MV": null,
     "formation": [
       [],
