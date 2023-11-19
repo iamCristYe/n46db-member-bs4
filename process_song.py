@@ -18,8 +18,14 @@ for song in data:
     included_in = song["url"].replace("https://n46db.com/song.php?songcode=", "")[0:-1]
     if included_in not in songs:
         songs[included_in] = {}
+    # print(song["summary"])
+    song["type"] = song["summary"][song["summary"].index("（") + 1 : -1]
+    # if "unit" not in songs[included_in]:
+    #     songs[included_in]["unit"] = 0
+    # if song["type"] == "ユニット曲":
+    #     songs[included_in]["unit"] += 1
     if "title" not in songs[included_in]:
-        #print(song["name"])
+        # print(song["name"])
         songs[included_in]["title"] = song["name"]
     if "date" not in songs[included_in]:
         songs[included_in]["date"] = song["date"]
@@ -88,6 +94,9 @@ for song in data:
         songs[included_in]["tracks"] = []
     songs[included_in]["tracks"].append(song)
 
+# for release in songs:
+#     #print(release)
+#     print(songs[release]["title"],songs[release]["unit"])
 
 # Write back the JSON data with increased indentation
 with open("songs.json", mode="w", encoding="utf-8") as src:

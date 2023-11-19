@@ -56,7 +56,8 @@
             "生駒 里奈",
             "星野 みなみ"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s001b",
@@ -99,7 +100,8 @@
             "和田 まあや",
             "中元 日芽香"
           ]
-        ]
+        ],
+        "type": "アンダー曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s001c",
@@ -158,7 +160,8 @@
             "若月 佑美",
             "和田 まあや"
           ]
-        ]
+        ],
+        "type": "全員"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s001d",
@@ -205,7 +208,8 @@
             "松村 沙友理",
             "宮澤 成良"
           ]
-        ]
+        ],
+        "type": "選抜＋"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s001e",
@@ -252,7 +256,8 @@
             "星野 みなみ",
             "松村 沙友理"
           ]
-        ]
+        ],
+        "type": "選抜＋"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s001f",
@@ -296,7 +301,8 @@
             "星野 みなみ",
             "松村 沙友理"
           ]
-        ]
+        ],
+        "type": "選抜＋"
       }
     ]
   },
@@ -357,7 +363,8 @@
             "生駒 里奈",
             "中田 花奈"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s002b",
@@ -401,7 +408,8 @@
             "宮澤 成良",
             "大和 里菜"
           ]
-        ]
+        ],
+        "type": "選抜＋"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s002c",
@@ -428,7 +436,8 @@
             "橋本 奈々未",
             "松村 沙友理"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s002d",
@@ -452,7 +461,8 @@
         "director": [
           "丸山健志"
         ],
-        "formation": []
+        "formation": [],
+        "type": "ソロ曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s002e",
@@ -501,7 +511,8 @@
             "伊藤 万理華",
             "若月 佑美"
           ]
-        ]
+        ],
+        "type": "アンダー曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s002f",
@@ -545,7 +556,8 @@
             "宮澤 成良",
             "若月 佑美"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       }
     ]
   },
@@ -609,7 +621,8 @@
             "星野 みなみ",
             "桜井 玲香"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s003b",
@@ -639,7 +652,8 @@
             "深川 麻衣",
             "松村 沙友理"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s003c",
@@ -690,7 +704,8 @@
           [
             "伊藤 寧々"
           ]
-        ]
+        ],
+        "type": "アンダー曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s003d",
@@ -738,7 +753,8 @@
             "大和 里菜",
             "若月 佑美"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s003e",
@@ -787,7 +803,8 @@
             "松村 沙友理",
             "若月 佑美"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s003f",
@@ -818,7 +835,8 @@
             "樋口 日奈",
             "和田 まあや"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       }
     ]
   },
@@ -880,7 +898,8 @@
             "生駒 里奈",
             "星野 みなみ"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s004b",
@@ -926,7 +945,8 @@
             "生駒 里奈",
             "星野 みなみ"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s004c",
@@ -959,7 +979,8 @@
             "深川 麻衣",
             "若月 佑美"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s004d",
@@ -985,7 +1006,8 @@
             "生駒 里奈",
             "星野 みなみ"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s004e",
@@ -1033,7 +1055,8 @@
             "中田 花奈",
             "衛藤 美彩"
           ]
-        ]
+        ],
+        "type": "アンダー曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s004f",
@@ -1056,7 +1079,8 @@
             "白石 麻衣",
             "高山 一実"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       }
     ]
   },
@@ -1118,7 +1142,8 @@
             "生駒 里奈",
             "星野 みなみ"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s005b",
@@ -1161,7 +1186,8 @@
             "松村 沙友理",
             "若月 佑美"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s005c",
@@ -1198,7 +1224,8 @@
             "松村 沙友理",
             "若月 佑美"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s005d",
@@ -1245,7 +1272,8 @@
             "斉藤 優里",
             "齋藤 飛鳥"
           ]
-        ]
+        ],
+        "type": "アンダー曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s005e",
@@ -1273,7 +1301,8 @@
             "深川 麻衣",
             "松村 沙友理"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s005f",
@@ -1307,7 +1336,8 @@
             "西野 七瀬",
             "若月 佑美"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       }
     ]
   },
@@ -1365,7 +1395,8 @@
             "白石 麻衣",
             "橋本 奈々未"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s006b",
@@ -1411,7 +1442,8 @@
             "白石 麻衣",
             "橋本 奈々未"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s006c",
@@ -1436,7 +1468,8 @@
             "能條 愛未",
             "若月 佑美"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s006d",
@@ -1486,7 +1519,8 @@
           [
             "齋藤 飛鳥"
           ]
-        ]
+        ],
+        "type": "アンダー曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s006e",
@@ -1520,7 +1554,8 @@
             "西野 七瀬",
             "若月 佑美"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s006f",
@@ -1573,7 +1608,8 @@
             "若月 佑美",
             "和田 まあや"
           ]
-        ]
+        ],
+        "type": "全員"
       }
     ]
   },
@@ -1636,7 +1672,8 @@
             "橋本 奈々未",
             "松村 沙友理"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s007b",
@@ -1680,7 +1717,8 @@
             "橋本 奈々未",
             "松村 沙友理"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s007c",
@@ -1710,7 +1748,8 @@
             "白石 麻衣",
             "高山 一実"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s007d",
@@ -1758,7 +1797,8 @@
             "若月 佑美",
             "堀 未央奈"
           ]
-        ]
+        ],
+        "type": "選抜＋"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s007e",
@@ -1802,7 +1842,8 @@
             "星野 みなみ",
             "斉藤 優里"
           ]
-        ]
+        ],
+        "type": "アンダー曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s007f",
@@ -1833,7 +1874,8 @@
             "松村 沙友理",
             "若月 佑美"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       }
     ]
   },
@@ -1892,7 +1934,8 @@
             "橋本 奈々未",
             "生駒 里奈"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s008b",
@@ -1935,7 +1978,8 @@
             "北野 日奈子",
             "堀 未央奈"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s008c",
@@ -1976,7 +2020,8 @@
             "北野 日奈子",
             "堀 未央奈"
           ]
-        ]
+        ],
+        "type": "選抜＋"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s008d",
@@ -2001,7 +2046,8 @@
             "白石 麻衣",
             "橋本 奈々未"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s008e",
@@ -2048,7 +2094,8 @@
             "星野 みなみ",
             "斉藤 優里"
           ]
-        ]
+        ],
+        "type": "アンダー曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s008f",
@@ -2082,7 +2129,8 @@
             "若月 佑美",
             "堀 未央奈"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       }
     ]
   },
@@ -2144,7 +2192,8 @@
             "橋本 奈々未",
             "松村 沙友理"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s009b",
@@ -2185,7 +2234,8 @@
             "堀 未央奈",
             "松井 玲奈"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s009c",
@@ -2220,7 +2270,8 @@
             "大和 里菜",
             "松井 玲奈"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s009d",
@@ -2256,7 +2307,8 @@
             "若月 佑美",
             "堀 未央奈"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s009e",
@@ -2302,7 +2354,8 @@
             "樋口 日奈",
             "和田 まあや"
           ]
-        ]
+        ],
+        "type": "アンダー曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s009f",
@@ -2333,7 +2386,8 @@
             "西野 七瀬",
             "若月 佑美"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       }
     ]
   },
@@ -2394,7 +2448,8 @@
             "西野 七瀬",
             "橋本 奈々未"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s010b",
@@ -2427,7 +2482,8 @@
             "大和 里菜",
             "若月 佑美"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s010c",
@@ -2469,7 +2525,8 @@
             "堀 未央奈",
             "松井 玲奈"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s010d",
@@ -2507,7 +2564,8 @@
             "北野 日奈子",
             "堀 未央奈"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s010e",
@@ -2554,7 +2612,8 @@
             "井上 小百合",
             "伊藤 万理華"
           ]
-        ]
+        ],
+        "type": "アンダー曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s010f",
@@ -2585,7 +2644,8 @@
             "深川 麻衣",
             "松村 沙友理"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       }
     ]
   },
@@ -2615,7 +2675,8 @@
             "桜井 玲香",
             "若月 佑美"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=a001b",
@@ -2642,7 +2703,8 @@
             "深川 麻衣",
             "松村 沙友理"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=a001c",
@@ -2683,7 +2745,8 @@
             "若月 佑美",
             "松井 玲奈"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=a001d",
@@ -2705,7 +2768,8 @@
         "date": "2015年01月07日",
         "comments": "乃木坂46史上2人目のソロ曲歌唱者は生田絵梨花。\r\nピアノとストリングスを伴奏に、ワルツのリズムに乗せて歌われるのは自身の半生をつづったかのような歌詞。\r\n力強くも透明感のある歌声からは、\"アーティスト・生田絵梨花\"の可能性をたっぷり堪能することができる。",
         "MV": null,
-        "formation": []
+        "formation": [],
+        "type": "ソロ曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=a001e",
@@ -2745,7 +2809,8 @@
             "山崎 怜奈",
             "渡辺 みり愛"
           ]
-        ]
+        ],
+        "type": "派生ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=a001f",
@@ -2769,7 +2834,8 @@
             "星野 みなみ",
             "堀 未央奈"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=a001g",
@@ -2817,7 +2883,8 @@
             "山崎 怜奈",
             "渡辺 みり愛"
           ]
-        ]
+        ],
+        "type": "アンダー曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=a001h",
@@ -2840,7 +2907,8 @@
         "date": "2015年01月07日",
         "comments": "生駒、生田に続いてソロナンバーを歌うのは、2014年前半をセンターとしてグループを牽引した西野七瀬。\r\n別れを機に前へと歩き出す女心がつづられたバラードを、西野は切なくも優しい歌声で包み込むように彩っている。\r\n2ndシングル「おいでシャンプー」のカップリング曲「水玉模様」の生駒里奈、同アルバムDISC 1、M-15「あなたのために弾きたい」の生田絵梨花に続く西野七瀬のソロ曲。",
         "MV": null,
-        "formation": []
+        "formation": [],
+        "type": "ソロ曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=a001i",
@@ -2858,7 +2926,8 @@
         "date": "2015年01月07日",
         "comments": "ライブのオープニングやスマートフォン専用アプリ『乃木坂46リズムフェスティバル』のオープニングとしても使用されている。",
         "MV": null,
-        "formation": []
+        "formation": [],
+        "type": "器楽"
       }
     ]
   },
@@ -2918,7 +2987,8 @@
             "橋本 奈々未",
             "生田 絵梨花"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s011b",
@@ -2953,7 +3023,8 @@
             "星野 みなみ",
             "堀 未央奈"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s011c",
@@ -2986,7 +3057,8 @@
             "深川 麻衣",
             "松村 沙友理"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s011d",
@@ -3010,7 +3082,8 @@
         "director": [
           "山戸結希"
         ],
-        "formation": []
+        "formation": [],
+        "type": "ソロ曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s011e",
@@ -3056,7 +3129,8 @@
             "中元 日芽香",
             "井上 小百合"
           ]
-        ]
+        ],
+        "type": "アンダー曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s011f",
@@ -3086,7 +3160,8 @@
             "山崎 怜奈",
             "渡辺 みり愛"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       }
     ]
   },
@@ -3150,7 +3225,8 @@
             "生田 絵梨花",
             "橋本 奈々未"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s012b",
@@ -3172,7 +3248,8 @@
         "date": "2015年07月22日",
         "comments": "ドラマ『初森ベマーズ』（2015年7月11日 - 9月26日）のエンディング・テーマ。西野七瀬の3つ目のソロ曲。西野のソロ曲は、「ひとりよがり」（1stアルバム『透明な色』に収録）、「ごめんね ずっと…」（11thシングル「命は美しい」に収録）に続き3作連続となる。",
         "MV": null,
-        "formation": []
+        "formation": [],
+        "type": "ソロ曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s012c",
@@ -3199,7 +3276,8 @@
             "橋本 奈々未",
             "深川 麻衣"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s012d",
@@ -3230,7 +3308,8 @@
             "生田 絵梨花",
             "松村 沙友理"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s012e",
@@ -3280,7 +3359,8 @@
             "中元 日芽香",
             "中田 花奈"
           ]
-        ]
+        ],
+        "type": "アンダー曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s012f",
@@ -3325,7 +3405,8 @@
             "松村 沙友理",
             "若月 佑美"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s012g",
@@ -3348,7 +3429,8 @@
             "齋藤 飛鳥",
             "星野 みなみ"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       }
     ]
   },
@@ -3410,7 +3492,8 @@
             "白石 麻衣",
             "深川 麻衣"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s013b",
@@ -3462,7 +3545,8 @@
             "中元 日芽香",
             "寺田 蘭世"
           ]
-        ]
+        ],
+        "type": "アンダー曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s013c",
@@ -3515,7 +3599,8 @@
             "白石 麻衣",
             "深川 麻衣"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s013d",
@@ -3546,7 +3631,8 @@
             "中元 日芽香",
             "寺田 蘭世"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s013e",
@@ -3590,7 +3676,8 @@
             "松村 沙友理",
             "若月 佑美"
           ]
-        ]
+        ],
+        "type": "前作「太陽ノック」の選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s013f",
@@ -3623,7 +3710,8 @@
             "西野 七瀬",
             "若月 佑美"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       }
     ]
   },
@@ -3688,7 +3776,8 @@
             "白石 麻衣",
             "生田 絵梨花"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s014b",
@@ -3724,7 +3813,8 @@
             "堀 未央奈",
             "若月 佑美"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s014c",
@@ -3750,7 +3840,8 @@
         "director": [
           "真壁幸紀"
         ],
-        "formation": []
+        "formation": [],
+        "type": "ソロ曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s014d",
@@ -3777,7 +3868,8 @@
             "橋本 奈々未",
             "松村 沙友理"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s014e",
@@ -3801,7 +3893,8 @@
         "director": [
           "永田琴"
         ],
-        "formation": []
+        "formation": [],
+        "type": "ソロ曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s014f",
@@ -3850,7 +3943,8 @@
             "北野 日奈子",
             "樋口 日奈"
           ]
-        ]
+        ],
+        "type": "アンダー曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s014g",
@@ -3881,7 +3975,8 @@
             "高山 一実",
             "星野 みなみ"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       }
     ]
   },
@@ -3925,7 +4020,8 @@
             "松村 沙友理",
             "若月 佑美"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=a002b",
@@ -3962,7 +4058,8 @@
             "松村 沙友理",
             "若月 佑美"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=a002c",
@@ -3993,7 +4090,8 @@
             "樋口 日奈",
             "和田 まあや"
           ]
-        ]
+        ],
+        "type": "アンダー曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=a002d",
@@ -4019,7 +4117,8 @@
             "橋本 奈々未",
             "松村 沙友理"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=a002e",
@@ -4041,7 +4140,8 @@
         "date": "2016年05月25日",
         "comments": "きっかけ（選抜）太陽に口説かれて（選抜）欲望のリインカーネーション（アンダー曲）空気感（ユニット曲）光合成希望（ソロ曲）Threefold choice（ユニット曲）低体温のキス（ソロ曲）失恋したら、顔を洗え！（ユニット曲）かき氷の片想い（2期生曲）環状六号線（ユニット曲）口約束（ユニット曲）",
         "MV": null,
-        "formation": []
+        "formation": [],
+        "type": "ソロ曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=a002f",
@@ -4065,7 +4165,8 @@
             "星野 みなみ",
             "堀 未央奈"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=a002g",
@@ -4087,7 +4188,8 @@
         "date": "2016年05月25日",
         "comments": "きっかけ（選抜）太陽に口説かれて（選抜）欲望のリインカーネーション（アンダー曲）空気感（ユニット曲）光合成希望（ソロ曲）Threefold choice（ユニット曲）低体温のキス（ソロ曲）失恋したら、顔を洗え！（ユニット曲）かき氷の片想い（2期生曲）環状六号線（ユニット曲）口約束（ユニット曲）",
         "MV": null,
-        "formation": []
+        "formation": [],
+        "type": "ソロ曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=a002h",
@@ -4110,7 +4212,8 @@
             "中元 日芽香",
             "能條 愛未"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=a002i",
@@ -4142,7 +4245,8 @@
             "山崎 怜奈",
             "渡辺 みり愛"
           ]
-        ]
+        ],
+        "type": "2期生曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=a002j",
@@ -4166,7 +4270,8 @@
             "伊藤 万理華",
             "井上 小百合"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=a002k",
@@ -4191,7 +4296,8 @@
             "中田 花奈",
             "若月 佑美"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       }
     ]
   },
@@ -4253,7 +4359,8 @@
             "白石 麻衣",
             "生田 絵梨花"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s015b",
@@ -4293,7 +4400,8 @@
             "松村 沙友理",
             "若月 佑美"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s015c",
@@ -4320,7 +4428,8 @@
           "井上強",
           "井上強"
         ],
-        "formation": []
+        "formation": [],
+        "type": "ソロ曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s015d",
@@ -4344,7 +4453,8 @@
         "director": [
           "中村太洸"
         ],
-        "formation": []
+        "formation": [],
+        "type": "ソロ曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s015e",
@@ -4371,7 +4481,8 @@
             "寺田 蘭世",
             "松村 沙友理"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s015f",
@@ -4424,7 +4535,8 @@
             "井上 小百合",
             "渡辺 みり愛"
           ]
-        ]
+        ],
+        "type": "アンダー曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s015g",
@@ -4447,7 +4559,8 @@
             "伊藤 万理華",
             "井上 小百合"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       }
     ]
   },
@@ -4513,7 +4626,8 @@
             "白石 麻衣",
             "生田 絵梨花"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s016b",
@@ -4556,7 +4670,8 @@
             "松村 沙友理",
             "若月 佑美"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s016c",
@@ -4581,7 +4696,8 @@
             "齋藤 飛鳥",
             "堀 未央奈"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s016d",
@@ -4631,7 +4747,8 @@
             "中田 花奈",
             "能條 愛未"
           ]
-        ]
+        ],
+        "type": "アンダー曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s016e",
@@ -4663,7 +4780,8 @@
             "鈴木 絢音",
             "渡辺 みり愛"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s016f",
@@ -4691,7 +4809,8 @@
             "中元 日芽香",
             "堀 未央奈"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s016g",
@@ -4716,7 +4835,8 @@
         "director": [
           "山岸聖太"
         ],
-        "formation": []
+        "formation": [],
+        "type": "ソロ曲"
       }
     ]
   },
@@ -4785,7 +4905,8 @@
             "齋藤 飛鳥",
             "衛藤 美彩"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s017b",
@@ -4810,7 +4931,8 @@
             "中田 花奈",
             "若月 佑美"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s017c",
@@ -4837,7 +4959,8 @@
             "高山 一実",
             "松村 沙友理"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s017d",
@@ -4868,7 +4991,8 @@
             "齋藤 飛鳥",
             "西野 七瀬"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s017e",
@@ -4912,7 +5036,8 @@
             "渡辺 みり愛",
             "鈴木 絢音"
           ]
-        ]
+        ],
+        "type": "アンダー曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s017f",
@@ -4957,7 +5082,8 @@
             "大園 桃子",
             "山下 美月"
           ]
-        ]
+        ],
+        "type": "3期生曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s017g",
@@ -4982,7 +5108,8 @@
             "星野 みなみ",
             "堀 未央奈"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       }
     ]
   },
@@ -5034,7 +5161,8 @@
             "松村 沙友理",
             "若月 佑美"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=a003b",
@@ -5068,7 +5196,8 @@
             "渡辺 みり愛",
             "和田 まあや"
           ]
-        ]
+        ],
+        "type": "アンダー曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=a003c",
@@ -5111,7 +5240,8 @@
             "大園 桃子",
             "山下 美月"
           ]
-        ]
+        ],
+        "type": "3期生曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=a003d",
@@ -5165,7 +5295,8 @@
             "渡辺 みり愛",
             "和田 まあや"
           ]
-        ]
+        ],
+        "type": "全員"
       },
       {
         "url": "https://n46db.com/song.php?songcode=a003e",
@@ -5189,7 +5320,8 @@
             "西野 七瀬",
             "若月 佑美"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=a003f",
@@ -5213,7 +5345,8 @@
             "井上 小百合",
             "中元 日芽香"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=a003g",
@@ -5237,7 +5370,8 @@
             "斉藤 優里",
             "新内 眞衣"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=a003h",
@@ -5261,7 +5395,8 @@
         "date": "2017年05月24日",
         "comments": "スカイダイビング（選抜）君が扇いでくれた（アンダー曲）思い出ファースト（3期生曲）設定温度（全員）Rewindあの日（ユニット曲）ごめんね、スムージー（ユニット曲）醜い私（ユニット曲）硬い殻のように抱きしめたい（ソロ曲）満月が消えた（ユニット曲）ワタボコリ（ユニット曲）流星ディスコティック（ユニット曲）忘却と美学（ユニット曲）",
         "MV": null,
-        "formation": []
+        "formation": [],
+        "type": "ソロ曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=a003i",
@@ -5285,7 +5420,8 @@
             "生駒 里奈",
             "星野 みなみ"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=a003j",
@@ -5309,7 +5445,8 @@
             "寺田 蘭世",
             "堀 未央奈"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=a003k",
@@ -5332,7 +5469,8 @@
             "白石 麻衣",
             "松村 沙友理"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=a003l",
@@ -5355,7 +5493,8 @@
             "秋元 真夏",
             "高山 一実"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       }
     ]
   },
@@ -5421,7 +5560,8 @@
             "西野 七瀬",
             "堀 未央奈"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s018b",
@@ -5469,7 +5609,8 @@
             "与田 祐希",
             "若月 佑美"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s018c",
@@ -5512,7 +5653,8 @@
             "与田 祐希",
             "若月 佑美"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s018d",
@@ -5561,7 +5703,8 @@
             "寺田 蘭世",
             "斉藤 優里"
           ]
-        ]
+        ],
+        "type": "アンダー曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s018e",
@@ -5606,7 +5749,8 @@
             "堀 未央奈",
             "北野 日奈子"
           ]
-        ]
+        ],
+        "type": "2期生曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s018f",
@@ -5652,7 +5796,8 @@
             "久保 史緒里",
             "伊藤 理々杏"
           ]
-        ]
+        ],
+        "type": "3期生曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s018g",
@@ -5695,7 +5840,8 @@
             "与田 祐希",
             "若月 佑美"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       }
     ]
   },
@@ -5761,7 +5907,8 @@
             "齋藤 飛鳥",
             "白石 麻衣"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s019b",
@@ -5810,7 +5957,8 @@
             "与田 祐希",
             "若月 佑美"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s019c",
@@ -5835,7 +5983,8 @@
             "秋元 真夏",
             "白石 麻衣"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s019d",
@@ -5866,7 +6015,8 @@
             "山下 美月",
             "若月 佑美"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s019e",
@@ -5911,7 +6061,8 @@
             "樋口 日奈",
             "寺田 蘭世"
           ]
-        ]
+        ],
+        "type": "アンダー曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s019f",
@@ -5956,7 +6107,8 @@
             "伊藤 理々杏",
             "与田 祐希"
           ]
-        ]
+        ],
+        "type": "3期生曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s019g",
@@ -5979,7 +6131,8 @@
             "生田 絵梨花",
             "久保 史緒里"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       }
     ]
   },
@@ -6007,7 +6160,8 @@
         "date": "2018年01月10日",
         "comments": "中元日芽香の卒業ソロ曲アンダーアルバム「僕だけの君 ～Under Super Best～」に収録",
         "MV": null,
-        "formation": []
+        "formation": [],
+        "type": "ソロ曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=u001b",
@@ -6049,7 +6203,8 @@
             "鈴木 絢音",
             "樋口 日奈"
           ]
-        ]
+        ],
+        "type": "アンダー曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=u001c",
@@ -6087,7 +6242,8 @@
             "山崎 怜奈",
             "渡辺 みり愛"
           ]
-        ]
+        ],
+        "type": "アンダー曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=u001d",
@@ -6125,7 +6281,8 @@
             "山崎 怜奈",
             "渡辺 みり愛"
           ]
-        ]
+        ],
+        "type": "アンダー曲"
       }
     ]
   },
@@ -6193,7 +6350,8 @@
             "齋藤 飛鳥",
             "与田 祐希"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s020b",
@@ -6242,7 +6400,8 @@
             "若月 佑美",
             "和田 まあや"
           ]
-        ]
+        ],
+        "type": "1期生曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s020c",
@@ -6266,7 +6425,8 @@
             "衛藤 美彩",
             "桜井 玲香"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s020d",
@@ -6320,7 +6480,8 @@
             "山崎 怜奈",
             "伊藤 理々杏"
           ]
-        ]
+        ],
+        "type": "アンダー曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s020e",
@@ -6360,7 +6521,8 @@
             "山崎 怜奈",
             "渡辺 みり愛"
           ]
-        ]
+        ],
+        "type": "2期生曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s020f",
@@ -6405,7 +6567,8 @@
             "岩本 蓮加",
             "阪口 珠美"
           ]
-        ]
+        ],
+        "type": "3期生曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s020g",
@@ -6432,7 +6595,8 @@
             "山下 美月",
             "与田 祐希"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       }
     ]
   },
@@ -6501,7 +6665,8 @@
             "堀 未央奈",
             "山下 美月"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s021b",
@@ -6549,7 +6714,8 @@
             "山下 美月",
             "岩本 蓮加"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s021c",
@@ -6601,7 +6767,8 @@
             "伊藤 理々杏",
             "佐藤 楓"
           ]
-        ]
+        ],
+        "type": "アンダー曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s021d",
@@ -6636,7 +6803,8 @@
             "吉田 綾乃ｸﾘｽﾃｨｰ",
             "与田 祐希"
           ]
-        ]
+        ],
+        "type": "3期生曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s021e",
@@ -6661,7 +6829,8 @@
             "白石 麻衣",
             "西野 七瀬"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s021f",
@@ -6687,7 +6856,8 @@
             "齋藤 飛鳥",
             "与田 祐希"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s021g",
@@ -6729,7 +6899,8 @@
             "与田 祐希",
             "若月 佑美"
           ]
-        ]
+        ],
+        "type": "選抜"
       }
     ]
   },
@@ -6798,7 +6969,8 @@
             "生田 絵梨花",
             "与田 祐希"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s022b",
@@ -6844,7 +7016,8 @@
             "与田 祐希",
             "渡辺 みり愛"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s022c",
@@ -6868,7 +7041,8 @@
         "director": [
           "湯浅弘章"
         ],
-        "formation": []
+        "formation": [],
+        "type": "ソロ曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s022d",
@@ -6918,7 +7092,8 @@
             "寺田 蘭世",
             "岩本 蓮加"
           ]
-        ]
+        ],
+        "type": "アンダー曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s022e",
@@ -6945,7 +7120,8 @@
             "中田 花奈",
             "若月 佑美"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s022f",
@@ -6969,7 +7145,8 @@
             "白石 麻衣",
             "松村 沙友理"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s022g",
@@ -6994,7 +7171,8 @@
             "山下 美月",
             "与田 祐希"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       }
     ]
   },
@@ -7039,7 +7217,8 @@
             "山下 美月",
             "与田 祐希"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=a004b",
@@ -7062,7 +7241,8 @@
         "date": "2019年04月17日",
         "comments": "ありがちな恋愛（選抜）もし君がいなければ（ソロ曲）キスの手裏剣（4期生曲）頬杖をついては眠れない（ユニット曲）ぼっち党（ユニット曲）さゆりんご募集中（ユニット曲）ゴルゴンゾーラ（ユニット曲）もうすぐ～ザンビ伝説～（ユニット曲）",
         "MV": null,
-        "formation": []
+        "formation": [],
+        "type": "ソロ曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=a004c",
@@ -7099,7 +7279,8 @@
             "柴田 柚菜",
             "賀喜 遥香"
           ]
-        ]
+        ],
+        "type": "4期生曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=a004d",
@@ -7125,7 +7306,8 @@
             "新内 眞衣",
             "高山 一実"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=a004e",
@@ -7149,7 +7331,8 @@
             "久保 史緒里",
             "桜井 玲香"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=a004f",
@@ -7175,7 +7358,8 @@
             "佐々木 琴子",
             "寺田 蘭世"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=a004g",
@@ -7199,7 +7383,8 @@
             "堀 未央奈",
             "渡辺 みり愛"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=a004h",
@@ -7241,7 +7426,8 @@
             "与田 祐希",
             "渡辺 みり愛"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       }
     ]
   },
@@ -7311,7 +7497,8 @@
             "高山 一実",
             "与田 祐希"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s023b",
@@ -7353,7 +7540,8 @@
             "樋口 日奈",
             "中田 花奈"
           ]
-        ]
+        ],
+        "type": "アンダー曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s023c",
@@ -7380,7 +7568,8 @@
             "齋藤 飛鳥",
             "白石 麻衣"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s023d",
@@ -7406,7 +7595,8 @@
             "堀 未央奈",
             "渡辺 みり愛"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s023e",
@@ -7435,7 +7625,8 @@
             "与田 祐希",
             "久保 史緒里"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s023f",
@@ -7475,7 +7666,8 @@
             "筒井 あやめ",
             "賀喜 遥香"
           ]
-        ]
+        ],
+        "type": "4期生曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s023g",
@@ -7498,7 +7690,8 @@
             "生田 絵梨花",
             "松村 沙友理"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       }
     ]
   },
@@ -7563,7 +7756,8 @@
             "筒井 あやめ",
             "齋藤 飛鳥"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s024b",
@@ -7606,7 +7800,8 @@
             "与田 祐希",
             "渡辺 みり愛"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s024c",
@@ -7633,7 +7828,8 @@
             "堀 未央奈",
             "山下 美月"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s024d",
@@ -7676,7 +7872,8 @@
             "金川 紗耶",
             "筒井 あやめ"
           ]
-        ]
+        ],
+        "type": "4期生曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s024e",
@@ -7701,7 +7898,8 @@
         "director": [
           "頃安祐良"
         ],
-        "formation": []
+        "formation": [],
+        "type": "ソロ曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s024f",
@@ -7750,7 +7948,8 @@
             "渡辺 みり愛",
             "寺田 蘭世"
           ]
-        ]
+        ],
+        "type": "アンダー曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s024g",
@@ -7789,7 +7988,8 @@
             "山下 美月",
             "与田 祐希"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       }
     ]
   },
@@ -7858,7 +8058,8 @@
             "松村 沙友理",
             "星野 みなみ"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s025b",
@@ -7884,7 +8085,8 @@
             "遠藤 さくら",
             "賀喜 遥香"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s025c",
@@ -7905,7 +8107,8 @@
         "director": [
           "湯浅弘章"
         ],
-        "formation": []
+        "formation": [],
+        "type": "ソロ曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s025d",
@@ -7947,7 +8150,8 @@
           [
             "堀 未央奈"
           ]
-        ]
+        ],
+        "type": "2期生曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s025e",
@@ -7988,7 +8192,8 @@
             "与田 祐希",
             "大園 桃子"
           ]
-        ]
+        ],
+        "type": "3期生曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s025f",
@@ -8031,7 +8236,8 @@
             "遠藤 さくら",
             "筒井 あやめ"
           ]
-        ]
+        ],
+        "type": "4期生曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s025g",
@@ -8054,7 +8260,8 @@
             "梅澤 美波",
             "山下 美月"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       }
     ]
   },
@@ -8141,7 +8348,8 @@
             "能條 愛未",
             "若月 佑美"
           ]
-        ]
+        ],
+        "type": "全員＋OG"
       }
     ]
   },
@@ -8201,7 +8409,8 @@
             "遠藤 さくら",
             "賀喜 遥香"
           ]
-        ]
+        ],
+        "type": "選抜"
       }
     ]
   },
@@ -8268,7 +8477,8 @@
             "久保 史緒里",
             "齋藤 飛鳥"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s026b",
@@ -8311,7 +8521,8 @@
             "岩本 蓮加",
             "遠藤 さくら"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s026c",
@@ -8357,7 +8568,8 @@
             "田村 真佑",
             "筒井 あやめ"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s026d",
@@ -8405,7 +8617,8 @@
             "阪口 珠美",
             "北野 日奈子"
           ]
-        ]
+        ],
+        "type": "アンダー曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s026e",
@@ -8429,7 +8642,8 @@
         "choreographer": [
           "CRE8BOY"
         ],
-        "formation": []
+        "formation": [],
+        "type": "ソロ曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s026f",
@@ -8477,7 +8691,8 @@
             "早川 聖来",
             "田村 真佑"
           ]
-        ]
+        ],
+        "type": "4期生曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s026g",
@@ -8500,7 +8715,8 @@
             "大園 桃子",
             "遠藤 さくら"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       }
     ]
   },
@@ -8533,7 +8749,8 @@
             "生田 絵梨花",
             "松村 沙友理"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       }
     ]
   },
@@ -8601,7 +8818,8 @@
             "山下 美月",
             "賀喜 遥香"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s027b",
@@ -8653,7 +8871,8 @@
             "与田 祐希",
             "筒井 あやめ"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s027c",
@@ -8693,7 +8912,8 @@
             "岩本 蓮加",
             "中村 麗乃"
           ]
-        ]
+        ],
+        "type": "3期生曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s027d",
@@ -8724,7 +8944,8 @@
             "与田 祐希",
             "筒井 あやめ"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s027e",
@@ -8750,7 +8971,8 @@
           "月田茂",
           "伊藤衆人"
         ],
-        "formation": []
+        "formation": [],
+        "type": "ソロ曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s027f",
@@ -8794,7 +9016,8 @@
             "山崎 怜奈",
             "伊藤 純奈"
           ]
-        ]
+        ],
+        "type": "アンダー曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s027g",
@@ -8838,7 +9061,8 @@
             "田村 真佑",
             "弓木 奈於"
           ]
-        ]
+        ],
+        "type": "4期生曲"
       }
     ]
   },
@@ -8906,7 +9130,8 @@
             "齋藤 飛鳥",
             "山下 美月"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s028b",
@@ -8930,7 +9155,8 @@
             "賀喜 遥香",
             "久保 史緒里"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s028c",
@@ -8979,7 +9205,8 @@
             "中村 麗乃",
             "山崎 怜奈"
           ]
-        ]
+        ],
+        "type": "アンダー曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s028d",
@@ -9008,7 +9235,8 @@
             "早川 聖来",
             "松尾 美佑"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s028e",
@@ -9032,7 +9260,8 @@
         "director": [
           "頃安祐良"
         ],
-        "formation": []
+        "formation": [],
+        "type": "ソロ曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s028f",
@@ -9061,7 +9290,8 @@
             "山下 美月",
             "和田 まあや"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s028g",
@@ -9121,7 +9351,8 @@
             "与田 祐希",
             "和田 まあや"
           ]
-        ]
+        ],
+        "type": "全員"
       }
     ]
   },
@@ -9184,7 +9415,8 @@
             "秋元 真夏",
             "星野 みなみ"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=b001b",
@@ -9210,7 +9442,8 @@
         "director": [
           "東市篤憲"
         ],
-        "formation": []
+        "formation": [],
+        "type": "ソロ曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=b001c",
@@ -9234,7 +9467,8 @@
         "director": [
           "伊藤衆人"
         ],
-        "formation": []
+        "formation": [],
+        "type": "ソロ曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=b001d",
@@ -9284,7 +9518,8 @@
             "矢久保 美緒",
             "弓木 奈於"
           ]
-        ]
+        ],
+        "type": "アンダー曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=b001e",
@@ -9316,7 +9551,8 @@
             "山崎 怜奈",
             "渡辺 みり愛"
           ]
-        ]
+        ],
+        "type": "2期生曲"
       }
     ]
   },
@@ -9381,7 +9617,8 @@
             "齋藤 飛鳥",
             "秋元 真夏"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s029b",
@@ -9423,7 +9660,8 @@
             "早川 聖来",
             "中西 アルノ"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s029c",
@@ -9458,7 +9696,8 @@
             "北川 悠理",
             "佐藤 璃果"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s029d",
@@ -9482,7 +9721,8 @@
         "director": [
           "伊藤衆人"
         ],
-        "formation": []
+        "formation": [],
+        "type": "ソロ曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s029e",
@@ -9529,7 +9769,8 @@
             "金川 紗耶",
             "佐藤 璃果"
           ]
-        ]
+        ],
+        "type": "アンダー曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s029f",
@@ -9566,7 +9807,8 @@
             "井上 和",
             "一ノ瀬 美空"
           ]
-        ]
+        ],
+        "type": "5期生曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s029g",
@@ -9609,7 +9851,8 @@
             "早川 聖来",
             "中西 アルノ"
           ]
-        ]
+        ],
+        "type": "選抜"
       }
     ]
   },
@@ -9675,7 +9918,8 @@
             "山下 美月",
             "遠藤 さくら"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s030b",
@@ -9721,7 +9965,8 @@
             "和田 まあや",
             "伊藤 理々杏"
           ]
-        ]
+        ],
+        "type": "アンダー曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s030c",
@@ -9760,7 +10005,8 @@
             "山下 美月",
             "梅澤 美波"
           ]
-        ]
+        ],
+        "type": "3期生曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s030d",
@@ -9808,7 +10054,8 @@
             "林 瑠奈",
             "遠藤 さくら"
           ]
-        ]
+        ],
+        "type": "4期生曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s030e",
@@ -9854,7 +10101,8 @@
             "菅原 咲月",
             "川﨑 桜"
           ]
-        ]
+        ],
+        "type": "5期生曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s030f",
@@ -9880,7 +10128,8 @@
             "久保 史緒里",
             "与田 祐希"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s030g",
@@ -9906,7 +10155,8 @@
             "向井 葉月",
             "矢久保 美緒"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       }
     ]
   },
@@ -9971,7 +10221,8 @@
             "山下 美月",
             "与田 祐希"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s031b",
@@ -10012,7 +10263,8 @@
             "中村 麗乃",
             "佐藤 楓"
           ]
-        ]
+        ],
+        "type": "アンダー曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s031c",
@@ -10041,7 +10293,8 @@
         "choreographer": [
           "Seishiro"
         ],
-        "formation": []
+        "formation": [],
+        "type": "ソロ曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s031d",
@@ -10067,7 +10320,8 @@
             "山下 美月",
             "与田 祐希"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s031e",
@@ -10096,7 +10350,8 @@
             "林 瑠奈",
             "弓木 奈於"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s031f",
@@ -10122,7 +10377,8 @@
             "中村 麗乃",
             "林 瑠奈"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s031g",
@@ -10162,7 +10418,8 @@
             "冨里 奈央",
             "池田 瑛紗"
           ]
-        ]
+        ],
+        "type": "5期生曲"
       }
     ]
   },
@@ -10230,7 +10487,8 @@
             "山下 美月",
             "遠藤 さくら"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s032b",
@@ -10293,7 +10551,8 @@
             "冨里 奈央",
             "中西 アルノ"
           ]
-        ]
+        ],
+        "type": "全員"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s032c",
@@ -10338,7 +10597,8 @@
             "小川 彩",
             "川﨑 桜"
           ]
-        ]
+        ],
+        "type": "5期生曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s032d",
@@ -10361,7 +10621,8 @@
             "遠藤 さくら",
             "井上 和"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s032e",
@@ -10388,7 +10649,8 @@
             "黒見 明香",
             "柴田 柚菜"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s032f",
@@ -10440,7 +10702,8 @@
             "林 瑠奈",
             "向井 葉月"
           ]
-        ]
+        ],
+        "type": "アンダー曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s032g",
@@ -10465,7 +10728,8 @@
             "筒井 あやめ",
             "小川 彩"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       }
     ]
   },
@@ -10535,7 +10799,8 @@
             "遠藤 さくら",
             "久保 史緒里"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s033b",
@@ -10578,7 +10843,8 @@
             "中西 アルノ",
             "佐藤 璃果"
           ]
-        ]
+        ],
+        "type": "アンダー曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s033c",
@@ -10626,7 +10892,8 @@
             "遠藤 さくら",
             "久保 史緒里"
           ]
-        ]
+        ],
+        "type": "選抜"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s033d",
@@ -10653,7 +10920,8 @@
             "遠藤 さくら",
             "賀喜 遥香"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s033e",
@@ -10696,7 +10964,8 @@
             "池田 瑛紗",
             "中西 アルノ"
           ]
-        ]
+        ],
+        "type": "5期生曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s033f",
@@ -10718,7 +10987,8 @@
             "中村 麗乃",
             "弓木 奈於"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       },
       {
         "url": "https://n46db.com/song.php?songcode=s033g",
@@ -10751,7 +11021,8 @@
             "奥田 いろは",
             "中西 アルノ"
           ]
-        ]
+        ],
+        "type": "ユニット曲"
       }
     ]
   },
@@ -10809,7 +11080,8 @@
             "遠藤 さくら",
             "久保 史緒里"
           ]
-        ]
+        ],
+        "type": "選抜"
       }
     ]
   }
