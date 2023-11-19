@@ -9,8 +9,8 @@ with open("members.json", mode="r") as src:
 id_dict = {}
 abbr_dict = {}
 for member in members:
-    id_dict[member["id"]] = member["member_name_kanji"].replace(" ","")
-    abbr_dict[member["abbr"]] = member["member_name_kanji"].replace(" ","")
+    id_dict[member["id"]] = member["member_name_kanji"].replace(" ", "")
+    abbr_dict[member["abbr"]] = member["member_name_kanji"].replace(" ", "")
 
 
 songs = {}
@@ -29,6 +29,7 @@ for song in data:
         songs[included_in]["title"] = song["name"]
     if "date" not in songs[included_in]:
         songs[included_in]["date"] = song["date"]
+    del song["date"]
     if "center" in song:
         song["center"] = song["center"].split("・")
     if "composer" in song:
@@ -51,6 +52,9 @@ for song in data:
     if "version" in song:
         songs[included_in]["version"] = song["version"]
         del song["version"]
+
+    if "表題曲" in song["comments"] and "アンダー曲" in song["comments"]:
+        song["comments"] = ""
 
     if "formation" in song:
         formation = []
