@@ -54,7 +54,7 @@ def get_song(url: str) -> dict:
             continue
         if "枚目シングル" in table.get_text():
             continue
-        if "© 乃木坂46LLC" in table.get_text():
+        if "©" in table.get_text():
             continue
 
         print(table.get_text())
@@ -95,7 +95,14 @@ def get_song(url: str) -> dict:
 
         else:
             # the next part would be commets
-            result["comments"] = table.get_text().strip()
+            result["comments"] = []
+            li_list = table.find_all("li")
+            if li_list:
+                for li in li_list:
+                    result["comments"].append(li.get_text().strip())
+            else:
+                result["comments"].append(table.get_text().strip())
+
             break
 
     if "Music video なし" in soup.get_text():
@@ -146,11 +153,11 @@ def main():
     #     "https://n46db.com/song.php?songcode=s022a",
     #     "https://n46db.com/song.php?songcode=s028e",
     # ]
-    for i in range(0, 1):
+    for i in range(0, 300):
         song = get_song(song_url_list[i])
         result.append(song)
         time.sleep(3)
-        with open("songs.json", "w") as file:
+        with open("songs_crawled.json", "w") as file:
             json.dump(result, file, ensure_ascii=False, indent=2)
 
 
