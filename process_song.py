@@ -1,4 +1,5 @@
 import json
+from utility import list_deduplication
 
 # Read existing JSON data from the file
 with open("songs_crawled.json", mode="r") as src:
@@ -32,23 +33,33 @@ for song in data:
     del song["date"]
     if "center" in song:
         song["center"] = song["center"].split("・")
+
     if "composer" in song:
         song["composer"] = song["composer"].split("、")
+        song["composer"] = list_deduplication(song["composer"])
+
     if "arranger" in song:
         song["arranger"] = song["arranger"].split("、")
+        song["arranger"] = list_deduplication(song["arranger"])
+
     if "lyricist" in song:
         song["lyricist"] = song["lyricist"].split("、")
+        song["lyricist"] = list_deduplication(song["lyricist"])
+
     if "director" in song:
         for i in range(len(song["director"])):
             song["director"][i] = song["director"][i].replace(
                 "videos/director.php?director=", ""
             )
+        song["director"] = list_deduplication(song["director"])
 
     if "choreographer" in song:
         for i in range(len(song["choreographer"])):
             song["choreographer"][i] = song["choreographer"][i].replace(
                 "songs/furi.php?furi=", ""
             )
+        song["choreographer"] = list_deduplication(song["choreographer"])
+
     if "version" in song:
         songs[included_in]["version"] = song["version"]
         del song["version"]
@@ -71,19 +82,17 @@ for song in data:
             row_temp = []
             for url in row:
                 if "https://n46db.com/profile.php?shortname=" in url:
-                    current = abbr_dict[
-                        url.replace("https://n46db.com/profile.php?shortname=", "")
-                    ]
-                    if current not in row_temp:
-                        row_temp.append(current)
+                    row_temp.append(
+                        abbr_dict[
+                            url.replace("https://n46db.com/profile.php?shortname=", "")
+                        ]
+                    )
                 else:
-                    current = id_dict[
-                        url.replace("https://n46db.com/profile.php?id=", "")
-                    ]
-                    if current not in row_temp:
-                        row_temp.append(current)
+                    row_temp.append(
+                        id_dict[url.replace("https://n46db.com/profile.php?id=", "")]
+                    )
 
-            formation.append(row_temp)
+            formation.append(list_deduplication(row_temp))
 
             formation_remove_first = False
             if len(formation) > 1:

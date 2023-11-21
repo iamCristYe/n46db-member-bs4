@@ -13,3 +13,12 @@ def download_image(img_src_url: str) -> str:
 
 def add_host(str: str) -> str:
     return urllib.parse.urljoin("https://n46db.com/", str)
+
+
+def list_deduplication(ls: list) -> list:
+    res = []
+    for i in ls:
+        if i not in res:
+            res.append(i)
+
+    return res
