@@ -53,8 +53,13 @@ for song in data:
         songs[included_in]["version"] = song["version"]
         del song["version"]
 
-    if "表題曲" in song["comments"] and "アンダー曲" in song["comments"]:
-        song["comments"] = ""
+    processed_comments = []
+
+    for comment in song["comments"]:
+        if not ("表題曲" in comment and "アンダー曲" in comment):
+            processed_comments.append(comment)
+
+    song["comments"] = processed_comments
 
     if "formation" in song:
         formation = []
