@@ -197,70 +197,70 @@ for release_type in result:
             release["versions"] = dict
 
 
-for release_type in result:
-    for release in result[release_type]:
-        release["youtube_playlist_id"] = []
-        release["cover_youtube"] = []
-        for song in release["tracks"]:
-            for youtube_playlist in youtube_data:
-                for playlist_id in youtube_playlist:
-                    playlist_data = youtube_playlist[playlist_id]
-                    if "youtube_id" not in song:
-                        for video_id in playlist_data:
-                            if song["name"] == playlist_data[video_id]:
-                                song["youtube_id"] = video_id
-                                if playlist_id not in release["youtube_playlist_id"]:
-                                    release["youtube_playlist_id"].append(playlist_id)
-                                if playlist_data["img"] not in release["cover_youtube"]:
-                                    release["cover_youtube"].append(
-                                        playlist_data["img"]
-                                    )
+# for release_type in result:
+#     for release in result[release_type]:
+#         release["youtube_playlist_id"] = []
+#         release["cover_youtube"] = []
+#         for song in release["tracks"]:
+#             for youtube_playlist in youtube_data:
+#                 for playlist_id in youtube_playlist:
+#                     playlist_data = youtube_playlist[playlist_id]
+#                     if "youtube_id" not in song:
+#                         for video_id in playlist_data:
+#                             if song["name"] == playlist_data[video_id]:
+#                                 song["youtube_id"] = video_id
+#                                 if playlist_id not in release["youtube_playlist_id"]:
+#                                     release["youtube_playlist_id"].append(playlist_id)
+#                                 if playlist_data["img"] not in release["cover_youtube"]:
+#                                     release["cover_youtube"].append(
+#                                         playlist_data["img"]
+#                                     )
 
-for release_type in result:
-    for release in result[release_type]:
-        if "versions" not in release:
-            release["versions"] = {}
-        print(release["title"], len(release["youtube_playlist_id"]))
-        if len(release["youtube_playlist_id"]) > 1:
-            i = 0
-            for version in release["versions"]:
-                if version == "アニメ盤":
-                    continue
+# for release_type in result:
+#     for release in result[release_type]:
+#         if "versions" not in release:
+#             release["versions"] = {}
+#         print(release["title"], len(release["youtube_playlist_id"]))
+#         if len(release["youtube_playlist_id"]) > 1:
+#             i = 0
+#             for version in release["versions"]:
+#                 if version == "アニメ盤":
+#                     continue
 
-                print(version, i)
-                release["versions"][version]["youtube_playlist_id"] = release[
-                    "youtube_playlist_id"
-                ][i]
-                release["versions"][version]["cover_youtube"] = release[
-                    "cover_youtube"
-                ][i]
-                i += 1
-            del release["youtube_playlist_id"]
-            del release["cover_youtube"]
-        else:
-            if release["title"] == "Monopoly":
-                continue
-            release["versions"]["配信"] = {}
-            release["versions"]["配信"]["youtube_playlist_id"] = release[
-                "youtube_playlist_id"
-            ][0]
-            release["versions"]["配信"]["cover_youtube"] = release["cover_youtube"][0]
-            del release["youtube_playlist_id"]
-            del release["cover_youtube"]
+#                 print(version, i)
+#                 release["versions"][version]["youtube_playlist_id"] = release[
+#                     "youtube_playlist_id"
+#                 ][i]
+#                 release["versions"][version]["cover_youtube"] = release[
+#                     "cover_youtube"
+#                 ][i]
+#                 i += 1
+#             del release["youtube_playlist_id"]
+#             del release["cover_youtube"]
+#         else:
+#             if release["title"] == "Monopoly":
+#                 continue
+#             release["versions"]["配信"] = {}
+#             release["versions"]["配信"]["youtube_playlist_id"] = release[
+#                 "youtube_playlist_id"
+#             ][0]
+#             release["versions"]["配信"]["cover_youtube"] = release["cover_youtube"][0]
+#             del release["youtube_playlist_id"]
+#             del release["cover_youtube"]
 
 
 for single in result["NS"]:
     for version in single["versions"]:
         for llc_release in llc_data:
             if single["title"][:-2] in llc_release[0] and version in llc_release[0]:
-                single["versions"][version]["cover_llc"] = llc_release[2].replace(
-                    "500_320_102400.jpg", "1000_1000_102400.jpg"
-                )
+                # single["versions"][version]["cover_llc"] = llc_release[2].replace(
+                #     "500_320_102400.jpg", "1000_1000_102400.jpg"
+                # )
                 single["date_llc"] = llc_release[1]
             elif single["title"][:-2] in llc_release[0]:
-                single["versions"]["通常盤"]["cover_llc"] = llc_release[2].replace(
-                    "500_320_102400.jpg", "1000_1000_102400.jpg"
-                )
+                # single["versions"]["通常盤"]["cover_llc"] = llc_release[2].replace(
+                #     "500_320_102400.jpg", "1000_1000_102400.jpg"
+                # )
                 single["date_llc"] = llc_release[1]
 
     print(
