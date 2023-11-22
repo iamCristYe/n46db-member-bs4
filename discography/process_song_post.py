@@ -35,6 +35,15 @@ with open("youtube-mv.json", mode="r") as src:
             print(mv)
 
 
+with open("discography_album.json", mode="r") as src:
+    album_data = json.load(src)
+    for release_type in data:
+        for release in data[release_type]:
+            for album in album_data:
+                if release["title"] in album[0]:
+                    release["versions"][album[0]] = {"cover_llc": album[2]}
+
+
 # Write back the JSON data with increased indentation
 with open("discography.json", mode="w", encoding="utf-8") as src:
     json.dump(data, src, ensure_ascii=False, indent=2)
