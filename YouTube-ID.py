@@ -39,10 +39,12 @@ def get_list(playlist_url):
         data = response.json()
         video_list = data["items"]
         for video in video_list:
+            video_id = video["contentDetails"]["videoId"]
+            if "img" not in list[playlist_id]:
+                img_url = f"https://i.ytimg.com/vi/{video_id}/maxresdefault.jpg"
+                list[playlist_id]["img"] = img_url
             print(video["contentDetails"]["videoId"], video["snippet"]["title"])
-            list[playlist_id][video["contentDetails"]["videoId"]] = video["snippet"][
-                "title"
-            ]
+            list[playlist_id][video_id] = video["snippet"]["title"]
 
     else:
         print(f"Error: {response.status_code}, {response.text}")
