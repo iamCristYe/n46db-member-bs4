@@ -3,11 +3,23 @@
     {
       "title": "ぐるぐるカーテン",
       "date": "2012年02月22日",
-      "version": {
-        "Type-A": {},
-        "Type-B": {},
-        "Type-C": {},
-        "通常盤": {}
+      "versions": {
+        "Type-A": {
+          "youtube_playlist_id": "OLAK5uy_lKk-rG0LacCpEDhSMqhFIG9YxzPZHMu7o",
+          "cover_youtube": "https://i.ytimg.com/vi/CSOz0qLfQf4/maxresdefault.jpg"
+        },
+        "Type-B": {
+          "youtube_playlist_id": "OLAK5uy_kOoYXVceZTb1qW7nra9O9oIyT-M-imd_w",
+          "cover_youtube": "https://i.ytimg.com/vi/pvxSKhU1JVI/maxresdefault.jpg"
+        },
+        "Type-C": {
+          "youtube_playlist_id": "OLAK5uy_lIOrU1W1bBsBInUwZNSOx9ISel1hzLWcM",
+          "cover_youtube": "https://i.ytimg.com/vi/sVrVQ1uLNMY/maxresdefault.jpg"
+        },
+        "通常盤": {
+          "youtube_playlist_id": "OLAK5uy_kayQiJicGQKcImAMFxJb_UibOVsDTWHFg",
+          "cover_youtube": "https://i.ytimg.com/vi/nxSHYpR3FPQ/maxresdefault.jpg"
+        }
       },
       "tracks": [
         {
@@ -324,28 +336,28 @@
           "type": "選抜＋",
           "youtube_id": "iCp25zVp2pA"
         }
-      ],
-      "youtube_playlist_id": [
-        "OLAK5uy_lKk-rG0LacCpEDhSMqhFIG9YxzPZHMu7o",
-        "OLAK5uy_kOoYXVceZTb1qW7nra9O9oIyT-M-imd_w",
-        "OLAK5uy_lIOrU1W1bBsBInUwZNSOx9ISel1hzLWcM",
-        "OLAK5uy_kayQiJicGQKcImAMFxJb_UibOVsDTWHFg"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/CSOz0qLfQf4/maxresdefault.jpg",
-        "https://i.ytimg.com/vi/pvxSKhU1JVI/maxresdefault.jpg",
-        "https://i.ytimg.com/vi/sVrVQ1uLNMY/maxresdefault.jpg",
-        "https://i.ytimg.com/vi/nxSHYpR3FPQ/maxresdefault.jpg"
       ]
     },
     {
       "title": "おいでシャンプー",
       "date": "2012年05月02日",
-      "version": {
-        "Type-A": {},
-        "Type-B": {},
-        "Type-C": {},
-        "通常盤": {}
+      "versions": {
+        "Type-A": {
+          "youtube_playlist_id": "OLAK5uy_mQGstpWJ4AIfsrzks0Ztw1yBA_YlptOJw",
+          "cover_youtube": "https://i.ytimg.com/vi/-x9ZBfvwfxc/maxresdefault.jpg"
+        },
+        "Type-B": {
+          "youtube_playlist_id": "OLAK5uy_moR_yY8EmFj5JHAaZKed09W9drEtMgV34",
+          "cover_youtube": "https://i.ytimg.com/vi/Xmwwsok_mWU/maxresdefault.jpg"
+        },
+        "Type-C": {
+          "youtube_playlist_id": "OLAK5uy_mPn9vJ5tNoGwnMX7rDl3RiNeaK6qhPxNM",
+          "cover_youtube": "https://i.ytimg.com/vi/ru5vAR1Elr0/maxresdefault.jpg"
+        },
+        "通常盤": {
+          "youtube_playlist_id": "OLAK5uy_nGm-zmthP73rVjn-LszTDTfjgFGGNwrZg",
+          "cover_youtube": "https://i.ytimg.com/vi/Aj_gDUWNkEk/maxresdefault.jpg"
+        }
       },
       "tracks": [
         {
@@ -605,28 +617,28 @@
           "type": "ユニット曲",
           "youtube_id": "j88GJp4bCYE"
         }
-      ],
-      "youtube_playlist_id": [
-        "OLAK5uy_mQGstpWJ4AIfsrzks0Ztw1yBA_YlptOJw",
-        "OLAK5uy_moR_yY8EmFj5JHAaZKed09W9drEtMgV34",
-        "OLAK5uy_mPn9vJ5tNoGwnMX7rDl3RiNeaK6qhPxNM",
-        "OLAK5uy_nGm-zmthP73rVjn-LszTDTfjgFGGNwrZg"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/-x9ZBfvwfxc/maxresdefault.jpg",
-        "https://i.ytimg.com/vi/Xmwwsok_mWU/maxresdefault.jpg",
-        "https://i.ytimg.com/vi/ru5vAR1Elr0/maxresdefault.jpg",
-        "https://i.ytimg.com/vi/Aj_gDUWNkEk/maxresdefault.jpg"
       ]
     },
     {
       "title": "走れ！Bicycle",
       "date": "2012年08月22日",
-      "version": {
-        "Type-A": {},
-        "Type-B": {},
-        "Type-C": {},
-        "通常盤": {}
+      "versions": {
+        "Type-A": {
+          "youtube_playlist_id": "OLAK5uy_koxG9V0xyx2uQ0LPOE_v5mH2YBfH0zQsc",
+          "cover_youtube": "https://i.ytimg.com/vi/ba9_DWgWgWw/maxresdefault.jpg"
+        },
+        "Type-B": {
+          "youtube_playlist_id": "OLAK5uy_nlgwOQuYzdZsKL0Jmwn6_mJJKbNT8Z_hA",
+          "cover_youtube": "https://i.ytimg.com/vi/oP3UgNoM3mQ/maxresdefault.jpg"
+        },
+        "Type-C": {
+          "youtube_playlist_id": "OLAK5uy_nytCiGz5ehan6TVg9u0zp1pGL49Z33HrM",
+          "cover_youtube": "https://i.ytimg.com/vi/iuNYHOGRv9k/maxresdefault.jpg"
+        },
+        "通常盤": {
+          "youtube_playlist_id": "OLAK5uy_mplS33D2bulj9pvzEUddTyl7RtytoF2Qk",
+          "cover_youtube": "https://i.ytimg.com/vi/19_vvnIJCC8/maxresdefault.jpg"
+        }
       },
       "tracks": [
         {
@@ -910,29 +922,29 @@
           "type": "ユニット曲",
           "youtube_id": "1tyw1wMxpPw"
         }
-      ],
-      "youtube_playlist_id": [
-        "OLAK5uy_koxG9V0xyx2uQ0LPOE_v5mH2YBfH0zQsc",
-        "OLAK5uy_nlgwOQuYzdZsKL0Jmwn6_mJJKbNT8Z_hA",
-        "OLAK5uy_nytCiGz5ehan6TVg9u0zp1pGL49Z33HrM",
-        "OLAK5uy_mplS33D2bulj9pvzEUddTyl7RtytoF2Qk"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/ba9_DWgWgWw/maxresdefault.jpg",
-        "https://i.ytimg.com/vi/oP3UgNoM3mQ/maxresdefault.jpg",
-        "https://i.ytimg.com/vi/iuNYHOGRv9k/maxresdefault.jpg",
-        "https://i.ytimg.com/vi/19_vvnIJCC8/maxresdefault.jpg"
       ]
     },
     {
       "title": "制服のマネキン",
       "date": "2012年12月19日",
-      "version": {
-        "Type-A": {},
-        "Type-B": {},
-        "Type-C": {},
+      "versions": {
+        "Type-A": {
+          "youtube_playlist_id": "OLAK5uy_kbeqvYTjRTOHmB3DI1Y6E48_v9DlorzBs",
+          "cover_youtube": "https://i.ytimg.com/vi/aQtInMET9sQ/maxresdefault.jpg"
+        },
+        "Type-B": {
+          "youtube_playlist_id": "OLAK5uy_mYDTJNIO6mqrDdCcccVrto8rykeHKjrs4",
+          "cover_youtube": "https://i.ytimg.com/vi/cp3qZHIKhkI/maxresdefault.jpg"
+        },
+        "Type-C": {
+          "youtube_playlist_id": "OLAK5uy_n4dfMTr-ZbyK3b4CQUyZ47s6MdtDZcPAg",
+          "cover_youtube": "https://i.ytimg.com/vi/wtm54hMkkBE/maxresdefault.jpg"
+        },
         "アニメ盤": {},
-        "通常盤": {}
+        "通常盤": {
+          "youtube_playlist_id": "OLAK5uy_kbvxzUDOvg_BnCmncoGDDzpwZWz673zNw",
+          "cover_youtube": "https://i.ytimg.com/vi/-yp0jII4WuU/maxresdefault.jpg"
+        }
       },
       "tracks": [
         {
@@ -1184,28 +1196,28 @@
           "type": "ユニット曲",
           "youtube_id": "AJm9IV_EgcE"
         }
-      ],
-      "youtube_playlist_id": [
-        "OLAK5uy_kbeqvYTjRTOHmB3DI1Y6E48_v9DlorzBs",
-        "OLAK5uy_mYDTJNIO6mqrDdCcccVrto8rykeHKjrs4",
-        "OLAK5uy_n4dfMTr-ZbyK3b4CQUyZ47s6MdtDZcPAg",
-        "OLAK5uy_kbvxzUDOvg_BnCmncoGDDzpwZWz673zNw"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/aQtInMET9sQ/maxresdefault.jpg",
-        "https://i.ytimg.com/vi/cp3qZHIKhkI/maxresdefault.jpg",
-        "https://i.ytimg.com/vi/wtm54hMkkBE/maxresdefault.jpg",
-        "https://i.ytimg.com/vi/-yp0jII4WuU/maxresdefault.jpg"
       ]
     },
     {
       "title": "君の名は希望",
       "date": "2013年03月13日",
-      "version": {
-        "Type-A": {},
-        "Type-B": {},
-        "Type-C": {},
-        "通常盤": {}
+      "versions": {
+        "Type-A": {
+          "youtube_playlist_id": "OLAK5uy_nB8pOZnnBoyay4Vu4BKoD28wUHDceyqcY",
+          "cover_youtube": "https://i.ytimg.com/vi/AEhKnnnWHSQ/maxresdefault.jpg"
+        },
+        "Type-B": {
+          "youtube_playlist_id": "OLAK5uy_nmkynzp1Y0w6j8e8viEEAYlEEbPkoqafU",
+          "cover_youtube": "https://i.ytimg.com/vi/btjw3gW-fj4/maxresdefault.jpg"
+        },
+        "Type-C": {
+          "youtube_playlist_id": "OLAK5uy_lLwBJ91XLk0GdvEpAZvTx0V3FvnBWZVEc",
+          "cover_youtube": "https://i.ytimg.com/vi/44zWSWmtJHM/maxresdefault.jpg"
+        },
+        "通常盤": {
+          "youtube_playlist_id": "OLAK5uy_nVmMkFhKEKATveuYPv7FO9XtOnWRbWQgI",
+          "cover_youtube": "https://i.ytimg.com/vi/iAxWZIzlUt0/maxresdefault.jpg"
+        }
       },
       "tracks": [
         {
@@ -1469,28 +1481,28 @@
           "type": "ユニット曲",
           "youtube_id": "gKBc0nqISiI"
         }
-      ],
-      "youtube_playlist_id": [
-        "OLAK5uy_nB8pOZnnBoyay4Vu4BKoD28wUHDceyqcY",
-        "OLAK5uy_nmkynzp1Y0w6j8e8viEEAYlEEbPkoqafU",
-        "OLAK5uy_lLwBJ91XLk0GdvEpAZvTx0V3FvnBWZVEc",
-        "OLAK5uy_nVmMkFhKEKATveuYPv7FO9XtOnWRbWQgI"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/AEhKnnnWHSQ/maxresdefault.jpg",
-        "https://i.ytimg.com/vi/btjw3gW-fj4/maxresdefault.jpg",
-        "https://i.ytimg.com/vi/44zWSWmtJHM/maxresdefault.jpg",
-        "https://i.ytimg.com/vi/iAxWZIzlUt0/maxresdefault.jpg"
       ]
     },
     {
       "title": "ガールズルール",
       "date": "2013年07月03日",
-      "version": {
-        "Type-A": {},
-        "Type-B": {},
-        "Type-C": {},
-        "通常盤": {}
+      "versions": {
+        "Type-A": {
+          "youtube_playlist_id": "OLAK5uy_momw47GSvhbvFVATfOKlK2tVgerMpAuiA",
+          "cover_youtube": "https://i.ytimg.com/vi/WMz6sdjN6FY/maxresdefault.jpg"
+        },
+        "Type-B": {
+          "youtube_playlist_id": "OLAK5uy_mOtrADLa9MAa0zw1Yb7XV4xt0T3mUF2QA",
+          "cover_youtube": "https://i.ytimg.com/vi/M7rdDQMgXdI/maxresdefault.jpg"
+        },
+        "Type-C": {
+          "youtube_playlist_id": "OLAK5uy_mzFkHepyt9atJnI1DgO2nCLQVGahm5BGQ",
+          "cover_youtube": "https://i.ytimg.com/vi/flveIuFlaBg/maxresdefault.jpg"
+        },
+        "通常盤": {
+          "youtube_playlist_id": "OLAK5uy_ljQ8C5KJr8zjSkgO1TdoZnolB7axz4HvA",
+          "cover_youtube": "https://i.ytimg.com/vi/uOW1vM86Gwg/maxresdefault.jpg"
+        }
       },
       "tracks": [
         {
@@ -1767,29 +1779,29 @@
           "type": "全員",
           "youtube_id": "F4Vlaia2wnk"
         }
-      ],
-      "youtube_playlist_id": [
-        "OLAK5uy_momw47GSvhbvFVATfOKlK2tVgerMpAuiA",
-        "OLAK5uy_mOtrADLa9MAa0zw1Yb7XV4xt0T3mUF2QA",
-        "OLAK5uy_mzFkHepyt9atJnI1DgO2nCLQVGahm5BGQ",
-        "OLAK5uy_ljQ8C5KJr8zjSkgO1TdoZnolB7axz4HvA"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/WMz6sdjN6FY/maxresdefault.jpg",
-        "https://i.ytimg.com/vi/M7rdDQMgXdI/maxresdefault.jpg",
-        "https://i.ytimg.com/vi/flveIuFlaBg/maxresdefault.jpg",
-        "https://i.ytimg.com/vi/uOW1vM86Gwg/maxresdefault.jpg"
       ]
     },
     {
       "title": "バレッタ",
       "date": "2013年11月27日",
-      "version": {
-        "Type-A": {},
-        "Type-B": {},
-        "Type-C": {},
+      "versions": {
+        "Type-A": {
+          "youtube_playlist_id": "OLAK5uy_lh1oVtJL6iQ7ELXed_BYdPeAxmLkfFrKU",
+          "cover_youtube": "https://i.ytimg.com/vi/YuX7-CVM1Ls/maxresdefault.jpg"
+        },
+        "Type-B": {
+          "youtube_playlist_id": "OLAK5uy_n8_vX0H5kjdWFEbLqylSumRxB32_gWxx0",
+          "cover_youtube": "https://i.ytimg.com/vi/MF_9gJFUmm4/maxresdefault.jpg"
+        },
+        "Type-C": {
+          "youtube_playlist_id": "OLAK5uy_nsdhsyrejaWJJbjtbSZzR9CYPBWUFKrSA",
+          "cover_youtube": "https://i.ytimg.com/vi/qQFYdUnrDmk/maxresdefault.jpg"
+        },
         "アニメ盤": {},
-        "通常盤": {}
+        "通常盤": {
+          "youtube_playlist_id": "OLAK5uy_nc-iqVAF31ygnt0f6EPOOUpRYO2rt-oVU",
+          "cover_youtube": "https://i.ytimg.com/vi/svTgXwEqFwE/maxresdefault.jpg"
+        }
       },
       "tracks": [
         {
@@ -2058,28 +2070,28 @@
           "type": "ユニット曲",
           "youtube_id": "PCIGe083SY0"
         }
-      ],
-      "youtube_playlist_id": [
-        "OLAK5uy_lh1oVtJL6iQ7ELXed_BYdPeAxmLkfFrKU",
-        "OLAK5uy_n8_vX0H5kjdWFEbLqylSumRxB32_gWxx0",
-        "OLAK5uy_nsdhsyrejaWJJbjtbSZzR9CYPBWUFKrSA",
-        "OLAK5uy_nc-iqVAF31ygnt0f6EPOOUpRYO2rt-oVU"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/YuX7-CVM1Ls/maxresdefault.jpg",
-        "https://i.ytimg.com/vi/MF_9gJFUmm4/maxresdefault.jpg",
-        "https://i.ytimg.com/vi/qQFYdUnrDmk/maxresdefault.jpg",
-        "https://i.ytimg.com/vi/svTgXwEqFwE/maxresdefault.jpg"
       ]
     },
     {
       "title": "気づいたら片想い",
       "date": "2014年04月02日",
-      "version": {
-        "Type-A": {},
-        "Type-B": {},
-        "Type-C": {},
-        "通常盤": {}
+      "versions": {
+        "Type-A": {
+          "youtube_playlist_id": "OLAK5uy_m8jMy9dCTicZOOhFKXcbNVvG-eRieLrlU",
+          "cover_youtube": "https://i.ytimg.com/vi/vdvR9BFVFpI/maxresdefault.jpg"
+        },
+        "Type-B": {
+          "youtube_playlist_id": "OLAK5uy_mAsx6OXSGOdVDlxm9EW_nn6jw83hkbl2E",
+          "cover_youtube": "https://i.ytimg.com/vi/Cd3mL3iP1Tk/maxresdefault.jpg"
+        },
+        "Type-C": {
+          "youtube_playlist_id": "OLAK5uy_m5_yO5ts_xRwHX1bf2N4NeW9bFv7blNuM",
+          "cover_youtube": "https://i.ytimg.com/vi/MZcm5F0quRA/maxresdefault.jpg"
+        },
+        "通常盤": {
+          "youtube_playlist_id": "OLAK5uy_nFfEZUxh6bpnv-pgKgu1bQT7cxKgrufDw",
+          "cover_youtube": "https://i.ytimg.com/vi/_5rBvIeRTFU/maxresdefault.jpg"
+        }
       },
       "tracks": [
         {
@@ -2338,28 +2350,28 @@
           "type": "ユニット曲",
           "youtube_id": "0CcDg7saIZY"
         }
-      ],
-      "youtube_playlist_id": [
-        "OLAK5uy_m8jMy9dCTicZOOhFKXcbNVvG-eRieLrlU",
-        "OLAK5uy_mAsx6OXSGOdVDlxm9EW_nn6jw83hkbl2E",
-        "OLAK5uy_m5_yO5ts_xRwHX1bf2N4NeW9bFv7blNuM",
-        "OLAK5uy_nFfEZUxh6bpnv-pgKgu1bQT7cxKgrufDw"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/vdvR9BFVFpI/maxresdefault.jpg",
-        "https://i.ytimg.com/vi/Cd3mL3iP1Tk/maxresdefault.jpg",
-        "https://i.ytimg.com/vi/MZcm5F0quRA/maxresdefault.jpg",
-        "https://i.ytimg.com/vi/_5rBvIeRTFU/maxresdefault.jpg"
       ]
     },
     {
       "title": "夏のFree&Easy",
       "date": "2014年07月09日",
-      "version": {
-        "Type-A": {},
-        "Type-B": {},
-        "Type-C": {},
-        "通常盤": {}
+      "versions": {
+        "Type-A": {
+          "youtube_playlist_id": "OLAK5uy_kiYTsb7MXXK5IAoisWCQwDbmhpphKXkfQ",
+          "cover_youtube": "https://i.ytimg.com/vi/PgncPhl0PUQ/maxresdefault.jpg"
+        },
+        "Type-B": {
+          "youtube_playlist_id": "OLAK5uy_k-Na5dxShlUFqx-xORTYGmCJC1FmfcUY4",
+          "cover_youtube": "https://i.ytimg.com/vi/axlvfuhFYmo/maxresdefault.jpg"
+        },
+        "Type-C": {
+          "youtube_playlist_id": "OLAK5uy_nIXd0tkUnd7cJPDrbX5Oei1JeYubOKOVA",
+          "cover_youtube": "https://i.ytimg.com/vi/ojixxgEtrJU/maxresdefault.jpg"
+        },
+        "通常盤": {
+          "youtube_playlist_id": "OLAK5uy_nNdloilvDniuJY0XTRh0laJRI4QsygtTA",
+          "cover_youtube": "https://i.ytimg.com/vi/6ShzL8o7pDg/maxresdefault.jpg"
+        }
       },
       "tracks": [
         {
@@ -2613,28 +2625,28 @@
           "type": "ユニット曲",
           "youtube_id": "Y54aWRPdTjk"
         }
-      ],
-      "youtube_playlist_id": [
-        "OLAK5uy_kiYTsb7MXXK5IAoisWCQwDbmhpphKXkfQ",
-        "OLAK5uy_k-Na5dxShlUFqx-xORTYGmCJC1FmfcUY4",
-        "OLAK5uy_nIXd0tkUnd7cJPDrbX5Oei1JeYubOKOVA",
-        "OLAK5uy_nNdloilvDniuJY0XTRh0laJRI4QsygtTA"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/PgncPhl0PUQ/maxresdefault.jpg",
-        "https://i.ytimg.com/vi/axlvfuhFYmo/maxresdefault.jpg",
-        "https://i.ytimg.com/vi/ojixxgEtrJU/maxresdefault.jpg",
-        "https://i.ytimg.com/vi/6ShzL8o7pDg/maxresdefault.jpg"
       ]
     },
     {
       "title": "何度目の青空か？",
       "date": "2014年10月08日",
-      "version": {
-        "Type-A": {},
-        "Type-B": {},
-        "Type-C": {},
-        "通常盤": {}
+      "versions": {
+        "Type-A": {
+          "youtube_playlist_id": "OLAK5uy_mZ0WAeVz_O7FjzJsP5VD0Oi4BsmyiIxig",
+          "cover_youtube": "https://i.ytimg.com/vi/sY_bjZLr5Ts/maxresdefault.jpg"
+        },
+        "Type-B": {
+          "youtube_playlist_id": "OLAK5uy_k_Y7f0OQMJT5T-zb99Iw-Bk2kHcc0spqg",
+          "cover_youtube": "https://i.ytimg.com/vi/YQG8iIlXOy8/maxresdefault.jpg"
+        },
+        "Type-C": {
+          "youtube_playlist_id": "OLAK5uy_nV1Cpz39rnO8fRukyx35WdUe1K3TwI9-4",
+          "cover_youtube": "https://i.ytimg.com/vi/guCb61zCj-c/maxresdefault.jpg"
+        },
+        "通常盤": {
+          "youtube_playlist_id": "OLAK5uy_nSWlPGM5BedscsjeSNlEriUxfn_HcHqZs",
+          "cover_youtube": "https://i.ytimg.com/vi/Hfj3YQRSHEM/maxresdefault.jpg"
+        }
       },
       "tracks": [
         {
@@ -2862,7 +2874,8 @@
               "伊藤万理華"
             ]
           ],
-          "type": "アンダー曲"
+          "type": "アンダー曲",
+          "youtube_id": "gw73B2PD9Jo"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s010f",
@@ -2896,26 +2909,20 @@
           "type": "ユニット曲",
           "youtube_id": "-uqkOcEaecA"
         }
-      ],
-      "youtube_playlist_id": [
-        "OLAK5uy_mZ0WAeVz_O7FjzJsP5VD0Oi4BsmyiIxig",
-        "OLAK5uy_k_Y7f0OQMJT5T-zb99Iw-Bk2kHcc0spqg",
-        "OLAK5uy_nSWlPGM5BedscsjeSNlEriUxfn_HcHqZs"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/sY_bjZLr5Ts/maxresdefault.jpg",
-        "https://i.ytimg.com/vi/YQG8iIlXOy8/maxresdefault.jpg",
-        "https://i.ytimg.com/vi/Hfj3YQRSHEM/maxresdefault.jpg"
       ]
     },
     {
       "title": "命は美しい",
       "date": "2015年03月18日",
-      "version": {
+      "versions": {
         "Type-A": {},
         "Type-B": {},
         "Type-C": {},
-        "通常盤": {}
+        "通常盤": {},
+        "配信": {
+          "youtube_playlist_id": "OLAK5uy_kq7m8YkrW83CnbWlx42_-EzpEXlxVZTJg",
+          "cover_youtube": "https://i.ytimg.com/vi/k5ZE4dAajX0/maxresdefault.jpg"
+        }
       },
       "tracks": [
         {
@@ -3154,23 +3161,21 @@
           "type": "ユニット曲",
           "youtube_id": "6pPJtkGl8lA"
         }
-      ],
-      "youtube_playlist_id": [
-        "OLAK5uy_kq7m8YkrW83CnbWlx42_-EzpEXlxVZTJg"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/k5ZE4dAajX0/maxresdefault.jpg"
       ]
     },
     {
       "title": "太陽ノック",
       "date": "2015年07月22日",
-      "version": {
+      "versions": {
         "Type-A": {},
         "Type-B": {},
         "Type-C": {},
         "セブン-イレブン限定盤": {},
-        "通常盤": {}
+        "通常盤": {},
+        "配信": {
+          "youtube_playlist_id": "OLAK5uy_kKHsXFyCaWhXF8Tzt-85uoelXrR86AKXE",
+          "cover_youtube": "https://i.ytimg.com/vi/k8W_Sman9dE/maxresdefault.jpg"
+        }
       },
       "tracks": [
         {
@@ -3444,23 +3449,21 @@
           "type": "ユニット曲",
           "youtube_id": "XmUuGwcrzGQ"
         }
-      ],
-      "youtube_playlist_id": [
-        "OLAK5uy_kKHsXFyCaWhXF8Tzt-85uoelXrR86AKXE"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/k8W_Sman9dE/maxresdefault.jpg"
       ]
     },
     {
       "title": "今、話したい誰かがいる",
       "date": "2015年10月28日",
-      "version": {
+      "versions": {
         "Type-A": {},
         "Type-B": {},
         "Type-C": {},
         "ここさけ盤": {},
-        "通常盤": {}
+        "通常盤": {},
+        "配信": {
+          "youtube_playlist_id": "OLAK5uy_k-9t1jLREECnt3P7SJxz__IKxbHAIClg0",
+          "cover_youtube": "https://i.ytimg.com/vi/PhTu5mmVOt8/maxresdefault.jpg"
+        }
       },
       "tracks": [
         {
@@ -3745,23 +3748,21 @@
           "type": "ユニット曲",
           "youtube_id": "JY2AyCsF74E"
         }
-      ],
-      "youtube_playlist_id": [
-        "OLAK5uy_k-9t1jLREECnt3P7SJxz__IKxbHAIClg0"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/PhTu5mmVOt8/maxresdefault.jpg"
       ]
     },
     {
       "title": "ハルジオンが咲く頃",
       "date": "2016年03月23日",
-      "version": {
+      "versions": {
         "Type-A": {},
         "Type-B": {},
         "Type-C": {},
         "Type-D": {},
-        "通常盤": {}
+        "通常盤": {},
+        "配信": {
+          "youtube_playlist_id": "OLAK5uy_lEE4POUTJe-BX2ZRBGoyTvcWQDB6YSK58",
+          "cover_youtube": "https://i.ytimg.com/vi/KzG0oD_QNdQ/maxresdefault.jpg"
+        }
       },
       "tracks": [
         {
@@ -4025,23 +4026,21 @@
           ],
           "type": "ユニット曲"
         }
-      ],
-      "youtube_playlist_id": [
-        "OLAK5uy_lEE4POUTJe-BX2ZRBGoyTvcWQDB6YSK58"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/KzG0oD_QNdQ/maxresdefault.jpg"
       ]
     },
     {
       "title": "裸足でSummer",
       "date": "2016年07月27日",
-      "version": {
+      "versions": {
         "Type-A": {},
         "Type-B": {},
         "Type-C": {},
         "Type-D": {},
-        "通常盤": {}
+        "通常盤": {},
+        "配信": {
+          "youtube_playlist_id": "OLAK5uy_lVFGfI0FlJTZ4Y3qeofMglnWpmm__00tY",
+          "cover_youtube": "https://i.ytimg.com/vi/Pj3T-hS7ODw/maxresdefault.jpg"
+        }
       },
       "tracks": [
         {
@@ -4302,23 +4301,21 @@
           "type": "ユニット曲",
           "youtube_id": "rcfqSgY67F0"
         }
-      ],
-      "youtube_playlist_id": [
-        "OLAK5uy_lVFGfI0FlJTZ4Y3qeofMglnWpmm__00tY"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/Pj3T-hS7ODw/maxresdefault.jpg"
       ]
     },
     {
       "title": "サヨナラの意味",
       "date": "2016年11月09日",
-      "version": {
+      "versions": {
         "Type-A": {},
         "Type-B": {},
         "Type-C": {},
         "Type-D": {},
-        "通常盤": {}
+        "通常盤": {},
+        "配信": {
+          "youtube_playlist_id": "OLAK5uy_lJZ-b3GWuy6db0B4PllSEf5nOhMzNUfyk",
+          "cover_youtube": "https://i.ytimg.com/vi/Qupd96velc4/maxresdefault.jpg"
+        }
       },
       "tracks": [
         {
@@ -4593,23 +4590,21 @@
           "type": "ソロ曲",
           "youtube_id": "TUBkLua1INo"
         }
-      ],
-      "youtube_playlist_id": [
-        "OLAK5uy_lJZ-b3GWuy6db0B4PllSEf5nOhMzNUfyk"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/Qupd96velc4/maxresdefault.jpg"
       ]
     },
     {
       "title": "インフルエンサー",
       "date": "2017年03月22日",
-      "version": {
+      "versions": {
         "Type-A": {},
         "Type-B": {},
         "Type-C": {},
         "Type-D": {},
-        "通常盤": {}
+        "通常盤": {},
+        "配信": {
+          "youtube_playlist_id": "OLAK5uy_kO0-Pe2n-RHP9OHEjZ-jP7_rYh7cJWrjI",
+          "cover_youtube": "https://i.ytimg.com/vi/mwoSF8hJaS0/maxresdefault.jpg"
+        }
       },
       "tracks": [
         {
@@ -4890,23 +4885,21 @@
           "type": "ユニット曲",
           "youtube_id": "Sby3UpYCJiw"
         }
-      ],
-      "youtube_playlist_id": [
-        "OLAK5uy_kO0-Pe2n-RHP9OHEjZ-jP7_rYh7cJWrjI"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/mwoSF8hJaS0/maxresdefault.jpg"
       ]
     },
     {
       "title": "逃げ水",
       "date": "2017年08月09日",
-      "version": {
+      "versions": {
         "Type-A": {},
         "Type-B": {},
         "Type-C": {},
         "Type-D": {},
-        "通常盤": {}
+        "通常盤": {},
+        "配信": {
+          "youtube_playlist_id": "OLAK5uy_lULcvpeFNhjL-9NHNxCPdsbGebw5qIidk",
+          "cover_youtube": "https://i.ytimg.com/vi/APVX4P1RrCI/maxresdefault.jpg"
+        }
       },
       "tracks": [
         {
@@ -5254,23 +5247,21 @@
           "type": "ユニット曲",
           "youtube_id": "it5rbXPGWXE"
         }
-      ],
-      "youtube_playlist_id": [
-        "OLAK5uy_lULcvpeFNhjL-9NHNxCPdsbGebw5qIidk"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/APVX4P1RrCI/maxresdefault.jpg"
       ]
     },
     {
       "title": "いつかできるから今日できる",
       "date": "2017年10月11日",
-      "version": {
+      "versions": {
         "Type-A": {},
         "Type-B": {},
         "Type-C": {},
         "Type-D": {},
-        "通常盤": {}
+        "通常盤": {},
+        "配信": {
+          "youtube_playlist_id": "OLAK5uy_lwneSHxXYsPoiVmszykLojGn0lKRZUt7o",
+          "cover_youtube": "https://i.ytimg.com/vi/iW1no7K-s9M/maxresdefault.jpg"
+        }
       },
       "tracks": [
         {
@@ -5560,23 +5551,21 @@
           ],
           "type": "ユニット曲"
         }
-      ],
-      "youtube_playlist_id": [
-        "OLAK5uy_lwneSHxXYsPoiVmszykLojGn0lKRZUt7o"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/iW1no7K-s9M/maxresdefault.jpg"
       ]
     },
     {
       "title": "シンクロニシティ",
       "date": "2018年04月25日",
-      "version": {
+      "versions": {
         "Type-A": {},
         "Type-B": {},
         "Type-C": {},
         "Type-D": {},
-        "通常盤": {}
+        "通常盤": {},
+        "配信": {
+          "youtube_playlist_id": "OLAK5uy_ksHoQmWbA7JInMwxTJV5thDQIK2EdCm84",
+          "cover_youtube": "https://i.ytimg.com/vi/-23v33lnR_Y/maxresdefault.jpg"
+        }
       },
       "tracks": [
         {
@@ -5895,23 +5884,21 @@
           "type": "ユニット曲",
           "youtube_id": "pZQck2wyt2A"
         }
-      ],
-      "youtube_playlist_id": [
-        "OLAK5uy_ksHoQmWbA7JInMwxTJV5thDQIK2EdCm84"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/-23v33lnR_Y/maxresdefault.jpg"
       ]
     },
     {
       "title": "ジコチューで行こう!",
       "date": "2018年08月08日",
-      "version": {
+      "versions": {
         "Type-A": {},
         "Type-B": {},
         "Type-C": {},
         "Type-D": {},
-        "通常盤": {}
+        "通常盤": {},
+        "配信": {
+          "youtube_playlist_id": "OLAK5uy_kqGKwy3TPPV7VzNh9oEaFWx4H5W-pjVPE",
+          "cover_youtube": "https://i.ytimg.com/vi/5DbQIbmIZL0/maxresdefault.jpg"
+        }
       },
       "tracks": [
         {
@@ -6211,23 +6198,21 @@
           "type": "選抜",
           "youtube_id": "QR8lseOOhE4"
         }
-      ],
-      "youtube_playlist_id": [
-        "OLAK5uy_kqGKwy3TPPV7VzNh9oEaFWx4H5W-pjVPE"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/5DbQIbmIZL0/maxresdefault.jpg"
       ]
     },
     {
       "title": "帰り道は遠回りしたくなる",
       "date": "2018年11月14日",
-      "version": {
+      "versions": {
         "Type-A": {},
         "Type-B": {},
         "Type-C": {},
         "Type-D": {},
-        "通常盤": {}
+        "通常盤": {},
+        "配信": {
+          "youtube_playlist_id": "OLAK5uy_mSLlxL36AzRPmzEJOka2schJVlQir3eTY",
+          "cover_youtube": "https://i.ytimg.com/vi/fFyXhAgyYEc/maxresdefault.jpg"
+        }
       },
       "tracks": [
         {
@@ -6497,23 +6482,21 @@
           "type": "ユニット曲",
           "youtube_id": "hgk212YEav8"
         }
-      ],
-      "youtube_playlist_id": [
-        "OLAK5uy_mSLlxL36AzRPmzEJOka2schJVlQir3eTY"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/fFyXhAgyYEc/maxresdefault.jpg"
       ]
     },
     {
       "title": "Sing Out!",
       "date": "2019年05月29日",
-      "version": {
+      "versions": {
         "Type-A": {},
         "Type-B": {},
         "Type-C": {},
         "Type-D": {},
-        "通常盤": {}
+        "通常盤": {},
+        "配信": {
+          "youtube_playlist_id": "OLAK5uy_m9gkYVngH4erNElw5vUFwSzWxiOjbeJ_0",
+          "cover_youtube": "https://i.ytimg.com/vi/4Pz3h6_TYHk/maxresdefault.jpg"
+        }
       },
       "tracks": [
         {
@@ -6775,23 +6758,21 @@
           "type": "ユニット曲",
           "youtube_id": "FhtYny5cSVY"
         }
-      ],
-      "youtube_playlist_id": [
-        "OLAK5uy_m9gkYVngH4erNElw5vUFwSzWxiOjbeJ_0"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/4Pz3h6_TYHk/maxresdefault.jpg"
       ]
     },
     {
       "title": "夜明けまで強がらなくてもいい",
       "date": "2019年09月04日",
-      "version": {
+      "versions": {
         "Type-A": {},
         "Type-B": {},
         "Type-C": {},
         "Type-D": {},
-        "通常盤": {}
+        "通常盤": {},
+        "配信": {
+          "youtube_playlist_id": "OLAK5uy_lkVKJe4le7nihvdgiMnOYIMbetPrzAzxo",
+          "cover_youtube": "https://i.ytimg.com/vi/DG1gGtQNtP0/maxresdefault.jpg"
+        }
       },
       "tracks": [
         {
@@ -7086,23 +7067,21 @@
           "type": "ユニット曲",
           "youtube_id": "PPJhD0s1Qzs"
         }
-      ],
-      "youtube_playlist_id": [
-        "OLAK5uy_lkVKJe4le7nihvdgiMnOYIMbetPrzAzxo"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/DG1gGtQNtP0/maxresdefault.jpg"
       ]
     },
     {
       "title": "しあわせの保護色",
       "date": "2020年03月25日",
-      "version": {
+      "versions": {
         "Type-A": {},
         "Type-B": {},
         "Type-C": {},
         "Type-D": {},
-        "通常盤": {}
+        "通常盤": {},
+        "配信": {
+          "youtube_playlist_id": "OLAK5uy_lv0A7WmOg2HuVWbs881kfKUiFFiyzNviM",
+          "cover_youtube": "https://i.ytimg.com/vi/JXZuxT0IW1E/maxresdefault.jpg"
+        }
       },
       "tracks": [
         {
@@ -7375,23 +7354,21 @@
           ],
           "type": "ユニット曲"
         }
-      ],
-      "youtube_playlist_id": [
-        "OLAK5uy_lv0A7WmOg2HuVWbs881kfKUiFFiyzNviM"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/JXZuxT0IW1E/maxresdefault.jpg"
       ]
     },
     {
       "title": "僕は僕を好きになる",
       "date": "2021年01月27日",
-      "version": {
+      "versions": {
         "Type-A": {},
         "Type-B": {},
         "Type-C": {},
         "Type-D": {},
-        "通常盤": {}
+        "通常盤": {},
+        "配信": {
+          "youtube_playlist_id": "OLAK5uy_m3zykRuemALKhW30K5bu5hniOniHsudaI",
+          "cover_youtube": "https://i.ytimg.com/vi/RiDxwYbpUbI/maxresdefault.jpg"
+        }
       },
       "tracks": [
         {
@@ -7707,23 +7684,21 @@
           "type": "ユニット曲",
           "youtube_id": "1g-v6Y0cQtE"
         }
-      ],
-      "youtube_playlist_id": [
-        "OLAK5uy_m3zykRuemALKhW30K5bu5hniOniHsudaI"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/RiDxwYbpUbI/maxresdefault.jpg"
       ]
     },
     {
       "title": "ごめんねFingers crossed",
       "date": "2021年06月09日",
-      "version": {
+      "versions": {
         "Type-A": {},
         "Type-B": {},
         "Type-C": {},
         "Type-D": {},
-        "通常盤": {}
+        "通常盤": {},
+        "配信": {
+          "youtube_playlist_id": "OLAK5uy_m27WfKV20t1NZ9rNTQqt9tSn9QOzVwxms",
+          "cover_youtube": "https://i.ytimg.com/vi/BTXvZW_X9cE/maxresdefault.jpg"
+        }
       },
       "tracks": [
         {
@@ -8045,23 +8020,21 @@
           "type": "4期生曲",
           "youtube_id": "dIqN5XgIhFQ"
         }
-      ],
-      "youtube_playlist_id": [
-        "OLAK5uy_m27WfKV20t1NZ9rNTQqt9tSn9QOzVwxms"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/BTXvZW_X9cE/maxresdefault.jpg"
       ]
     },
     {
       "title": "君に叱られた",
       "date": "2021年09月22日",
-      "version": {
+      "versions": {
         "Type-A": {},
         "Type-B": {},
         "Type-C": {},
         "Type-D": {},
-        "通常盤": {}
+        "通常盤": {},
+        "配信": {
+          "youtube_playlist_id": "OLAK5uy_lr7_M-g5k-0TwFDW6R4logFlfOIa-cXYI",
+          "cover_youtube": "https://i.ytimg.com/vi/i9dpwczneZk/maxresdefault.jpg"
+        }
       },
       "tracks": [
         {
@@ -8364,23 +8337,21 @@
           "type": "全員",
           "youtube_id": "YnugGWrpHvs"
         }
-      ],
-      "youtube_playlist_id": [
-        "OLAK5uy_lr7_M-g5k-0TwFDW6R4logFlfOIa-cXYI"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/i9dpwczneZk/maxresdefault.jpg"
       ]
     },
     {
       "title": "Actually…",
       "date": "2022年03月23日",
-      "version": {
+      "versions": {
         "Type-A": {},
         "Type-B": {},
         "Type-C": {},
         "Type-D": {},
-        "通常盤": {}
+        "通常盤": {},
+        "配信": {
+          "youtube_playlist_id": "OLAK5uy_kcybgRXrbT0-gGiHKKTVCki5319w-QO0c",
+          "cover_youtube": "https://i.ytimg.com/vi/mQKEDfGkzZk/maxresdefault.jpg"
+        }
       },
       "tracks": [
         {
@@ -8684,23 +8655,21 @@
           "type": "選抜",
           "youtube_id": "0OLzeJZMnw4"
         }
-      ],
-      "youtube_playlist_id": [
-        "OLAK5uy_kcybgRXrbT0-gGiHKKTVCki5319w-QO0c"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/mQKEDfGkzZk/maxresdefault.jpg"
       ]
     },
     {
       "title": "好きというのはロックだぜ！",
       "date": "2022年08月31日",
-      "version": {
+      "versions": {
         "Type-A": {},
         "Type-B": {},
         "Type-C": {},
         "Type-D": {},
-        "通常盤": {}
+        "通常盤": {},
+        "配信": {
+          "youtube_playlist_id": "OLAK5uy_nh_psVozMspc5zJ2hWwM3ldhbFL0Gxt6o",
+          "cover_youtube": "https://i.ytimg.com/vi/7rR8dPZ3xrk/maxresdefault.jpg"
+        }
       },
       "tracks": [
         {
@@ -9014,23 +8983,21 @@
           "type": "ユニット曲",
           "youtube_id": "6VGEGb0oZJc"
         }
-      ],
-      "youtube_playlist_id": [
-        "OLAK5uy_nh_psVozMspc5zJ2hWwM3ldhbFL0Gxt6o"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/7rR8dPZ3xrk/maxresdefault.jpg"
       ]
     },
     {
       "title": "ここにはないもの",
       "date": "2022年12月07日",
-      "version": {
+      "versions": {
         "Type-A": {},
         "Type-B": {},
         "Type-C": {},
         "Type-D": {},
-        "通常盤": {}
+        "通常盤": {},
+        "配信": {
+          "youtube_playlist_id": "OLAK5uy_msEcYiCYljwonqAR3UwLG2jTqLZMi-v6M",
+          "cover_youtube": "https://i.ytimg.com/vi/vssTvJXpfjU/maxresdefault.jpg"
+        }
       },
       "tracks": [
         {
@@ -9310,23 +9277,21 @@
           "type": "5期生曲",
           "youtube_id": "5CJVfucuWj4"
         }
-      ],
-      "youtube_playlist_id": [
-        "OLAK5uy_msEcYiCYljwonqAR3UwLG2jTqLZMi-v6M"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/vssTvJXpfjU/maxresdefault.jpg"
       ]
     },
     {
       "title": "人は夢を二度見る",
       "date": "2023年03月29日",
-      "version": {
+      "versions": {
         "Type-A": {},
         "Type-B": {},
         "Type-C": {},
         "Type-D": {},
-        "通常盤": {}
+        "通常盤": {},
+        "配信": {
+          "youtube_playlist_id": "OLAK5uy_ke8HBtvHn4xb-_uF10uuM9AK5m6-t_5M8",
+          "cover_youtube": "https://i.ytimg.com/vi/uyaDGKNMl3c/maxresdefault.jpg"
+        }
       },
       "tracks": [
         {
@@ -9647,23 +9612,21 @@
           "type": "ユニット曲",
           "youtube_id": "fL4pPuKxR_A"
         }
-      ],
-      "youtube_playlist_id": [
-        "OLAK5uy_ke8HBtvHn4xb-_uF10uuM9AK5m6-t_5M8"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/uyaDGKNMl3c/maxresdefault.jpg"
       ]
     },
     {
       "title": "おひとりさま天国",
       "date": "2023年08月23日",
-      "version": {
+      "versions": {
         "Type-A": {},
         "Type-B": {},
         "Type-C": {},
         "Type-D": {},
-        "通常盤": {}
+        "通常盤": {},
+        "配信": {
+          "youtube_playlist_id": "OLAK5uy_nzKG2kvE8-GGJn8DjIrN1SPDmT-hyyx-k",
+          "cover_youtube": "https://i.ytimg.com/vi/2J70Be_dlqs/maxresdefault.jpg"
+        }
       },
       "tracks": [
         {
@@ -9962,18 +9925,12 @@
           "type": "ユニット曲",
           "youtube_id": "Fxa4CqhIxuI"
         }
-      ],
-      "youtube_playlist_id": [
-        "OLAK5uy_nzKG2kvE8-GGJn8DjIrN1SPDmT-hyyx-k"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/2J70Be_dlqs/maxresdefault.jpg"
       ]
     },
     {
       "title": "Monopoly",
       "date": "2023年12月06日 （予定）",
-      "version": {
+      "versions": {
         "Type-A": {},
         "Type-B": {},
         "Type-C": {},
@@ -10452,12 +10409,12 @@
           "youtube_id": "G6XY9c2Apj8"
         }
       ],
-      "youtube_playlist_id": [
-        "OLAK5uy_nphBTQ0z9Yo4GX0nZntydtnLiEmTWFrZU"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/G6XY9c2Apj8/maxresdefault.jpg"
-      ]
+      "versions": {
+        "配信": {
+          "youtube_playlist_id": "OLAK5uy_nphBTQ0z9Yo4GX0nZntydtnLiEmTWFrZU",
+          "cover_youtube": "https://i.ytimg.com/vi/G6XY9c2Apj8/maxresdefault.jpg"
+        }
+      }
     },
     {
       "title": "それぞれの椅子",
@@ -10802,12 +10759,12 @@
           "youtube_id": "qPDgPjMcxrY"
         }
       ],
-      "youtube_playlist_id": [
-        "OLAK5uy_l_GU_JQTY3jxSsjTqBQ2XpMuuIYB8lNCo"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/nA5GtPsJS8s/maxresdefault.jpg"
-      ]
+      "versions": {
+        "配信": {
+          "youtube_playlist_id": "OLAK5uy_l_GU_JQTY3jxSsjTqBQ2XpMuuIYB8lNCo",
+          "cover_youtube": "https://i.ytimg.com/vi/nA5GtPsJS8s/maxresdefault.jpg"
+        }
+      }
     },
     {
       "title": "生まれてから初めて見た夢",
@@ -11218,12 +11175,12 @@
           "youtube_id": "HZJuwjUlD5s"
         }
       ],
-      "youtube_playlist_id": [
-        "OLAK5uy_ls7yYkwqyW6LnRgS8Xut9K8ELWMuHmF94"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/hRAIwPNQNSw/maxresdefault.jpg"
-      ]
+      "versions": {
+        "配信": {
+          "youtube_playlist_id": "OLAK5uy_ls7yYkwqyW6LnRgS8Xut9K8ELWMuHmF94",
+          "cover_youtube": "https://i.ytimg.com/vi/hRAIwPNQNSw/maxresdefault.jpg"
+        }
+      }
     },
     {
       "title": "今が思い出になるまで",
@@ -11495,17 +11452,17 @@
           "type": "ユニット曲"
         }
       ],
-      "youtube_playlist_id": [
-        "OLAK5uy_lDosPMLF9YZuvTLj4QYZ9RF2tjU9SASg0"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/mZkeNK0RQ04/maxresdefault.jpg"
-      ]
+      "versions": {
+        "配信": {
+          "youtube_playlist_id": "OLAK5uy_lDosPMLF9YZuvTLj4QYZ9RF2tjU9SASg0",
+          "cover_youtube": "https://i.ytimg.com/vi/mZkeNK0RQ04/maxresdefault.jpg"
+        }
+      }
     }
   ],
   "NUA": [
     {
-      "title": "Time flies",
+      "title": "僕だけの君 ~Under Super Best~",
       "date": "2018年01月10日",
       "tracks": [
         {
@@ -11662,12 +11619,12 @@
           "youtube_id": "ECm-4Zs4Rk4"
         }
       ],
-      "youtube_playlist_id": [
-        "OLAK5uy_l-Sh2dt5InHGYrZGuwOhUgMcHibPh7C_w"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/YQgdeHOBShM/maxresdefault.jpg"
-      ]
+      "versions": {
+        "配信": {
+          "youtube_playlist_id": "OLAK5uy_l-Sh2dt5InHGYrZGuwOhUgMcHibPh7C_w",
+          "cover_youtube": "https://i.ytimg.com/vi/YQgdeHOBShM/maxresdefault.jpg"
+        }
+      }
     }
   ],
   "NBA": [
@@ -11883,14 +11840,12 @@
           "youtube_id": "RjGaYoziIYY"
         }
       ],
-      "youtube_playlist_id": [
-        "OLAK5uy_k6Y-b4MKN7Uf8hE8qtGyRM8imyTJLDXzI",
-        "OLAK5uy_keNIwGrWqF2t7HzeADBEaU-Vb3f5asdc8"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/MnCBEeKxL1E/maxresdefault.jpg",
-        "https://i.ytimg.com/vi/M6QvS0uyJpQ/maxresdefault.jpg"
-      ]
+      "versions": {
+        "配信": {
+          "youtube_playlist_id": "OLAK5uy_keNIwGrWqF2t7HzeADBEaU-Vb3f5asdc8",
+          "cover_youtube": "https://i.ytimg.com/vi/M6QvS0uyJpQ/maxresdefault.jpg"
+        }
+      }
     }
   ],
   "NHS": [
@@ -11986,12 +11941,12 @@
           "youtube_id": "Roq5L_qHzuw"
         }
       ],
-      "youtube_playlist_id": [
-        "OLAK5uy_md8h1LmuzFl4z3p1GkUIuK_cRPzR3sVV0"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/Roq5L_qHzuw/maxresdefault.jpg"
-      ]
+      "versions": {
+        "配信": {
+          "youtube_playlist_id": "OLAK5uy_md8h1LmuzFl4z3p1GkUIuK_cRPzR3sVV0",
+          "cover_youtube": "https://i.ytimg.com/vi/Roq5L_qHzuw/maxresdefault.jpg"
+        }
+      }
     },
     {
       "title": "Route 246",
@@ -12056,12 +12011,12 @@
           "youtube_id": "6ltTNAfTIlU"
         }
       ],
-      "youtube_playlist_id": [
-        "OLAK5uy_kR24XZkHRgz1GIfZrzJHHh6VlCgOcJX70"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/6ltTNAfTIlU/maxresdefault.jpg"
-      ]
+      "versions": {
+        "配信": {
+          "youtube_playlist_id": "OLAK5uy_kR24XZkHRgz1GIfZrzJHHh6VlCgOcJX70",
+          "cover_youtube": "https://i.ytimg.com/vi/6ltTNAfTIlU/maxresdefault.jpg"
+        }
+      }
     },
     {
       "title": "１・２・３",
@@ -12098,12 +12053,12 @@
           "youtube_id": "wzQ15iQg4FQ"
         }
       ],
-      "youtube_playlist_id": [
-        "OLAK5uy_nBs43J0ErS93iGdMMMzXoSynKIlOyyNnA"
-      ],
-      "cover_youtube": [
-        "https://i.ytimg.com/vi/wzQ15iQg4FQ/maxresdefault.jpg"
-      ]
+      "versions": {
+        "配信": {
+          "youtube_playlist_id": "OLAK5uy_nBs43J0ErS93iGdMMMzXoSynKIlOyyNnA",
+          "cover_youtube": "https://i.ytimg.com/vi/wzQ15iQg4FQ/maxresdefault.jpg"
+        }
+      }
     }
   ]
 }

@@ -61,7 +61,7 @@ for song in data:
         song["choreographer"] = list_deduplication(song["choreographer"])
 
     if "version" in song:
-        songs[included_in]["version"] = song["version"]
+        songs[included_in]["versions"] = song["version"]
         del song["version"]
 
     processed_comments = []
@@ -180,7 +180,7 @@ for i in range(1, 5):
     result["NA"][i - 1]["title"] = discography["NA"][i - 1]
 for i in range(1, 2):
     result["NUA"].append(songs[f"u{str(i).zfill(3)}"])
-    result["NUA"][i - 1]["title"] = discography["NBA"][i - 1]
+    result["NUA"][i - 1]["title"] = discography["NUA"][i - 1]
 for i in range(1, 2):
     result["NBA"].append(songs[f"b{str(i).zfill(3)}"])
     result["NBA"][i - 1]["title"] = discography["NBA"][i - 1]
@@ -190,18 +190,18 @@ for i in range(1, 4):
 
 for release_type in result:
     for release in result[release_type]:
-        if "version" in release:
+        if "versions" in release:
             dict = {}
-            for version in release["version"]:
+            for version in release["versions"]:
                 dict[version] = {}
-            release["version"] = dict
+            release["versions"] = dict
 
 
 for release_type in result:
-    for S in result[release_type]:
-        S["youtube_playlist_id"] = []
-        S["cover_youtube"] = []
-        for song in S["tracks"]:
+    for release in result[release_type]:
+        release["youtube_playlist_id"] = []
+        release["cover_youtube"] = []
+        for song in release["tracks"]:
             for youtube_playlist in youtube_data:
                 for playlist_id in youtube_playlist:
                     playlist_data = youtube_playlist[playlist_id]
@@ -209,11 +209,46 @@ for release_type in result:
                         for video_id in playlist_data:
                             if song["name"] == playlist_data[video_id]:
                                 song["youtube_id"] = video_id
-                                if playlist_id not in S["youtube_playlist_id"]:
-                                    S["youtube_playlist_id"].append(playlist_id)
-                                if playlist_data["img"] not in S["cover_youtube"]:
-                                    S["cover_youtube"].append(playlist_data["img"])
+                                if playlist_id not in release["youtube_playlist_id"]:
+                                    release["youtube_playlist_id"].append(playlist_id)
+                                if playlist_data["img"] not in release["cover_youtube"]:
+                                    release["cover_youtube"].append(playlist_data["img"])
 
+for release_type in result:
+    for release in result[release_type]:
+        if "versions" not in release:
+            release["versions"] = {}
+        print(release["title"], len(release["youtube_playlist_id"]))
+        if len(release["youtube_playlist_id"]) > 1:
+            i = 0
+            for version in release["versions"]:
+                if version == "アニメ盤":
+                    continue
+
+                print(version, i)
+                release["versions"][version]["youtube_playlist_id"] = release[
+                    "youtube_playlist_id"
+                ][i]
+                release["versions"][version]["cover_youtube"] = release["cover_youtube"][
+                    i
+                ]
+                i += 1
+            del release["youtube_playlist_id"]
+            del release["cover_youtube"]
+        else:
+            if release["title"] == "Monopoly":
+                continue
+            release["versions"]["配信"] = {}
+            release["versions"]["配信"]["youtube_playlist_id"] = release[
+                "youtube_playlist_id"
+            ][0]
+            release["versions"]["配信"]["cover_youtube"] = release["cover_youtube"][0]
+            del release["youtube_playlist_id"]
+            del release["cover_youtube"]
+
+
+# for release_type in result:
+#     for release in result[release_type]:
 
 # Write back the JSON data with increased indentation
 with open("discography.json", mode="w", encoding="utf-8") as src:
