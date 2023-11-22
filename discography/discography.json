@@ -3,12 +3,12 @@
     {
       "title": "ぐるぐるカーテン",
       "date": "2012年02月22日",
-      "version": [
-        "Type-A",
-        "Type-B",
-        "Type-C",
-        "通常版"
-      ],
+      "version": {
+        "Type-A": {},
+        "Type-B": {},
+        "Type-C": {},
+        "通常盤": {}
+      },
       "tracks": [
         {
           "url": "https://n46db.com/song.php?songcode=s001a",
@@ -341,12 +341,12 @@
     {
       "title": "おいでシャンプー",
       "date": "2012年05月02日",
-      "version": [
-        "Type-A",
-        "Type-B",
-        "Type-C",
-        "通常版"
-      ],
+      "version": {
+        "Type-A": {},
+        "Type-B": {},
+        "Type-C": {},
+        "通常盤": {}
+      },
       "tracks": [
         {
           "url": "https://n46db.com/song.php?songcode=s002a",
@@ -622,12 +622,12 @@
     {
       "title": "走れ！Bicycle",
       "date": "2012年08月22日",
-      "version": [
-        "Type-A",
-        "Type-B",
-        "Type-C",
-        "通常版"
-      ],
+      "version": {
+        "Type-A": {},
+        "Type-B": {},
+        "Type-C": {},
+        "通常盤": {}
+      },
       "tracks": [
         {
           "url": "https://n46db.com/song.php?songcode=s003a",
@@ -927,13 +927,13 @@
     {
       "title": "制服のマネキン",
       "date": "2012年12月19日",
-      "version": [
-        "Type-A",
-        "Type-B",
-        "Type-C",
-        "アニメ盤",
-        "通常版"
-      ],
+      "version": {
+        "Type-A": {},
+        "Type-B": {},
+        "Type-C": {},
+        "アニメ盤": {},
+        "通常盤": {}
+      },
       "tracks": [
         {
           "url": "https://n46db.com/song.php?songcode=s004a",
@@ -1201,12 +1201,12 @@
     {
       "title": "君の名は希望",
       "date": "2013年03月13日",
-      "version": [
-        "Type-A",
-        "Type-B",
-        "Type-C",
-        "通常版"
-      ],
+      "version": {
+        "Type-A": {},
+        "Type-B": {},
+        "Type-C": {},
+        "通常盤": {}
+      },
       "tracks": [
         {
           "url": "https://n46db.com/song.php?songcode=s005a",
@@ -1486,12 +1486,12 @@
     {
       "title": "ガールズルール",
       "date": "2013年07月03日",
-      "version": [
-        "Type-A",
-        "Type-B",
-        "Type-C",
-        "通常版"
-      ],
+      "version": {
+        "Type-A": {},
+        "Type-B": {},
+        "Type-C": {},
+        "通常盤": {}
+      },
       "tracks": [
         {
           "url": "https://n46db.com/song.php?songcode=s006a",
@@ -1784,13 +1784,13 @@
     {
       "title": "バレッタ",
       "date": "2013年11月27日",
-      "version": [
-        "Type-A",
-        "Type-B",
-        "Type-C",
-        "アニメ盤",
-        "通常版"
-      ],
+      "version": {
+        "Type-A": {},
+        "Type-B": {},
+        "Type-C": {},
+        "アニメ盤": {},
+        "通常盤": {}
+      },
       "tracks": [
         {
           "url": "https://n46db.com/song.php?songcode=s007a",
@@ -2075,12 +2075,12 @@
     {
       "title": "気づいたら片想い",
       "date": "2014年04月02日",
-      "version": [
-        "Type-A",
-        "Type-B",
-        "Type-C",
-        "通常版"
-      ],
+      "version": {
+        "Type-A": {},
+        "Type-B": {},
+        "Type-C": {},
+        "通常盤": {}
+      },
       "tracks": [
         {
           "url": "https://n46db.com/song.php?songcode=s008a",
@@ -2355,12 +2355,12 @@
     {
       "title": "夏のFree&Easy",
       "date": "2014年07月09日",
-      "version": [
-        "Type-A",
-        "Type-B",
-        "Type-C",
-        "通常版"
-      ],
+      "version": {
+        "Type-A": {},
+        "Type-B": {},
+        "Type-C": {},
+        "通常盤": {}
+      },
       "tracks": [
         {
           "url": "https://n46db.com/song.php?songcode=s009a",
@@ -2630,12 +2630,12 @@
     {
       "title": "何度目の青空か？",
       "date": "2014年10月08日",
-      "version": [
-        "Type-A",
-        "Type-B",
-        "Type-C",
-        "通常版"
-      ],
+      "version": {
+        "Type-A": {},
+        "Type-B": {},
+        "Type-C": {},
+        "通常盤": {}
+      },
       "tracks": [
         {
           "url": "https://n46db.com/song.php?songcode=s010a",
@@ -2911,12 +2911,12 @@
     {
       "title": "命は美しい",
       "date": "2015年03月18日",
-      "version": [
-        "Type-A",
-        "Type-B",
-        "Type-C",
-        "通常版"
-      ],
+      "version": {
+        "Type-A": {},
+        "Type-B": {},
+        "Type-C": {},
+        "通常盤": {}
+      },
       "tracks": [
         {
           "url": "https://n46db.com/song.php?songcode=s011a",
@@ -3165,13 +3165,13 @@
     {
       "title": "太陽ノック",
       "date": "2015年07月22日",
-      "version": [
-        "Type-A",
-        "Type-B",
-        "Type-C",
-        "セブン-イレブン限定盤",
-        "通常版"
-      ],
+      "version": {
+        "Type-A": {},
+        "Type-B": {},
+        "Type-C": {},
+        "セブン-イレブン限定盤": {},
+        "通常盤": {}
+      },
       "tracks": [
         {
           "url": "https://n46db.com/song.php?songcode=s012a",
@@ -3455,13 +3455,13 @@
     {
       "title": "今、話したい誰かがいる",
       "date": "2015年10月28日",
-      "version": [
-        "Type-A",
-        "Type-B",
-        "Type-C",
-        "ここさけ盤",
-        "通常版"
-      ],
+      "version": {
+        "Type-A": {},
+        "Type-B": {},
+        "Type-C": {},
+        "ここさけ盤": {},
+        "通常盤": {}
+      },
       "tracks": [
         {
           "url": "https://n46db.com/song.php?songcode=s013a",
@@ -3756,13 +3756,13 @@
     {
       "title": "ハルジオンが咲く頃",
       "date": "2016年03月23日",
-      "version": [
-        "Type-A",
-        "Type-B",
-        "Type-C",
-        "Type-D",
-        "通常版"
-      ],
+      "version": {
+        "Type-A": {},
+        "Type-B": {},
+        "Type-C": {},
+        "Type-D": {},
+        "通常盤": {}
+      },
       "tracks": [
         {
           "url": "https://n46db.com/song.php?songcode=s014a",
@@ -4036,13 +4036,13 @@
     {
       "title": "裸足でSummer",
       "date": "2016年07月27日",
-      "version": [
-        "Type-A",
-        "Type-B",
-        "Type-C",
-        "Type-D",
-        "通常版"
-      ],
+      "version": {
+        "Type-A": {},
+        "Type-B": {},
+        "Type-C": {},
+        "Type-D": {},
+        "通常盤": {}
+      },
       "tracks": [
         {
           "url": "https://n46db.com/song.php?songcode=s015a",
@@ -4313,13 +4313,13 @@
     {
       "title": "サヨナラの意味",
       "date": "2016年11月09日",
-      "version": [
-        "Type-A",
-        "Type-B",
-        "Type-C",
-        "Type-D",
-        "通常版"
-      ],
+      "version": {
+        "Type-A": {},
+        "Type-B": {},
+        "Type-C": {},
+        "Type-D": {},
+        "通常盤": {}
+      },
       "tracks": [
         {
           "url": "https://n46db.com/song.php?songcode=s016a",
@@ -4604,13 +4604,13 @@
     {
       "title": "インフルエンサー",
       "date": "2017年03月22日",
-      "version": [
-        "Type-A",
-        "Type-B",
-        "Type-C",
-        "Type-D",
-        "通常版"
-      ],
+      "version": {
+        "Type-A": {},
+        "Type-B": {},
+        "Type-C": {},
+        "Type-D": {},
+        "通常盤": {}
+      },
       "tracks": [
         {
           "url": "https://n46db.com/song.php?songcode=s017a",
@@ -4901,13 +4901,13 @@
     {
       "title": "逃げ水",
       "date": "2017年08月09日",
-      "version": [
-        "Type-A",
-        "Type-B",
-        "Type-C",
-        "Type-D",
-        "通常版"
-      ],
+      "version": {
+        "Type-A": {},
+        "Type-B": {},
+        "Type-C": {},
+        "Type-D": {},
+        "通常盤": {}
+      },
       "tracks": [
         {
           "url": "https://n46db.com/song.php?songcode=s018a",
@@ -5265,13 +5265,13 @@
     {
       "title": "いつかできるから今日できる",
       "date": "2017年10月11日",
-      "version": [
-        "Type-A",
-        "Type-B",
-        "Type-C",
-        "Type-D",
-        "通常版"
-      ],
+      "version": {
+        "Type-A": {},
+        "Type-B": {},
+        "Type-C": {},
+        "Type-D": {},
+        "通常盤": {}
+      },
       "tracks": [
         {
           "url": "https://n46db.com/song.php?songcode=s019a",
@@ -5571,13 +5571,13 @@
     {
       "title": "シンクロニシティ",
       "date": "2018年04月25日",
-      "version": [
-        "Type-A",
-        "Type-B",
-        "Type-C",
-        "Type-D",
-        "通常版"
-      ],
+      "version": {
+        "Type-A": {},
+        "Type-B": {},
+        "Type-C": {},
+        "Type-D": {},
+        "通常盤": {}
+      },
       "tracks": [
         {
           "url": "https://n46db.com/song.php?songcode=s020a",
@@ -5906,13 +5906,13 @@
     {
       "title": "ジコチューで行こう!",
       "date": "2018年08月08日",
-      "version": [
-        "Type-A",
-        "Type-B",
-        "Type-C",
-        "Type-D",
-        "通常版"
-      ],
+      "version": {
+        "Type-A": {},
+        "Type-B": {},
+        "Type-C": {},
+        "Type-D": {},
+        "通常盤": {}
+      },
       "tracks": [
         {
           "url": "https://n46db.com/song.php?songcode=s021a",
@@ -6222,13 +6222,13 @@
     {
       "title": "帰り道は遠回りしたくなる",
       "date": "2018年11月14日",
-      "version": [
-        "Type-A",
-        "Type-B",
-        "Type-C",
-        "Type-D",
-        "通常版"
-      ],
+      "version": {
+        "Type-A": {},
+        "Type-B": {},
+        "Type-C": {},
+        "Type-D": {},
+        "通常盤": {}
+      },
       "tracks": [
         {
           "url": "https://n46db.com/song.php?songcode=s022a",
@@ -6508,13 +6508,13 @@
     {
       "title": "Sing Out!",
       "date": "2019年05月29日",
-      "version": [
-        "Type-A",
-        "Type-B",
-        "Type-C",
-        "Type-D",
-        "通常版"
-      ],
+      "version": {
+        "Type-A": {},
+        "Type-B": {},
+        "Type-C": {},
+        "Type-D": {},
+        "通常盤": {}
+      },
       "tracks": [
         {
           "url": "https://n46db.com/song.php?songcode=s023a",
@@ -6786,13 +6786,13 @@
     {
       "title": "夜明けまで強がらなくてもいい",
       "date": "2019年09月04日",
-      "version": [
-        "Type-A",
-        "Type-B",
-        "Type-C",
-        "Type-D",
-        "通常版"
-      ],
+      "version": {
+        "Type-A": {},
+        "Type-B": {},
+        "Type-C": {},
+        "Type-D": {},
+        "通常盤": {}
+      },
       "tracks": [
         {
           "url": "https://n46db.com/song.php?songcode=s024a",
@@ -7097,13 +7097,13 @@
     {
       "title": "しあわせの保護色",
       "date": "2020年03月25日",
-      "version": [
-        "Type-A",
-        "Type-B",
-        "Type-C",
-        "Type-D",
-        "通常版"
-      ],
+      "version": {
+        "Type-A": {},
+        "Type-B": {},
+        "Type-C": {},
+        "Type-D": {},
+        "通常盤": {}
+      },
       "tracks": [
         {
           "url": "https://n46db.com/song.php?songcode=s025a",
@@ -7386,13 +7386,13 @@
     {
       "title": "僕は僕を好きになる",
       "date": "2021年01月27日",
-      "version": [
-        "Type-A",
-        "Type-B",
-        "Type-C",
-        "Type-D",
-        "通常版"
-      ],
+      "version": {
+        "Type-A": {},
+        "Type-B": {},
+        "Type-C": {},
+        "Type-D": {},
+        "通常盤": {}
+      },
       "tracks": [
         {
           "url": "https://n46db.com/song.php?songcode=s026a",
@@ -7718,13 +7718,13 @@
     {
       "title": "ごめんねFingers crossed",
       "date": "2021年06月09日",
-      "version": [
-        "Type-A",
-        "Type-B",
-        "Type-C",
-        "Type-D",
-        "通常版"
-      ],
+      "version": {
+        "Type-A": {},
+        "Type-B": {},
+        "Type-C": {},
+        "Type-D": {},
+        "通常盤": {}
+      },
       "tracks": [
         {
           "url": "https://n46db.com/song.php?songcode=s027a",
@@ -8056,13 +8056,13 @@
     {
       "title": "君に叱られた",
       "date": "2021年09月22日",
-      "version": [
-        "Type-A",
-        "Type-B",
-        "Type-C",
-        "Type-D",
-        "通常版"
-      ],
+      "version": {
+        "Type-A": {},
+        "Type-B": {},
+        "Type-C": {},
+        "Type-D": {},
+        "通常盤": {}
+      },
       "tracks": [
         {
           "url": "https://n46db.com/song.php?songcode=s028a",
@@ -8375,13 +8375,13 @@
     {
       "title": "Actually…",
       "date": "2022年03月23日",
-      "version": [
-        "Type-A",
-        "Type-B",
-        "Type-C",
-        "Type-D",
-        "通常版"
-      ],
+      "version": {
+        "Type-A": {},
+        "Type-B": {},
+        "Type-C": {},
+        "Type-D": {},
+        "通常盤": {}
+      },
       "tracks": [
         {
           "url": "https://n46db.com/song.php?songcode=s029a",
@@ -8695,13 +8695,13 @@
     {
       "title": "好きというのはロックだぜ！",
       "date": "2022年08月31日",
-      "version": [
-        "Type-A",
-        "Type-B",
-        "Type-C",
-        "Type-D",
-        "通常版"
-      ],
+      "version": {
+        "Type-A": {},
+        "Type-B": {},
+        "Type-C": {},
+        "Type-D": {},
+        "通常盤": {}
+      },
       "tracks": [
         {
           "url": "https://n46db.com/song.php?songcode=s030a",
@@ -9025,13 +9025,13 @@
     {
       "title": "ここにはないもの",
       "date": "2022年12月07日",
-      "version": [
-        "Type-A",
-        "Type-B",
-        "Type-C",
-        "Type-D",
-        "通常版"
-      ],
+      "version": {
+        "Type-A": {},
+        "Type-B": {},
+        "Type-C": {},
+        "Type-D": {},
+        "通常盤": {}
+      },
       "tracks": [
         {
           "url": "https://n46db.com/song.php?songcode=s031a",
@@ -9321,13 +9321,13 @@
     {
       "title": "人は夢を二度見る",
       "date": "2023年03月29日",
-      "version": [
-        "Type-A",
-        "Type-B",
-        "Type-C",
-        "Type-D",
-        "通常版"
-      ],
+      "version": {
+        "Type-A": {},
+        "Type-B": {},
+        "Type-C": {},
+        "Type-D": {},
+        "通常盤": {}
+      },
       "tracks": [
         {
           "url": "https://n46db.com/song.php?songcode=s032a",
@@ -9658,13 +9658,13 @@
     {
       "title": "おひとりさま天国",
       "date": "2023年08月23日",
-      "version": [
-        "Type-A",
-        "Type-B",
-        "Type-C",
-        "Type-D",
-        "通常版"
-      ],
+      "version": {
+        "Type-A": {},
+        "Type-B": {},
+        "Type-C": {},
+        "Type-D": {},
+        "通常盤": {}
+      },
       "tracks": [
         {
           "url": "https://n46db.com/song.php?songcode=s033a",
@@ -9973,13 +9973,13 @@
     {
       "title": "Monopoly",
       "date": "2023年12月06日 （予定）",
-      "version": [
-        "Type-A",
-        "Type-B",
-        "Type-C",
-        "Type-D",
-        "通常版"
-      ],
+      "version": {
+        "Type-A": {},
+        "Type-B": {},
+        "Type-C": {},
+        "Type-D": {},
+        "通常盤": {}
+      },
       "tracks": [
         {
           "url": "https://n46db.com/song.php?songcode=s034a",

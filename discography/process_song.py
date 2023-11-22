@@ -189,6 +189,15 @@ for i in range(1, 4):
     result["NHS"][i - 1]["title"] = discography["NHS"][i - 1]
 
 for release_type in result:
+    for release in result[release_type]:
+        if "version" in release:
+            dict = {}
+            for version in release["version"]:
+                dict[version] = {}
+            release["version"] = dict
+
+
+for release_type in result:
     for S in result[release_type]:
         S["youtube_playlist_id"] = []
         S["cover_youtube"] = []

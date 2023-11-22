@@ -81,7 +81,7 @@ def get_song(url: str) -> dict:
                     result["date"] = text.replace("発売日：", "").strip()
 
         # for table in table_list:
-        elif "通常版" in table.get_text():
+        elif "通常盤" in table.get_text():
             result["version"] = []
             td_list = table.find_all("td")
             for td in td_list:
