@@ -188,38 +188,22 @@ for i in range(1, 4):
     result["NHS"].append(songs[f"z{str(i).zfill(3)}"])
     result["NHS"][i - 1]["title"] = discography["NHS"][i - 1]
 
-for S in result["NS"]:
-    S["youtube_playlist_id"] = []
-    S["cover_youtube"] = []
-    for song in S["tracks"]:
-        for youtube_playlist in youtube_data:
-            for playlist_id in youtube_playlist:
-                playlist_data = youtube_playlist[playlist_id]
-                if "youtube_id" not in song:
-                    for video_id in playlist_data:
-                        if song["name"] == playlist_data[video_id]:
-                            song["youtube_id"] = video_id
-                            if playlist_id not in S["youtube_playlist_id"]:
-                                S["youtube_playlist_id"].append(playlist_id)
-                            if playlist_data["img"] not in S["cover_youtube"]:
-                                S["cover_youtube"].append(playlist_data["img"])
-
-
-for S in result["NA"]:
-    S["youtube_playlist_id"] = []
-    S["cover_youtube"] = []
-    for song in S["tracks"]:
-        for youtube_playlist in youtube_data:
-            for playlist_id in youtube_playlist:
-                playlist_data = youtube_playlist[playlist_id]
-                if "youtube_id" not in song:
-                    for video_id in playlist_data:
-                        if song["name"] == playlist_data[video_id]:
-                            song["youtube_id"] = video_id
-                            if playlist_id not in S["youtube_playlist_id"]:
-                                S["youtube_playlist_id"].append(playlist_id)
-                            if playlist_data["img"] not in S["cover_youtube"]:
-                                S["cover_youtube"].append(playlist_data["img"])
+for release_type in result:
+    for S in result[release_type]:
+        S["youtube_playlist_id"] = []
+        S["cover_youtube"] = []
+        for song in S["tracks"]:
+            for youtube_playlist in youtube_data:
+                for playlist_id in youtube_playlist:
+                    playlist_data = youtube_playlist[playlist_id]
+                    if "youtube_id" not in song:
+                        for video_id in playlist_data:
+                            if song["name"] == playlist_data[video_id]:
+                                song["youtube_id"] = video_id
+                                if playlist_id not in S["youtube_playlist_id"]:
+                                    S["youtube_playlist_id"].append(playlist_id)
+                                if playlist_data["img"] not in S["cover_youtube"]:
+                                    S["cover_youtube"].append(playlist_data["img"])
 
 
 # Write back the JSON data with increased indentation

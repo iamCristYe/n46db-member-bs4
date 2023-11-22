@@ -125,6 +125,7 @@ playlists = [
     "https://www.youtube.com/playlist?list=OLAK5uy_n7aAEIAeQn_bnyeb7e7LyCpbPX_r9W1EA",
     "https://www.youtube.com/playlist?list=OLAK5uy_ke8HBtvHn4xb-_uF10uuM9AK5m6-t_5M8",
     "https://www.youtube.com/playlist?list=OLAK5uy_nzKG2kvE8-GGJn8DjIrN1SPDmT-hyyx-k",
+    "https://www.youtube.com/playlist?list=OLAK5uy_nBs43J0ErS93iGdMMMzXoSynKIlOyyNnA",
 ]
 
 

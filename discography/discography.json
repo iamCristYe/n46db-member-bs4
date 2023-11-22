@@ -11531,7 +11531,8 @@
           ],
           "MV": null,
           "formation": [],
-          "type": "ソロ曲"
+          "type": "ソロ曲",
+          "youtube_id": "dx2aofYWe8A"
         },
         {
           "url": "https://n46db.com/song.php?songcode=u001b",
@@ -11575,7 +11576,8 @@
               "樋口日奈"
             ]
           ],
-          "type": "アンダー曲"
+          "type": "アンダー曲",
+          "youtube_id": "u1qKVCyC_CY"
         },
         {
           "url": "https://n46db.com/song.php?songcode=u001c",
@@ -11615,7 +11617,8 @@
               "渡辺みり愛"
             ]
           ],
-          "type": "アンダー曲"
+          "type": "アンダー曲",
+          "youtube_id": "U6cNacqlEJA"
         },
         {
           "url": "https://n46db.com/song.php?songcode=u001d",
@@ -11655,8 +11658,15 @@
               "渡辺みり愛"
             ]
           ],
-          "type": "アンダー曲"
+          "type": "アンダー曲",
+          "youtube_id": "ECm-4Zs4Rk4"
         }
+      ],
+      "youtube_playlist_id": [
+        "OLAK5uy_l-Sh2dt5InHGYrZGuwOhUgMcHibPh7C_w"
+      ],
+      "cover_youtube": [
+        "https://i.ytimg.com/vi/YQgdeHOBShM/maxresdefault.jpg"
       ]
     }
   ],
@@ -11724,7 +11734,8 @@
               "星野みなみ"
             ]
           ],
-          "type": "選抜"
+          "type": "選抜",
+          "youtube_id": "MnCBEeKxL1E"
         },
         {
           "url": "https://n46db.com/song.php?songcode=b001b",
@@ -11752,7 +11763,8 @@
             "東市篤憲"
           ],
           "formation": [],
-          "type": "ソロ曲"
+          "type": "ソロ曲",
+          "youtube_id": "0-_fAbp5tFQ"
         },
         {
           "url": "https://n46db.com/song.php?songcode=b001c",
@@ -11779,7 +11791,8 @@
             "伊藤衆人"
           ],
           "formation": [],
-          "type": "ソロ曲"
+          "type": "ソロ曲",
+          "youtube_id": "chjurUT5I2g"
         },
         {
           "url": "https://n46db.com/song.php?songcode=b001d",
@@ -11831,7 +11844,8 @@
               "弓木奈於"
             ]
           ],
-          "type": "アンダー曲"
+          "type": "アンダー曲",
+          "youtube_id": "shtukBv1o78"
         },
         {
           "url": "https://n46db.com/song.php?songcode=b001e",
@@ -11865,8 +11879,17 @@
               "渡辺みり愛"
             ]
           ],
-          "type": "2期生曲"
+          "type": "2期生曲",
+          "youtube_id": "RjGaYoziIYY"
         }
+      ],
+      "youtube_playlist_id": [
+        "OLAK5uy_k6Y-b4MKN7Uf8hE8qtGyRM8imyTJLDXzI",
+        "OLAK5uy_keNIwGrWqF2t7HzeADBEaU-Vb3f5asdc8"
+      ],
+      "cover_youtube": [
+        "https://i.ytimg.com/vi/MnCBEeKxL1E/maxresdefault.jpg",
+        "https://i.ytimg.com/vi/M6QvS0uyJpQ/maxresdefault.jpg"
       ]
     }
   ],
@@ -11959,8 +11982,15 @@
               "若月佑美"
             ]
           ],
-          "type": "全員＋OG"
+          "type": "全員＋OG",
+          "youtube_id": "Roq5L_qHzuw"
         }
+      ],
+      "youtube_playlist_id": [
+        "OLAK5uy_md8h1LmuzFl4z3p1GkUIuK_cRPzR3sVV0"
+      ],
+      "cover_youtube": [
+        "https://i.ytimg.com/vi/Roq5L_qHzuw/maxresdefault.jpg"
       ]
     },
     {
@@ -12022,8 +12052,15 @@
               "賀喜遥香"
             ]
           ],
-          "type": "選抜"
+          "type": "選抜",
+          "youtube_id": "6ltTNAfTIlU"
         }
+      ],
+      "youtube_playlist_id": [
+        "OLAK5uy_kR24XZkHRgz1GIfZrzJHHh6VlCgOcJX70"
+      ],
+      "cover_youtube": [
+        "https://i.ytimg.com/vi/6ltTNAfTIlU/maxresdefault.jpg"
       ]
     },
     {
@@ -12057,8 +12094,15 @@
               "松村沙友理"
             ]
           ],
-          "type": "ユニット曲"
+          "type": "ユニット曲",
+          "youtube_id": "wzQ15iQg4FQ"
         }
+      ],
+      "youtube_playlist_id": [
+        "OLAK5uy_nBs43J0ErS93iGdMMMzXoSynKIlOyyNnA"
+      ],
+      "cover_youtube": [
+        "https://i.ytimg.com/vi/wzQ15iQg4FQ/maxresdefault.jpg"
       ]
     }
   ]
