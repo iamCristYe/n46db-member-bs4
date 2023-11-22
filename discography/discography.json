@@ -127,7 +127,8 @@
             ]
           ],
           "type": "アンダー曲",
-          "youtube_id": "9RW5qBILjbg"
+          "youtube_id": "9RW5qBILjbg",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s001c",
@@ -342,7 +343,8 @@
             ]
           ],
           "type": "選抜＋",
-          "youtube_id": "iCp25zVp2pA"
+          "youtube_id": "iCp25zVp2pA",
+          "mv_youtube_id": "Ypx_A6No600"
         }
       ]
     },
@@ -473,7 +475,8 @@
             ]
           ],
           "type": "選抜＋",
-          "youtube_id": "OpNC-lTam4o"
+          "youtube_id": "OpNC-lTam4o",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s002c",
@@ -631,7 +634,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "j88GJp4bCYE"
+          "youtube_id": "j88GJp4bCYE",
+          "mv_youtube_id": "Ypx_A6No600"
         }
       ]
     },
@@ -945,7 +949,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "1tyw1wMxpPw"
+          "youtube_id": "1tyw1wMxpPw",
+          "mv_youtube_id": "Ypx_A6No600"
         }
       ]
     },
@@ -1229,7 +1234,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "AJm9IV_EgcE"
+          "youtube_id": "AJm9IV_EgcE",
+          "mv_youtube_id": "Ypx_A6No600"
         }
       ]
     },
@@ -1402,7 +1408,8 @@
             ]
           ],
           "type": "選抜",
-          "youtube_id": "sPpR0S7kDaE"
+          "youtube_id": "sPpR0S7kDaE",
+          "mv_youtube_id": "5W_F8_s-d9s"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s005d",
@@ -1677,7 +1684,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "3dO7rX6Qy9Y"
+          "youtube_id": "3dO7rX6Qy9Y",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s006d",
@@ -1828,7 +1836,8 @@
             ]
           ],
           "type": "全員",
-          "youtube_id": "F4Vlaia2wnk"
+          "youtube_id": "F4Vlaia2wnk",
+          "mv_youtube_id": "Ypx_A6No600"
         }
       ]
     },
@@ -2000,7 +2009,7 @@
         },
         {
           "url": "https://n46db.com/song.php?songcode=s007d",
-          "name": "そんなバカな・・・",
+          "name": "そんなバカな･･･",
           "summary": "7thシングルType-Bカップリング曲（選抜＋）",
           "center": [
             "堀未央奈"
@@ -2048,7 +2057,8 @@
             ]
           ],
           "type": "選抜＋",
-          "youtube_id": "LyWc9yYF-uI"
+          "youtube_id": "LyWc9yYF-uI",
+          "mv_youtube_id": "7TS-2OTHuaM"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s007e",
@@ -2128,7 +2138,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "PCIGe083SY0"
+          "youtube_id": "PCIGe083SY0",
+          "mv_youtube_id": "Ypx_A6No600"
         }
       ]
     },
@@ -2298,7 +2309,8 @@
             ]
           ],
           "type": "選抜＋",
-          "youtube_id": "y-IEV2IglPA"
+          "youtube_id": "y-IEV2IglPA",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s008d",
@@ -2416,12 +2428,13 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "0CcDg7saIZY"
+          "youtube_id": "0CcDg7saIZY",
+          "mv_youtube_id": "Ypx_A6No600"
         }
       ]
     },
     {
-      "title": "夏のFree&Easy",
+      "title": "夏のFree＆Easy",
       "date": "20140709",
       "versions": {
         "Type-A": {
@@ -2448,7 +2461,7 @@
       "tracks": [
         {
           "url": "https://n46db.com/song.php?songcode=s009a",
-          "name": "夏のFree&Easy",
+          "name": "夏のFree＆Easy",
           "summary": "9thシングル表題曲（選抜）",
           "center": [
             "西野七瀬"
@@ -2497,7 +2510,8 @@
               "松村沙友理"
             ]
           ],
-          "type": "選抜"
+          "type": "選抜",
+          "mv_youtube_id": "-USHcV55s8A"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s009b",
@@ -2539,7 +2553,8 @@
             ]
           ],
           "type": "選抜",
-          "youtube_id": "RXWDC3UG0zQ"
+          "youtube_id": "RXWDC3UG0zQ",
+          "mv_youtube_id": "lz7VEdDKthk"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s009c",
@@ -2698,7 +2713,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "Y54aWRPdTjk"
+          "youtube_id": "Y54aWRPdTjk",
+          "mv_youtube_id": "u4Ea6BJAzME"
         }
       ]
     },
@@ -2818,7 +2834,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "bLnla8dGwUg"
+          "youtube_id": "bLnla8dGwUg",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s010c",
@@ -2989,7 +3006,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "-uqkOcEaecA"
+          "youtube_id": "-uqkOcEaecA",
+          "mv_youtube_id": "dvF5g1rvt-c"
         }
       ]
     },
@@ -3147,7 +3165,7 @@
         },
         {
           "url": "https://n46db.com/song.php?songcode=s011d",
-          "name": "ごめんね ずっと…",
+          "name": "ごめんね ずっと･･･",
           "summary": "11thシングルType-Bカップリング曲（ソロ曲）",
           "center": [
             "西野七瀬"
@@ -3169,7 +3187,8 @@
             "山戸結希"
           ],
           "formation": [],
-          "type": "ソロ曲"
+          "type": "ソロ曲",
+          "mv_youtube_id": "atPMTj3c1XI"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s011e",
@@ -3252,7 +3271,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "6pPJtkGl8lA"
+          "youtube_id": "6pPJtkGl8lA",
+          "mv_youtube_id": "Ypx_A6No600"
         }
       ]
     },
@@ -3359,7 +3379,8 @@
           "MV": null,
           "formation": [],
           "type": "ソロ曲",
-          "youtube_id": "KOOzZyGLGIY"
+          "youtube_id": "KOOzZyGLGIY",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s012c",
@@ -3865,7 +3886,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "JY2AyCsF74E"
+          "youtube_id": "JY2AyCsF74E",
+          "mv_youtube_id": "Ypx_A6No600"
         }
       ]
     },
@@ -4158,7 +4180,8 @@
               "星野みなみ"
             ]
           ],
-          "type": "ユニット曲"
+          "type": "ユニット曲",
+          "mv_youtube_id": "Ypx_A6No600"
         }
       ]
     },
@@ -4281,7 +4304,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "xO_C3c1GoI0"
+          "youtube_id": "xO_C3c1GoI0",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s015c",
@@ -4448,7 +4472,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "rcfqSgY67F0"
+          "youtube_id": "rcfqSgY67F0",
+          "mv_youtube_id": "kMHX7gJn74k"
         }
       ]
     },
@@ -4578,7 +4603,8 @@
             ]
           ],
           "type": "選抜",
-          "youtube_id": "H7R7_bQe1m0"
+          "youtube_id": "H7R7_bQe1m0",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s016c",
@@ -4663,7 +4689,7 @@
         },
         {
           "url": "https://n46db.com/song.php?songcode=s016e",
-          "name": "2度目のキスから",
+          "name": "２度目のキスから",
           "summary": "16thシングルType-Cカップリング曲（ユニット曲）",
           "center": [
             "秋元真夏"
@@ -4693,7 +4719,8 @@
               "渡辺みり愛"
             ]
           ],
-          "type": "ユニット曲"
+          "type": "ユニット曲",
+          "mv_youtube_id": "Yo2b_y1NIYg"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s016f",
@@ -4871,7 +4898,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "nzHAJOzNGzo"
+          "youtube_id": "nzHAJOzNGzo",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s017c",
@@ -5062,7 +5090,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "Sby3UpYCJiw"
+          "youtube_id": "Sby3UpYCJiw",
+          "mv_youtube_id": "Ypx_A6No600"
         }
       ]
     },
@@ -5243,7 +5272,8 @@
               "若月佑美"
             ]
           ],
-          "type": "ユニット曲"
+          "type": "ユニット曲",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s018d",
@@ -5575,7 +5605,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "s2DBs5S9y1g"
+          "youtube_id": "s2DBs5S9y1g",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s019c",
@@ -5758,7 +5789,8 @@
               "久保史緒里"
             ]
           ],
-          "type": "ユニット曲"
+          "type": "ユニット曲",
+          "mv_youtube_id": "-o8h-P9m7iM"
         }
       ]
     },
@@ -5925,7 +5957,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "UJUClqpTjt8"
+          "youtube_id": "UJUClqpTjt8",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s020d",
@@ -6106,12 +6139,13 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "pZQck2wyt2A"
+          "youtube_id": "pZQck2wyt2A",
+          "mv_youtube_id": "Ypx_A6No600"
         }
       ]
     },
     {
-      "title": "ジコチューで行こう!",
+      "title": "ジコチューで行こう！",
       "date": "20180808",
       "versions": {
         "Type-A": {
@@ -6137,7 +6171,7 @@
       "tracks": [
         {
           "url": "https://n46db.com/song.php?songcode=s021a",
-          "name": "ジコチューで行こう!",
+          "name": "ジコチューで行こう！",
           "summary": "21stシングル表題曲（選抜）",
           "center": [
             "齋藤飛鳥"
@@ -6192,7 +6226,8 @@
               "山下美月"
             ]
           ],
-          "type": "選抜"
+          "type": "選抜",
+          "mv_youtube_id": "7eoiyP4kaAQ"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s021b",
@@ -6243,7 +6278,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "9bjYSxA8Fl8"
+          "youtube_id": "9bjYSxA8Fl8",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s021c",
@@ -6298,7 +6334,8 @@
             ]
           ],
           "type": "アンダー曲",
-          "youtube_id": "I4gTgE50RwE"
+          "youtube_id": "I4gTgE50RwE",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s021d",
@@ -6334,7 +6371,8 @@
             ]
           ],
           "type": "3期生曲",
-          "youtube_id": "hxRRYI1N2TQ"
+          "youtube_id": "hxRRYI1N2TQ",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s021e",
@@ -6360,7 +6398,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "caZbfE37NcA"
+          "youtube_id": "caZbfE37NcA",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s021f",
@@ -6387,7 +6426,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "y2jBOmH8wdA"
+          "youtube_id": "y2jBOmH8wdA",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s021g",
@@ -6703,7 +6743,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "P5dNBeRsYvg"
+          "youtube_id": "P5dNBeRsYvg",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s022g",
@@ -6729,12 +6770,13 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "hgk212YEav8"
+          "youtube_id": "hgk212YEav8",
+          "mv_youtube_id": "Ypx_A6No600"
         }
       ]
     },
     {
-      "title": "Sing Out!",
+      "title": "Sing Out！",
       "date": "20190529",
       "versions": {
         "Type-A": {
@@ -6760,7 +6802,7 @@
       "tracks": [
         {
           "url": "https://n46db.com/song.php?songcode=s023a",
-          "name": "Sing Out!",
+          "name": "Sing Out！",
           "summary": "23rdシングル表題曲（選抜）",
           "center": [
             "齋藤飛鳥"
@@ -6817,7 +6859,8 @@
             ]
           ],
           "type": "選抜",
-          "youtube_id": "4Pz3h6_TYHk"
+          "youtube_id": "4Pz3h6_TYHk",
+          "mv_youtube_id": "XiYjkSPsQWI"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s023b",
@@ -6919,7 +6962,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "TZygp0CET_o"
+          "youtube_id": "TZygp0CET_o",
+          "mv_youtube_id": "nGZXxzN4-Pc"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s023e",
@@ -6956,7 +7000,7 @@
         },
         {
           "url": "https://n46db.com/song.php?songcode=s023f",
-          "name": "4番目の光",
+          "name": "４番目の光",
           "summary": "23rdシングルType-Dカップリング曲（4期生曲）",
           "center": [
             "遠藤さくら"
@@ -6994,7 +7038,8 @@
               "賀喜遥香"
             ]
           ],
-          "type": "4期生曲"
+          "type": "4期生曲",
+          "mv_youtube_id": "WQTshyuqz-w"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s023g",
@@ -7018,7 +7063,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "FhtYny5cSVY"
+          "youtube_id": "FhtYny5cSVY",
+          "mv_youtube_id": "Ypx_A6No600"
         }
       ]
     },
@@ -7148,7 +7194,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "XUgCT5eUh6U"
+          "youtube_id": "XUgCT5eUh6U",
+          "mv_youtube_id": "ux8YEGKJsMc"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s024c",
@@ -7176,7 +7223,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "w3emQxgms6M"
+          "youtube_id": "w3emQxgms6M",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s024d",
@@ -7222,7 +7270,8 @@
             ]
           ],
           "type": "4期生曲",
-          "youtube_id": "nAL5eR8KR2g"
+          "youtube_id": "nAL5eR8KR2g",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s024e",
@@ -7338,7 +7387,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "PPJhD0s1Qzs"
+          "youtube_id": "PPJhD0s1Qzs",
+          "mv_youtube_id": "Ypx_A6No600"
         }
       ]
     },
@@ -7573,7 +7623,7 @@
         },
         {
           "url": "https://n46db.com/song.php?songcode=s025f",
-          "name": "I see…",
+          "name": "I see...",
           "summary": "25thシングルType-Dカップリング曲（4期生曲）",
           "center": [
             "賀喜遥香"
@@ -7614,7 +7664,8 @@
               "筒井あやめ"
             ]
           ],
-          "type": "4期生曲"
+          "type": "4期生曲",
+          "mv_youtube_id": "nGZXxzN4-Pc"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s025g",
@@ -7774,7 +7825,8 @@
             ]
           ],
           "type": "選抜",
-          "youtube_id": "rO6PuqjKx8U"
+          "youtube_id": "rO6PuqjKx8U",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s026c",
@@ -7909,7 +7961,7 @@
         },
         {
           "url": "https://n46db.com/song.php?songcode=s026f",
-          "name": "Out of the Blue",
+          "name": "Out of the blue",
           "summary": "26thシングルType-Dカップリング曲（4期生曲）",
           "center": [
             "早川聖来"
@@ -7957,7 +8009,8 @@
               "田村真佑"
             ]
           ],
-          "type": "4期生曲"
+          "type": "4期生曲",
+          "mv_youtube_id": "GMElC5PJWIM"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s026g",
@@ -8174,7 +8227,8 @@
             ]
           ],
           "type": "3期生曲",
-          "youtube_id": "TUJ-DuF6qNI"
+          "youtube_id": "TUJ-DuF6qNI",
+          "mv_youtube_id": "28LbqFFJVGk"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s027d",
@@ -8335,7 +8389,8 @@
             ]
           ],
           "type": "4期生曲",
-          "youtube_id": "dIqN5XgIhFQ"
+          "youtube_id": "dIqN5XgIhFQ",
+          "mv_youtube_id": "Ypx_A6No600"
         }
       ]
     },
@@ -8451,7 +8506,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "lyfsgUn1Uak"
+          "youtube_id": "lyfsgUn1Uak",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s028c",
@@ -8667,7 +8723,8 @@
             ]
           ],
           "type": "全員",
-          "youtube_id": "YnugGWrpHvs"
+          "youtube_id": "YnugGWrpHvs",
+          "mv_youtube_id": "Ypx_A6No600"
         }
       ]
     },
@@ -8752,7 +8809,8 @@
               "秋元真夏"
             ]
           ],
-          "type": "選抜"
+          "type": "選抜",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s029b",
@@ -8795,7 +8853,8 @@
             ]
           ],
           "type": "選抜",
-          "youtube_id": "Z99stHDuBnY"
+          "youtube_id": "Z99stHDuBnY",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s029c",
@@ -8833,7 +8892,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "rGIbtv1cmHI"
+          "youtube_id": "rGIbtv1cmHI",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s029d",
@@ -8861,7 +8921,8 @@
           ],
           "formation": [],
           "type": "ソロ曲",
-          "youtube_id": "ox4KnwNu67U"
+          "youtube_id": "ox4KnwNu67U",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s029e",
@@ -8911,7 +8972,8 @@
             ]
           ],
           "type": "アンダー曲",
-          "youtube_id": "p-qb3ZMNDPA"
+          "youtube_id": "p-qb3ZMNDPA",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s029f",
@@ -8996,7 +9058,8 @@
             ]
           ],
           "type": "選抜",
-          "youtube_id": "0OLzeJZMnw4"
+          "youtube_id": "0OLzeJZMnw4",
+          "mv_youtube_id": "Ypx_A6No600"
         }
       ]
     },
@@ -9235,7 +9298,7 @@
         },
         {
           "url": "https://n46db.com/song.php?songcode=s030e",
-          "name": "バンドエイド剝がすような別れ方",
+          "name": "バンドエイド剥がすような別れ方",
           "summary": "30thシングルType-Cカップリング曲（5期生曲）",
           "center": [
             "菅原咲月"
@@ -9281,7 +9344,8 @@
               "川﨑桜"
             ]
           ],
-          "type": "5期生曲"
+          "type": "5期生曲",
+          "mv_youtube_id": "NCw7XnJMXhA"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s030f",
@@ -9308,7 +9372,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "19D6lF3tGdQ"
+          "youtube_id": "19D6lF3tGdQ",
+          "mv_youtube_id": "rCQjTDce2-I"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s030g",
@@ -9338,7 +9403,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "6VGEGb0oZJc"
+          "youtube_id": "6VGEGb0oZJc",
+          "mv_youtube_id": "Ypx_A6No600"
         }
       ]
     },
@@ -9538,7 +9604,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "cWXQAHUaWaw"
+          "youtube_id": "cWXQAHUaWaw",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s031e",
@@ -9603,7 +9670,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "PVZPVDPt8W0"
+          "youtube_id": "PVZPVDPt8W0",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s031g",
@@ -9646,7 +9714,8 @@
             ]
           ],
           "type": "5期生曲",
-          "youtube_id": "5CJVfucuWj4"
+          "youtube_id": "5CJVfucuWj4",
+          "mv_youtube_id": "Ypx_A6No600"
         }
       ]
     },
@@ -9878,7 +9947,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "7mAofckRQbo"
+          "youtube_id": "7mAofckRQbo",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s032e",
@@ -9908,7 +9978,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "3d3UOmTJLuY"
+          "youtube_id": "3d3UOmTJLuY",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s032f",
@@ -9995,7 +10066,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "fL4pPuKxR_A"
+          "youtube_id": "fL4pPuKxR_A",
+          "mv_youtube_id": "Ypx_A6No600"
         }
       ]
     },
@@ -10185,7 +10257,8 @@
             ]
           ],
           "type": "選抜",
-          "youtube_id": "uVfBY2_7BK4"
+          "youtube_id": "uVfBY2_7BK4",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s033d",
@@ -10286,7 +10359,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "Mskvc2Yx0J0"
+          "youtube_id": "Mskvc2Yx0J0",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s033g",
@@ -10322,7 +10396,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "Fxa4CqhIxuI"
+          "youtube_id": "Fxa4CqhIxuI",
+          "mv_youtube_id": "Ypx_A6No600"
         }
       ]
     },
@@ -10385,7 +10460,8 @@
               "久保史緒里"
             ]
           ],
-          "type": "選抜"
+          "type": "選抜",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s034b",
@@ -10400,7 +10476,8 @@
           "comments": [],
           "MV": null,
           "formation": [],
-          "type": "アンダー曲"
+          "type": "アンダー曲",
+          "mv_youtube_id": "8_sadJU4sbI"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s034c",
@@ -10442,7 +10519,8 @@
               "林瑠奈"
             ]
           ],
-          "type": "ユニット曲"
+          "type": "ユニット曲",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s034e",
@@ -10463,7 +10541,8 @@
               "与田祐希"
             ]
           ],
-          "type": "ユニット曲"
+          "type": "ユニット曲",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s034f",
@@ -10484,7 +10563,8 @@
               "山下美月"
             ]
           ],
-          "type": "ユニット曲"
+          "type": "ユニット曲",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=s034g",
@@ -10536,7 +10616,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "ivVNs_q-Cfk"
+          "youtube_id": "ivVNs_q-Cfk",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=a001b",
@@ -10566,7 +10647,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "_WBICejx8xg"
+          "youtube_id": "_WBICejx8xg",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=a001c",
@@ -10610,7 +10692,8 @@
             ]
           ],
           "type": "選抜",
-          "youtube_id": "e9gfZcwymm0"
+          "youtube_id": "e9gfZcwymm0",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=a001d",
@@ -10635,7 +10718,8 @@
           "MV": null,
           "formation": [],
           "type": "ソロ曲",
-          "youtube_id": "evREruAcC-c"
+          "youtube_id": "evREruAcC-c",
+          "mv_youtube_id": "trXbum9cz9g"
         },
         {
           "url": "https://n46db.com/song.php?songcode=a001e",
@@ -10679,7 +10763,8 @@
             ]
           ],
           "type": "派生ユニット曲",
-          "youtube_id": "fjrR-YImpHI"
+          "youtube_id": "fjrR-YImpHI",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=a001f",
@@ -10706,7 +10791,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "KFQzbNv4Xk8"
+          "youtube_id": "KFQzbNv4Xk8",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=a001g",
@@ -10757,7 +10843,8 @@
             ]
           ],
           "type": "アンダー曲",
-          "youtube_id": "lvruyQPoAzU"
+          "youtube_id": "lvruyQPoAzU",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=a001h",
@@ -10784,7 +10871,8 @@
           "MV": null,
           "formation": [],
           "type": "ソロ曲",
-          "youtube_id": "SeC4AHUwcMI"
+          "youtube_id": "SeC4AHUwcMI",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=a001i",
@@ -10805,7 +10893,8 @@
           "MV": null,
           "formation": [],
           "type": "器楽",
-          "youtube_id": "G6XY9c2Apj8"
+          "youtube_id": "G6XY9c2Apj8",
+          "mv_youtube_id": "Ypx_A6No600"
         }
       ],
       "versions": {
@@ -10899,7 +10988,8 @@
             ]
           ],
           "type": "選抜",
-          "youtube_id": "NNFrLgCtBQ4"
+          "youtube_id": "NNFrLgCtBQ4",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=a002c",
@@ -10963,7 +11053,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "8Ba0BXvI4Fo"
+          "youtube_id": "8Ba0BXvI4Fo",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=a002e",
@@ -10988,7 +11079,8 @@
           "MV": null,
           "formation": [],
           "type": "ソロ曲",
-          "youtube_id": "pRWO4zO4g_s"
+          "youtube_id": "pRWO4zO4g_s",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=a002f",
@@ -11015,7 +11107,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "c-6iAneKuGM"
+          "youtube_id": "c-6iAneKuGM",
+          "mv_youtube_id": "-USHcV55s8A"
         },
         {
           "url": "https://n46db.com/song.php?songcode=a002g",
@@ -11040,7 +11133,8 @@
           "MV": null,
           "formation": [],
           "type": "ソロ曲",
-          "youtube_id": "U9GzUREWZZo"
+          "youtube_id": "U9GzUREWZZo",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=a002h",
@@ -11066,7 +11160,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "dxR7BT3aMEo"
+          "youtube_id": "dxR7BT3aMEo",
+          "mv_youtube_id": "UH44XIvU0VY"
         },
         {
           "url": "https://n46db.com/song.php?songcode=a002i",
@@ -11101,7 +11196,8 @@
             ]
           ],
           "type": "2期生曲",
-          "youtube_id": "C3cLWwqN7rw"
+          "youtube_id": "C3cLWwqN7rw",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=a002j",
@@ -11128,7 +11224,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "AtB6kB8COo8"
+          "youtube_id": "AtB6kB8COo8",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=a002k",
@@ -11156,7 +11253,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "qPDgPjMcxrY"
+          "youtube_id": "qPDgPjMcxrY",
+          "mv_youtube_id": "Ypx_A6No600"
         }
       ],
       "versions": {
@@ -11218,7 +11316,8 @@
             ]
           ],
           "type": "選抜",
-          "youtube_id": "HI616EQu_b4"
+          "youtube_id": "HI616EQu_b4",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=a003b",
@@ -11255,7 +11354,8 @@
             ]
           ],
           "type": "アンダー曲",
-          "youtube_id": "H6rM6KY2sCQ"
+          "youtube_id": "H6rM6KY2sCQ",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=a003c",
@@ -11301,7 +11401,8 @@
             ]
           ],
           "type": "3期生曲",
-          "youtube_id": "hiBh_yfPSGI"
+          "youtube_id": "hiBh_yfPSGI",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=a003d",
@@ -11358,7 +11459,8 @@
             ]
           ],
           "type": "全員",
-          "youtube_id": "43XXzowQrSk"
+          "youtube_id": "43XXzowQrSk",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=a003e",
@@ -11385,7 +11487,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "JvBZnMYmCpg"
+          "youtube_id": "JvBZnMYmCpg",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=a003f",
@@ -11412,7 +11515,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "qyYPz-U-YRA"
+          "youtube_id": "qyYPz-U-YRA",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=a003g",
@@ -11439,7 +11543,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "nIZQ3KK3WmE"
+          "youtube_id": "nIZQ3KK3WmE",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=a003h",
@@ -11466,7 +11571,8 @@
           "MV": null,
           "formation": [],
           "type": "ソロ曲",
-          "youtube_id": "00aTQK6JhIY"
+          "youtube_id": "00aTQK6JhIY",
+          "mv_youtube_id": "InNKhBNRetY"
         },
         {
           "url": "https://n46db.com/song.php?songcode=a003i",
@@ -11493,7 +11599,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "rkb26IKUkx0"
+          "youtube_id": "rkb26IKUkx0",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=a003j",
@@ -11520,7 +11627,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "SVqKz3d9L9w"
+          "youtube_id": "SVqKz3d9L9w",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=a003k",
@@ -11546,7 +11654,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "ZCtbEqk_Qzg"
+          "youtube_id": "ZCtbEqk_Qzg",
+          "mv_youtube_id": "mduCFW2Ny-8"
         },
         {
           "url": "https://n46db.com/song.php?songcode=a003l",
@@ -11572,7 +11681,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "HZJuwjUlD5s"
+          "youtube_id": "HZJuwjUlD5s",
+          "mv_youtube_id": "Ypx_A6No600"
         }
       ],
       "versions": {
@@ -11626,7 +11736,8 @@
             ]
           ],
           "type": "選抜",
-          "youtube_id": "mZkeNK0RQ04"
+          "youtube_id": "mZkeNK0RQ04",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=a004b",
@@ -11652,7 +11763,8 @@
           "MV": null,
           "formation": [],
           "type": "ソロ曲",
-          "youtube_id": "ndRDKdYfqnE"
+          "youtube_id": "ndRDKdYfqnE",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=a004c",
@@ -11693,7 +11805,8 @@
             ]
           ],
           "type": "4期生曲",
-          "youtube_id": "detEFitGD60"
+          "youtube_id": "detEFitGD60",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=a004d",
@@ -11722,7 +11835,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "1oWhIoTpZ18"
+          "youtube_id": "1oWhIoTpZ18",
+          "mv_youtube_id": "28LbqFFJVGk"
         },
         {
           "url": "https://n46db.com/song.php?songcode=a004e",
@@ -11749,7 +11863,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "V4PtxA5Ekmo"
+          "youtube_id": "V4PtxA5Ekmo",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=a004f",
@@ -11778,7 +11893,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "FG1VLUNaSN4"
+          "youtube_id": "FG1VLUNaSN4",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=a004g",
@@ -11805,7 +11921,8 @@
             ]
           ],
           "type": "ユニット曲",
-          "youtube_id": "9NREkr2lNrc"
+          "youtube_id": "9NREkr2lNrc",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=a004h",
@@ -11889,7 +12006,8 @@
           "MV": null,
           "formation": [],
           "type": "ソロ曲",
-          "youtube_id": "dx2aofYWe8A"
+          "youtube_id": "dx2aofYWe8A",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=u001b",
@@ -11934,7 +12052,8 @@
             ]
           ],
           "type": "アンダー曲",
-          "youtube_id": "u1qKVCyC_CY"
+          "youtube_id": "u1qKVCyC_CY",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=u001c",
@@ -11975,7 +12094,8 @@
             ]
           ],
           "type": "アンダー曲",
-          "youtube_id": "U6cNacqlEJA"
+          "youtube_id": "U6cNacqlEJA",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=u001d",
@@ -12016,7 +12136,8 @@
             ]
           ],
           "type": "アンダー曲",
-          "youtube_id": "ECm-4Zs4Rk4"
+          "youtube_id": "ECm-4Zs4Rk4",
+          "mv_youtube_id": "Ypx_A6No600"
         }
       ],
       "versions": {
@@ -12092,7 +12213,8 @@
             ]
           ],
           "type": "選抜",
-          "youtube_id": "MnCBEeKxL1E"
+          "youtube_id": "MnCBEeKxL1E",
+          "mv_youtube_id": "Yy6zMAOgCXc"
         },
         {
           "url": "https://n46db.com/song.php?songcode=b001b",
@@ -12121,7 +12243,8 @@
           ],
           "formation": [],
           "type": "ソロ曲",
-          "youtube_id": "0-_fAbp5tFQ"
+          "youtube_id": "0-_fAbp5tFQ",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=b001c",
@@ -12149,7 +12272,8 @@
           ],
           "formation": [],
           "type": "ソロ曲",
-          "youtube_id": "chjurUT5I2g"
+          "youtube_id": "chjurUT5I2g",
+          "mv_youtube_id": "Ypx_A6No600"
         },
         {
           "url": "https://n46db.com/song.php?songcode=b001d",
@@ -12238,7 +12362,8 @@
             ]
           ],
           "type": "2期生曲",
-          "youtube_id": "RjGaYoziIYY"
+          "youtube_id": "RjGaYoziIYY",
+          "mv_youtube_id": "Ypx_A6No600"
         }
       ],
       "versions": {
@@ -12339,7 +12464,8 @@
             ]
           ],
           "type": "全員＋OG",
-          "youtube_id": "Roq5L_qHzuw"
+          "youtube_id": "Roq5L_qHzuw",
+          "mv_youtube_id": "Ypx_A6No600"
         }
       ],
       "versions": {
