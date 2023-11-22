@@ -21,6 +21,19 @@ for release_type in data:
             release["date"].replace("年", "").replace("月", "").replace("日", "")
         )
 
+with open("youtube-mv.json", mode="r") as src:
+    mv_data = json.load(src)
+    for mv in mv_data:
+        flag = True
+        for release_type in data:
+            for release in data[release_type]:
+                for track in release["tracks"]:
+                    if track["name"] in mv[0]:
+                        track["mv_youtube_id"] = mv[1]
+                        flag = False
+        if flag:
+            print(mv)
+
 
 # Write back the JSON data with increased indentation
 with open("discography.json", mode="w", encoding="utf-8") as src:
